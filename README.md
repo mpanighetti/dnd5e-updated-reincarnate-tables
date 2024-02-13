@@ -36,6 +36,8 @@ _One Grung Above_ © 2017 Wizards of the Coast LLC.
 
 _Sword Coast Adventurer's Guide_ © 2018 Wizards of the Coast LLC.
 
+_Mordenkainen's Tome of Foes_ © 2018 Wizards of the Coast LLC.
+
 _Guildmasters' Guide to Ravnica_ © 2018 Wizards of the Coast LLC.
 
 _Acquisitions Incorporated_ © 2019 Wizards of the Coast LLC.
