@@ -306,7 +306,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2  | Dragonmarked Half-Orc (roll on **Dragonmarked Half-Orc** table for dragonmark) |
 
 ##### Dragonmarked Half-Orcs
-| d6 |          Dragonmark          |
+| d2 |          Dragonmark          |
 |:--:|:-----------------------------|
 | 1  |   Mark of Finding Half-Orc   |
 | 2  | Aberrant Dragonmark Half-Orc |
