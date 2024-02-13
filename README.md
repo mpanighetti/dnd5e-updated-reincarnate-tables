@@ -16,7 +16,7 @@ A 5e homebrew supplement updating the _reincarnate_ spell with a series of table
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. This document uses the term "species" in place of "race" and "ancestry" or "lineage" in place of "subrace" where used in the _Systems Reference Document_.
+This content was written to be compatible with Dungeons & Dragons 5th Edition. This document uses the term "species" in place of "race" and "ancestry" in place of "subrace" where used in the _Systems Reference Document_.
 
 ## License
 
