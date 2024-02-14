@@ -31,28 +31,28 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |  d100 |   Species    |
 |:-----:|:-------------|
 |  1-2  |   Aarakocra  |
-|  3-4  | Aasimar (roll on **Aasimar** table for ancestry) |
+|  3-4  | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
 |  5-6  |  Autognome   |
 |  7-8  |   Centaur    |
 |  9-10 |  Changeling  |
 | 11-12 |   Dhampir    |
-| 13-14 | Dragonborn (roll on **Draconic Ancestor** table for ancestry) |
-| 15-16 | Dwarf (roll on **Dwarves** table for ancestry) |
-| 17-18 | Elf (roll on **Elven Lineages** table for ancestry) |
+| 13-14 | Dragonborn (roll on **[Draconic Ancestor](#draconic-ancestor)** table for ancestry) |
+| 15-16 | Dwarf (roll on **[Dwarves](#dwarves)** table for ancestry) |
+| 17-18 | Elf (roll on **[Elven Lineages](#elven-lineages)** table for ancestry) |
 | 19-20 |    Fairy     |
 | 21-22 |   Firbolg    |
-| 23-24 | Genasi (roll on **Genasi** table for ancestry) |
+| 23-24 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
 | 25-26 |     Giff     |
-| 27-28 | Gith (roll on **Gith** table for ancestry) |
-| 29-30 | Gnome (roll on **Gnomish Lineages** table for ancestry) |
-| 31-32 | Goblinoid (roll on **Goblinoids** table for ancestry) |
-| 33-34 |  Goliath (roll on **Giant Ancestry** table for ancestry) |
+| 27-28 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 29-30 | Gnome (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
+| 31-32 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for ancestry) |
+| 33-34 |  Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
 | 35-36 |    Grung     |
 | 37-38 |   Hadozee    |
-| 39-40 | Halfling (roll on **Halflings** table for ancestry) |
+| 39-40 | Halfling (roll on **[Halflings](#halflings)** table for ancestry) |
 | 41-42 |   Harengon   |
 | 43-44 |   Hexblood   |
-| 45-46 | Human (roll on **Humans** table for ancestry) |
+| 45-46 | Human (roll on **[Humans](#humans)** table for ancestry) |
 | 47-48 |   Kalashtar  |
 | 49-50 |    Kender    |
 | 51-52 |    Kenku     |
@@ -62,16 +62,16 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 59-60 |   Locathah   |
 | 61-62 |    Loxodon   |
 | 63-64 |   Minotaur   |
-| 65-66 | Orc (roll on **Orcs** table for ancestry) |
+| 65-66 | Orc (roll on **[Orcs](#orcs)** table for ancestry) |
 | 67-68 |     Owlin    |
 | 69-70 |   Plasmoid   |
 | 71-72 |    Reborn    |
 | 73-74 |    Satyr     |
-| 75-76 | Shifter (roll on **Shifters** table for ancestry) |
+| 75-76 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
 | 77-78 | Simic Hybrid |
 | 79-80 |    Tabaxi    |
 | 81-82 |  Thri-kreen  |
-| 83-84 | Tiefling (roll on **Fiendish Legacies** table for ancestry) |
+| 83-84 | Tiefling (roll on **[Fiendish Legacies](#fiendish-legacies)** table for ancestry) |
 | 85-86 |    Tortle    |
 | 87-88 |    Triton    |
 | 89-90 |   Vedalken   |
@@ -79,6 +79,8 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 93-94 |   Warforged  |
 | 95-96 |   Yuan-ti    |
 | 97-100| Reroll on this table and take the new result. |
+
+[^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
 ### Aasimar
 | d4 |     Ancestry      |
@@ -91,10 +93,10 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 ### Draconic Ancestor
 | d5 |        Ancestry        |
 |:--:|:-----------------------|
-| 1  | Chromatic Dragonborn (roll on **Chromatic Dragonborn** table for color) |
+| 1  | Chromatic Dragonborn (roll on **[Chromatic Dragonborn](#chromatic-dragonborn)** table for color) |
 | 2  | Draconblood Dragonborn |
-| 3  |     Gem Dragonborn (roll on **Gem Dragonborn** table for gemstone) |
-| 4  |   Metallic Dragonborn (roll on **Metallic Dragonborn** table for metal) |
+| 3  |     Gem Dragonborn (roll on **[Gem Dragonborn](#gem-dragonborn)** table for gemstone) |
+| 4  |   Metallic Dragonborn (roll on **[Metallic Dragonborn](#metallic-dragonborn)** table for metal) |
 | 5  |   Ravenite Dragonborn  |
 
 #### Chromatic Dragonborn
@@ -130,7 +132,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |        Duergar        |
 | 2  |       Hill Dwarf      |
 | 3  |     Mountain Dwarf    |
-| 4  | Dragonmarked Dwarf (roll on **Dragonmarked Dwarves** table for dragonmark) |
+| 4  | Dragonmarked Dwarf (roll on **[Dragonmarked Dwarves](#dragonmarked-dwarves)** table for dragonmark) |
 
 #### Dragonmarked Dwarves
 | d2 |        Dragonmark         |
@@ -144,13 +146,13 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |      Astral Elf    |
 | 2  |         Drow       |
 | 3  |        Eladrin     |
-| 4  | Half-Elf (roll on **Half-Elves** table for variant) |
-| 5  | High Elf (roll on **High Elves** table for variant) |
+| 4  | Half-Elf (roll on **[Half-Elves](#half-elves)** table for variant) |
+| 5  | High Elf (roll on **[High Elves](#high-elves)** table for variant) |
 | 6  |      Pallid Elf    |
 | 7  |       Sea Elf      |
 | 8  |      Shadar-kai    |
-| 9  | Wood Elf (roll on **Wood Elves** table for variant) |
-| 10 | Dragonmarked Elf (roll on **Dragonmarked Elves** table for dragonmark) |
+| 9  | Wood Elf (roll on **[Wood Elves](#wood-elves)** table for variant) |
+| 10 | Dragonmarked Elf (roll on **[Dragonmarked Elves](#dragonmarked-elves)** table for dragonmark) |
 
 #### Half-Elves
 | d6 |          Variant           |
@@ -160,7 +162,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3  |       Drow Half-Elf        |
 | 4  |       High Half-Elf        |
 | 5  |       Wood Half-Elf        |
-| 6  | Dragonmarked Half-Elf (roll on **Dragonmarked Half-Elf** table for dragonmark) |
+| 6  | Dragonmarked Half-Elf (roll on **[Dragonmarked Half-Elves](#dragonmarked-half-elves)** table for dragonmark) |
 
 ##### Dragonmarked Half-Elves
 | d3 |         Dragonmark           |
@@ -195,10 +197,12 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |  Abyssal Tiefling |
 | 2  | Chthonic Tiefling |
 | 3  |   Feral Tiefling  |
-| 4  | Infernal Tiefling (roll on **Infernal Tieflings** table for variant) |
+| 4  | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^😈] table for variant) |
 | 5  |  Variant Tiefling |
 
-#### Infernal Tieflings[^😈]
+[^😈]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to a Tiefling in the _Player's Handbook_ or an Infernal Tiefling in the _2024 Player's Handbook_.
+
+#### Infernal Tieflings
 | d9 |        Variant          |
 |:--:|:------------------------|
 | 1  |   Asmodeus Tiefling     |
@@ -211,8 +215,6 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 8  | Mephistopheles Tiefling |
 | 9  |    Zariel Tiefling      |
 
-[^😈]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to a Tiefling in the _Player's Handbook_ or an Infernal Tiefling in the _2024 Player's Handbook_.
-
 ### Genasi
 | d4 |   Ancestry   |
 |:--:|:-------------|
@@ -221,7 +223,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3  | Fire Genasi  |
 | 4  | Water Genasi |
 
-### Giant Ancestry[^🧌]
+### Giant Ancestry
 | d6 |        Ancestry      |
 |:--:|:---------------------|
 | 1  | Cloud Giant Goliath  |
@@ -230,8 +232,6 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 4  |  Hill Giant Goliath  |
 | 5  | Stone Giant Goliath  |
 | 6  | Storm Giant Goliath  |
-
-[^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
 ### Gith
 | d2| Ancestry  |
@@ -245,7 +245,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |      Deep Gnome        |
 | 2  |     Forest Gnome       |
 | 3  |      Rock Gnome        |
-| 4  | Dragonmarked Gnome (roll on **Dragonmarked Gnome** table for dragonmark) |
+| 4  | Dragonmarked Gnome (roll on **[Dragonmarked Gnomes](#dragonmarked-gnomes)** table for dragonmark) |
 
 #### Dragonmarked Gnomes
 | d2 |        Dragonmark         |
@@ -267,7 +267,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2  |     Lightfoot Halfling       |
 | 3  |     Lotusden Halfling        |
 | 4  |      Stout Halfling          |
-| 5  | Dragonmarked Halfling (roll on **Dragonmarked Halflings** table for dragonmark) |
+| 5  | Dragonmarked Halfling (roll on **[Dragonmarked Halflings](#dragonmarked-halflings)** table for dragonmark) |
 
 #### Dragonmarked Halflings
 | d3 |         Dragonmark           |
@@ -281,7 +281,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |:--:|:-------------------------|
 | 1  |          Human           |
 | 2  |      Variant Human       |
-| 3  | Dragonmarked Human (roll on **Dragonmarked Human** table for dragonmark) |
+| 3  | Dragonmarked Human (roll on **[Dragonmarked Humans](#dragonmarked-humans)** table for dragonmark) |
 
 #### Dragonmarked Humans
 | d6 |        Dragonmark         |
@@ -297,13 +297,13 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | d2 | Ancestry|
 |:--:|:--------|
 | 1  |   Orc   |
-| 2  | Half-Orc (roll on **Half-Orc** table for variant) |
+| 2  | Half-Orc (roll on **[Half-Orcs](#half-orcs)** table for variant) |
 
 #### Half-Orcs
 | d2 |        Variant           |
 |:--:|:-------------------------|
 | 1  |       Half-Orc           |
-| 2  | Dragonmarked Half-Orc (roll on **Dragonmarked Half-Orc** table for dragonmark) |
+| 2  | Dragonmarked Half-Orc (roll on **[Dragonmarked Half-Orcs](#dragonmarked-half-orcs)** table for dragonmark) |
 
 ##### Dragonmarked Half-Orcs
 | d2 |          Dragonmark          |
