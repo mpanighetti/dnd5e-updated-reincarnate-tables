@@ -19,7 +19,7 @@ _Reincarnate_. We love it! It's a perfect spell, best way to bring back allies f
 - **The lineages from Van Richten's Guide to Ravenloft are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 - **Species with dragonmark ancestries roll for dragonmark on a separate table.** This avoids an uneven distribution of Eberron-to-multiverse odds when rolling on some species tables, particularly the Human table. All species with the possibility of having ancestral dragonmarks will have a single "Dragonmarked" option on their species tables, prompting a separate roll for dragonmark.
 
-## Who Even Uses This Terrible Spell?
+## Who even uses this terrible spell?
 
 Someone probably does! This document can also just act as a dice-driven randomizer to use during character creation. If we're not sharing giant lists of homebrew tables every once in awhile, we're not doing D&D right.
 
@@ -46,7 +46,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 27-28 | Gith (roll on **Gith** table for ancestry) |
 | 29-30 | Gnome (roll on **Gnomish Lineages** table for ancestry) |
 | 31-32 | Goblinoid (roll on **Goblinoids** table for ancestry) |
-| 33-34 |  Goliath (roll on **Goliaths** table for Giant Ancestry) |
+| 33-34 |  Goliath (roll on **Giant Ancestry** table for ancestry) |
 | 35-36 |    Grung     |
 | 37-38 |   Hadozee    |
 | 39-40 | Halfling (roll on **Halflings** table for ancestry) |
@@ -198,8 +198,8 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 4  | Infernal Tiefling (roll on **Infernal Tieflings** table for variant) |
 | 5  |  Variant Tiefling |
 
-#### Infernal Tieflings
-| d9 |  Infernal Variant[^😈]  |
+#### Infernal Tieflings[^😈]
+| d9 |        Variant          |
 |:--:|:------------------------|
 | 1  |   Asmodeus Tiefling     |
 | 2  |  Baalzebul Tiefling     |
@@ -211,15 +211,27 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 8  | Mephistopheles Tiefling |
 | 9  |    Zariel Tiefling      |
 
-[^😈]: These classifications of tiefling ancestries were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to a Tiefling in the _Player's Handbook_ or an Infernal Tiefling in the _2024 Player's Handbook_.
+[^😈]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to a Tiefling in the _Player's Handbook_ or an Infernal Tiefling in the _2024 Player's Handbook_.
 
 ### Genasi
-| d4 |  Ancestry    |
+| d4 |   Ancestry   |
 |:--:|:-------------|
 | 1  |  Air Genasi  |
 | 2  | Earth Genasi |
 | 3  | Fire Genasi  |
 | 4  | Water Genasi |
+
+### Giant Ancestry[^🧌]
+| d6 |        Ancestry      |
+|:--:|:---------------------|
+| 1  | Cloud Giant Goliath  |
+| 2  |  Fire Giant Goliath  |
+| 3  | Frost Giant Goliath  |
+| 4  |  Hill Giant Goliath  |
+| 5  | Stone Giant Goliath  |
+| 6  | Storm Giant Goliath  |
+
+[^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
 ### Gith
 | d2| Ancestry  |
@@ -247,18 +259,6 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 1  |  Bugbear  |
 | 2  |  Goblin   |
 | 3  | Hobgoblin |
-
-### Goliaths
-| d6 |  Giant Ancestry[^🧌] |
-|:--:|:---------------------|
-| 1  | Cloud Giant Goliath  |
-| 2  |  Fire Giant Goliath  |
-| 3  | Frost Giant Goliath  |
-| 4  |  Hill Giant Goliath  |
-| 5  | Stone Giant Goliath  |
-| 6  | Storm Giant Goliath  |
-
-[^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
 ### Halflings
 | d5 |          Ancestry            |
