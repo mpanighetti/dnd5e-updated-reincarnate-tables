@@ -16,7 +16,7 @@ _Reincarnate_. We love it! It's a perfect spell, best way to bring back allies f
 - **Species and ancestries that have been revised over time are listed as single entries.** An example of this is the chromatic dragonborn; even though they have been printed with differing species traits over the years, they have the same color options in the _Player's Handbook_, _Fizban's Treasury of Dragons_, and the _2024 Player's Handbook_, and thus will be considered the same options for _reincarnate_ to avoid adding more complexity than this document already manages. The Dungeon Master will be the ultimate arbiter over which variant to use when multiples exist, but the general recommendation would be to use whatever book the DM or a player already owns to avoid buying new material just based on silly table rolls for extreme game edge cases.
 - **New associations have been formed for legacy species based on mixed parentage.** Specifically, this document considers the half-elf and half-orc species to be ancestries of elves and orcs respectively. These two species options are being phased out of the game as of _2024 Player's Handbook_ in favor of removing mixed parentage from consideration for mechanical traits, but they will remain in this document, as all 5e species and ancestries remain supported by the core game rules, even if in older superseded books.
 - **Bugbears, goblins, and hobgoblins are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving them the shared "goblinoid" creature tag and the Fey Ancestry trait.
-- **The lineages from Van Richten's Guide to Ravenloft are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
+- **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 - **Species with multiple possible dragonmark ancestries roll for dragonmark on a separate table.** This avoids an uneven distribution of Eberron-to-multiverse odds when rolling on some species tables, particularly the Human table. All species with the possibility of having multiple ancestral dragonmarks will have a single "Dragonmarked" option on their species tables, prompting a separate roll for dragonmark (aberrant dragonmarks are not included since this is provided as a feat rather than a species option).
 
 ## Who even uses this terrible spell?
@@ -78,7 +78,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 91-92 |    Verdan    |
 | 93-94 |   Warforged  |
 | 95-96 |   Yuan-ti    |
-| 97-100| Reroll on this table and take the new result. |
+| 97-100| Re-roll on this table and take the new result. |
 
 [^🧌]: The Giant Ancestry option was added in the _2024 Player's Handbook_. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
 
