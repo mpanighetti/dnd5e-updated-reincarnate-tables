@@ -18,3 +18,8 @@
 ## Who even uses this terrible spell?
 
 Someone probably does! This document can also just act as a dice-driven randomizer to use during character creation. If we're not sharing giant lists of homebrew tables every once in awhile, we're not doing D&D right.
+
+---
+
+| [Chapter 2: Reincarnate](ch-2-reincarnate.md) ➡️ |
+|-:|
