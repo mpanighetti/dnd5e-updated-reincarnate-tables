@@ -266,3 +266,8 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2  |  Longtooth  |
 | 3  | Swiftstride |
 | 4  |  Wildhunt   |
+
+---
+
+| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) |
+|:-|
