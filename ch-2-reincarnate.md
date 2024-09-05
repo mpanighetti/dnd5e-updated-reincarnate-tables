@@ -103,7 +103,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 ### Dwarves
 | d4 | Ancestry |
 |:-:|:-|
-| 1 | Dwarf[^📒1️⃣][^🪓] |
+| 1 | Dwarf[^🆓2️⃣][^🪓] |
 | 2 | Duergar[^👹] |
 | 3 | Mark of Warding Dwarf[^⚙️] |
 | 4 | Mountain Dwarf[^🔰1️⃣] |
@@ -112,7 +112,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | d10 | Ancestry |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
-| 2 | Drow[^🔰2️⃣] |
+| 2 | Drow[^🆓2️⃣] |
 | 3 | Eladrin[^👹] |
 | 4 | Half-Elf (roll on **[Half-Elves](#half-elves)** table for variant) |
 | 5 | High Elf (roll on **[High Elves](#high-elves)** table for variant) |
@@ -141,14 +141,14 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 #### High Elves
 | d3 | Variant |
 |:--:|:-|
-| 1 | High Elf[^📒1️⃣] |
+| 1 | High Elf[^🆓2️⃣] |
 | 2 | Aereni High Elf[^🧭] |
 | 3 | Valenar High Elf[^🧭] |
 
 #### Wood Elves
 | d3 | Variant |
 |:--:|:-|
-| 1 | Wood Elf[^🔰2️⃣] |
+| 1 | Wood Elf[^🆓2️⃣] |
 | 2 | Aereni Wood Elf[^🧭] |
 | 3 | Valenar Wood Elf[^🧭] |
 
@@ -164,7 +164,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 #### Infernal Tieflings
 | d9 | Variant |
 |:--:|:-|
-| 1 | Asmodeus Tiefling[^📒1️⃣] |
+| 1 | Infernal Tiefling[^📒1️⃣] |
 | 2 | Baalzebul Tiefling[^👺] |
 | 3 | Dispater Tiefling[^👺] |
 | 4 | Fierna Tiefling[^👺] |
@@ -216,7 +216,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 ### Halflings
 | d5 | Ancestry |
 |:-:|:-|
-| 1 | Halfling[^📒1️⃣][^🥑] |
+| 1 | Halfling[^🆓2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^⏳] |
 | 3 | Lotusden Halfling[^⏳] |
 | 4 | Stout Halfling[^🔰1️⃣] |
@@ -231,7 +231,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 ### Humans
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Human[^🔰2️⃣] |
+| 1 | Human[^🆓2️⃣] |
 | 2 | Human (legacy)[^📒1️⃣][^👤] |
 | 3 | Dragonmarked Human (roll on **[Dragonmarked Humans](#dragonmarked-humans)** table for dragonmark) |
 
@@ -270,6 +270,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |:-|
 
 [^💰]: Source: _Acquisitions Incorporated_
+[^🆓2️⃣]: Source: _D&D Free Rules (2024)_
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
 [^🦹1️⃣]: Source: _Dungeon Master's Guide (2014)_
 [^🦹2️⃣]: Source: _Dungeon Master's Guide (2024)_
@@ -288,12 +289,11 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^🎓]: Source: _Strixhaven: Curriculum of Chaos_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^📒1️⃣]: Source: _Systems Reference Document 5.1_
-[^📒2️⃣]: Source: _Systems Reference Document 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
-[^🪓]: The dwarf was updated in the _Player's Handbook (2024)_ to remove ancestry selection. In terms of species traits, a Dwarf is equivalent to a Hill Dwarf in _Systems Reference Document 5.1_.
+[^🪓]: The dwarf was updated in _D&D Free Rules (2024)_ to remove ancestry selection. In terms of species traits, a Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
 [^🧌]: The goliath was updated in the _Player's Handbook (2024)_ to provide a Giant Ancestry option. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_.
-[^🥑]: The halfling was updated in the _Player's Handbook (2024)_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _Systems Reference Document 5.1_.
-[^👤]: The human was updated in the _Player's Handbook (2024)_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_, and a Human (legacy) is equivalent to a Human in _Systems Reference Document 5.1_.
-[^😈]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to a Tiefling in _Systems Reference Document 5.1_ or an Infernal Tiefling in the _Player's Handbook (2024)_.
+[^🥑]: The halfling was updated in _D&D Free Rules (2024)_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_.
+[^👤]: The human was updated in _D&D Free Rules (2024)_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_, and a Human (legacy) is equivalent to a Human in _SRD 5.1_.
+[^😈]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. In terms of species traits, an Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_.
