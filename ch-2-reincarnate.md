@@ -1,6 +1,6 @@
 # Chapter 2: [Reincarnate](https://github.com/mpanighetti/dnd5e-spells/blob/main/spell-options/reincarnate.md)
 
-The **Reincarnation Options** table and all subsequent tables below can optionally replace the table found in the _reincarnate_ spell's description.
+The **Reincarnation Options** table and all subsequent tables below can optionally replace the table found in the _reincarnate_ spell's description. Additionally, the _reincarnate_ spell can optionally target any dead creature or piece of one, instead of just Humanoids, as long as they are one of the species and ancestries listed in the tables below.
 
 ### Reincarnation Options
 | d100 | Species |
