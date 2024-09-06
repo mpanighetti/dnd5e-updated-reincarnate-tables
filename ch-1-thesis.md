@@ -2,9 +2,8 @@
 
 ## Goals
 
-- **We need to replace the d100 table built into the _reincarnate_ spell to allow the possibility of reincarnating into every playable species and ancestry officially released for Dungeon & Dragons 5th Edition.**
-- The current d100 table has weighted odds based on specific species, but for this spell to truly shine as properly weird-and-wild-nature-magic-y and not assume a given distribution as being typical to every world in the multiverse, **all species and all ancestries should have roughly equal odds by default.**
-- **Dungeon Masters should be empowered to apply custom weighting of results based on the species and ancestries typically found in their given setting**, excluding some species or giving other species different odds. One example of a possible exception to equal distribution might be a world where intelligent constructs such as autognomes and warforged do not exist. The recommended solution for this situation is to re-roll if the d100 lands on a species that does not exist in the DM's game world. They could also give other species the dice results of excluded species to increase their odds, making the table more closely resemble that of the original spell text.
+- As of _Player's Handbook (2024)_ and _D&D Free Rules (2024)_, the _reincarnate_ spell only provides options for dead Humanoids to be reincarnated as one of the 10 Humanoid species available to play in that book. Instead, **we need to replace the table built into the _reincarnate_ spell to allow the equal possibility of targeting and reincarnating into every playable species, ancestry, and creature type officially released as character options for Dungeon & Dragons 5th Edition.**
+- **Dungeon Masters should be empowered to apply custom weighting of results based on the species, ancestries, and creature types typically found in their given setting**, excluding some species or giving other species different odds. One example of a possible exception to equal distribution might be a world where intelligent constructs such as autognomes and warforged do not exist. The recommended solution for this situation is to re-roll if the d100 lands on a species that does not exist in the DM's game world. They could also give other species the dice results of excluded species to increase their odds, making the table more closely resemble that of the _Systems Reference Document 5.1_ version of the spell description. Though we still believe that equal odds and all options are preferable by default, DMs should always be the final decision-makers for their implementation of house rules.
 
 ## Assumptions
 
@@ -27,6 +26,10 @@ This ensures that freely available resources are referenced whenever possible, a
 ## Who even uses this terrible spell?
 
 Someone probably does! This document can also just act as a dice-driven randomizer to use during character creation. If we're not sharing giant lists of homebrew tables every once in awhile, we're not doing D&D right.
+
+## Accomplishments
+
+- As of _Player's Handbook (2024)_ and _D&D Free Rules (2024)_, the _reincarnate_ spell table no longer has weighted odds favoring some species over others, allowing for this spell to truly shine as properly weird-and-wild-nature-magic-y and not assume a given distribution as being typical to every world in the multiverse. We celebrate this change and take full credit for it, assuming this to be a direct response to this project and thesis.
 
 ---
 
