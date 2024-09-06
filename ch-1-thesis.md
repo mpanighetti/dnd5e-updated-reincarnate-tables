@@ -16,7 +16,7 @@
   2. Sources containing the most species options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ over _Volo's Guide to Monsters_)
   3. The most modern sources (e.g. _Player's Handbook (2024)_ over _Player's Handbook (2014)_)
 
-This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases.
+  This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases.
 
 - **New associations have been formed for legacy species based on mixed parentage.** Specifically, this document considers the half-elf and half-orc species to be ancestries of elves and orcs respectively. These two species options are being phased out of the game as of _Player's Handbook (2024)_ in favor of removing mixed parentage from consideration for mechanical traits, but they will remain in this document, as all 5e species and ancestries remain supported by the core game rules, even if in older superseded or legacy sources.
 - **Bugbears, goblins, and hobgoblins are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving them the shared "goblinoid" creature tag and the Fey Ancestry trait.
