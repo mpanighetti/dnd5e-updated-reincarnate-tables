@@ -10,7 +10,7 @@ _Reincarnate_. We love it! It's a perfect spell, best way to bring back allies f
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
+This work is compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
 
 - "Species" is used in place of "race". "Ancestry" or "variant" is used in place of "subrace".
 
