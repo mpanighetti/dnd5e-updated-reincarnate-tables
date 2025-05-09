@@ -41,7 +41,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 34 | Locathah[^🐟] |
 | 35 | Loxodon[^🏙️] |
 | 36 | Merfolk (roll on **[Merfolk](#merfolk)** table for ancestry) |
-| 37 | Minotaur[^☥] |
+| 37 | Minotaur(roll on **[Minotaur](#minotaur)** table for ancestry) |
 | 38 | Naga[^☥] |
 | 39 | Orc (roll on **[Orcs](#orcs)** table for ancestry) |
 | 40 | Owlin[^🎓] |
@@ -57,7 +57,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 50 | Tortle[^👹] |
 | 51 | Triton[^👹] |
 | 52 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 53 | Vedalken[^🕰️] |
+| 53 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
 | 54 | Verdan[^💰] |
 | 55 | Warforged[^⚙️] |
 | 56 | Yuan-ti[^👹] |
@@ -123,16 +123,23 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹] |
-| 3 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
-| 4 | Kaladesh Dwarf[^🕰️] |
-| 5 | Mark of Warding Dwarf[^⚙️] |
+| 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
+| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
+| 5 | Kaladesh Dwarf[^🕰️] |
 | 6 | Mountain Dwarf[^🔰1️⃣] |
 
-#### Forgotten Realms Dwarves
-| d3 | Ancestry |
+#### Eberron Dwarf
+| d3 | Variant |
 |:-:|:-|
-| 1 | Gold Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹] |
+| 1 | Dwarf[^📒2️⃣][^🪓] |
+| 2 | Mark of Warding Dwarf[^⚙️] |
+| 3 | Mountain Dwarf[^🔰1️⃣] |
+
+#### Forgotten Realms Dwarves
+| d3 | Variant |
+|:-:|:-|
+| 1 | Duergar[^👹] |
+| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
 | 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elven Lineages
@@ -153,15 +160,19 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 13 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
 #### Eberron Elves
-| d7 | Variant |
+| d11 | Variant |
 |:-:|:-|
-| 1 | Mark of Detection Half-Elf[^⚙️] |
-| 2 | Aereni High Elf[^🧭] |
-| 3 | Aereni Wood Elf[^🧭] |
-| 4 | Mark of Shadow Elf[^⚙️] |
-| 5 | Mark of Storm Half-Elf[^⚙️] |
-| 6 | Valenar High Elf[^🧭] |
-| 7 | Valenar Wood Elf[^🧭] |
+| 1 | Aereni High Elf[^🧭] |
+| 2 | Aereni Wood Elf[^🧭] |
+| 3 | Drow[^📒2️⃣] |
+| 4 | Half-Elf[^📒1️⃣] |
+| 5 | High Elf[^📒2️⃣] |
+| 6 | Mark of Detection Half-Elf[^⚙️] |
+| 7 | Mark of Shadow Elf[^⚙️] |
+| 8 | Mark of Storm Half-Elf[^⚙️] |
+| 9 | Valenar High Elf[^🧭] |
+| 10 | Valenar Wood Elf[^🧭] |
+| 11 | Wood Elf[^📒2️⃣] |
 
 #### Exandrian Elves
 | d6 | Variant |
@@ -261,14 +272,21 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 ### Gnomish Lineages
 | d5 | Ancestry |
 |:-:|:-|
-| 1 | Exandrian or Forgotten Realms Gnome (roll on **[Exandrian or Forgotten Realms Gnomes](#exandrian-or-forgotten-realms-gnome)** table for variant) |
-| 2 | Forest Gnome[^📒2️⃣] |
-| 3 | Mark of Scribing Gnome[^⚙️] |
+| 1 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
+| 2 | Exandrian or Forgotten Realms Gnome (roll on **[Exandrian or Forgotten Realms Gnomes](#exandrian-or-forgotten-realms-gnomes)** table for variant) |
+| 3 | Forest Gnome[^📒2️⃣] |
 | 4 | Rock Gnome[^📒2️⃣] |
 | 5 | Svirfneblin[^👹] |
 
+#### Eberron Gnome
+| d3 | Variant |
+|:-:|:-|
+| 1 | Forest Gnome[^📒2️⃣] |
+| 2 | Mark of Scribing Gnome[^⚙️] |
+| 3 | Rock Gnome[^📒2️⃣] |
+
 #### Exandrian or Forgotten Realms Gnomes
-| d3 | Ancestry |
+| d3 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Rock Gnome[^📒2️⃣] |
@@ -300,8 +318,10 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 #### Eberron Halflings
 | d2 | Dragonmark |
 |:-:|:-|
-| 1 | Mark of Healing Halfling[^⚙️] |
-| 2 | Mark of Hospitality Halfling[^⚙️] |
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 2 | Mark of Healing Halfling[^⚙️] |
+| 3 | Mark of Hospitality Halfling[^⚙️] |
+| 4 | Stout Halfling[^🔰1️⃣] |
 
 #### Exandrian Halflings
 | d3 | Variant |
@@ -313,7 +333,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 #### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^🥑] |
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
 | 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
@@ -327,13 +347,15 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 5 | Keldon Human[^🛡️] |
 
 #### Eberron Humans
-| d5 | Dragonmark |
+| d7 | Dragonmark |
 |:-:|:-|
-| 1 | Mark of Finding Human[^⚙️] |
-| 2 | Mark of Handling Human[^⚙️] |
-| 3 | Mark of Making Human[^⚙️] |
-| 4 | Mark of Passage Human[^⚙️] |
-| 5 | Mark of Sentinel Human[^⚙️] |
+| 1 | Human[^📒2️⃣][^👤] |
+| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 3 | Mark of Finding Human[^⚙️] |
+| 4 | Mark of Handling Human[^⚙️] |
+| 5 | Mark of Making Human[^⚙️] |
+| 6 | Mark of Passage Human[^⚙️] |
+| 7 | Mark of Sentinel Human[^⚙️] |
 
 #### Innistrad Provinces
 | d4 | Provincial Origin |
@@ -352,32 +374,47 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 4 | Blue Merfolk[^🦕] |
 | 5 | Ula (Water) Creed Merfolk[^🌴] |
 
-### Orcs
-| d2 | Ancestry|
+### Minotaur
+| d2 | Ancestry |
 |:-:|:-|
-| 1 | Orc[^📒2️⃣] |
-| 2 | Half-Orc (roll on **[Half-Orcs](#half-orcs)** table for variant) |
+| 1 | Minotaur[^👹] |
+| 2 | Amonkhet Minotaur[^☥] |
 
-#### Half-Orcs
-| d2 | Variant |
+### Orcs
+| d3 | Ancestry|
+|:-:|:-|
+| 1 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
+| 2 | Orc[^📒2️⃣] |
+| 3 | Half-Orc[^📒1️⃣] |
+
+#### Eberron Orcs
+| d3 | Variant |
 |:-:|:-|
 | 1 | Half-Orc[^📒1️⃣] |
 | 2 | Mark of Finding Half-Orc[^⚙️] |
+| 3 | Orc[^📒2️⃣] |
 
 ### Shifters
-| d4 | Ancestry |
+| d5 | Ancestry |
 |:-:|:-|
-| 1 | Beasthide[^👹] |
-| 2 | Longtooth[^👹] |
-| 3 | Swiftstride[^👹] |
-| 4 | Wildhunt[^👹] |
+| 1 | Shifter[^👹][^🌙] |
+| 1 | Beasthide[^⚙️] |
+| 2 | Longtooth[^⚙️] |
+| 3 | Swiftstride[^⚙️] |
+| 4 | Wildhunt[^⚙️] |
 
 ### Vampires
-
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Ixalan Vampire[^🦕] |
 | 2 | Zendikar Vampire[^🌴] |
+
+### Vedalken
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Kaladesh Vedalken[^🕰️] |
+| 2 | Ravnica Vedalken[^🏙️] |
+
 ---
 
 | ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) |
@@ -416,5 +453,6 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
 [^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
 [^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
+[^🌙]: The shifter was updated in _Mordenkainen's Monsters of the Multiverse to remove ancestry selection. The updated shifter is not equivalent to any single prior shifter option.
 [^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. In terms of species traits, an Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
 [^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
