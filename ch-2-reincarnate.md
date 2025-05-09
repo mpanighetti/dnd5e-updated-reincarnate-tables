@@ -143,7 +143,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elven Lineages
-| d13 | Ancestry |
+| d14 | Ancestry |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
 | 2 | Drow[^📒2️⃣] |
@@ -154,10 +154,11 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 7 | Half-Elf[^📒1️⃣] |
 | 8 | High Elf[^📒2️⃣] |
 | 9 | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
-| 10 | Sea Elf[^👹] |
-| 11 | Shadar-kai[^👹] |
-| 12 | Wood Elf[^📒2️⃣] |
-| 13 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
+| 10 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
+| 11 | Sea Elf[^👹] |
+| 12 | Shadar-kai[^👹] |
+| 13 | Wood Elf[^📒2️⃣] |
+| 14 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
 #### Eberron Elves
 | d11 | Variant |
@@ -205,11 +206,20 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2 | Tirahar Elf[^🕰️] |
 | 3 | Vahadar Elf[^🕰️] |
 
-#### Zendikar Elves
-| d2 | Variant |
+#### Ravnica Elves
+| d4 | Variant |
 |:-:|:-|
-| 1 | Joraga Nation Elf[^🌴] |
+| 1 | Drow[^📒2️⃣] |
+| 2 | Half-Elf[^📒1️⃣] |
+| 3 | High Elf[^📒2️⃣] |
+| 4 | Wood Elf[^📒2️⃣] |
+
+#### Zendikar Elves
+| d3 | Variant |
+|:-:|:-|
+| 1 | Joraga Nation Elf[^🌴][^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
+| 3 | Tajuru Nation Elf[^🌴] |
 
 ### Fiendish Legacies
 | d4 | Ancestry |
@@ -304,7 +314,14 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 |:-:|:-|
 | 1 | Goblin[^👹] |
 | 2 | Ixalan Goblin[^🦕] |
-| 3 | Zendikar Goblin[^🌴] |
+| 3 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
+
+##### Zendikar Goblins
+| d3 | Variant |
+|:-:|:-|
+| 1 | Grotag Tribe Goblin[^🌴] |
+| 2 | Lavastep Tribe Goblin[^🌴] |
+| 3 | Tuktuk Tribe Goblin[^🌴] |
 
 ### Halflings
 | d5 | Ancestry |
@@ -381,7 +398,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2 | Amonkhet Minotaur[^☥] |
 
 ### Orcs
-| d3 | Ancestry|
+| d3 | Ancestry |
 |:-:|:-|
 | 1 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
 | 2 | Orc[^📒2️⃣] |
@@ -449,7 +466,7 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
 [^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. In terms of species traits, a Gold Dwarf is equivalent to a Dwarf in _SRD 5.2_ or a Hill Dwarf in _SRD 5.1_, and a Shield Dwarf is equivalent to a Mountain Dwarf in the _Player's Handbook (2014)_.
-[^🏹]: The elf has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Moon Elf and Sun Elf are equivalent to a High Elf in _SRD 5.2_.
+[^🏹]: The elf has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Moon Elf and Sun Elf are equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
 [^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
 [^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
 [^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
