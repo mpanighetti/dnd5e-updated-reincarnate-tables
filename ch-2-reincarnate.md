@@ -383,13 +383,23 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 4 | Stensia Human[^🧛] |
 
 ### Merfolk
-| d5 | Ancestry |
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Ixalan Merfolk (roll on **[Ixalan Merfolk](#ixalan-merfolk)** table for variant) |
+| 2 | Zendikar Merfolk (roll on **[Zendikar Merfolk](#zendikar-merfolk)** table for variant) |
+
+#### Ixalan Merfolk
+| d2 | Variant |
+|:-:|:-|
+| 1 | Green Merfolk[^🦕] |
+| 2 | Blue Merfolk[^🦕] |
+
+#### Zendikar Merfolk
+| d3 | Variant |
 |:-:|:-|
 | 1 | Cosi Creed Merfolk[^🌴] |
 | 2 | Emeria (Wind) Creed Merfolk[^🌴] |
-| 3 | Green Merfolk[^🦕] |
-| 4 | Blue Merfolk[^🦕] |
-| 5 | Ula (Water) Creed Merfolk[^🌴] |
+| 3 | Ula (Water) Creed Merfolk[^🌴] |
 
 ### Minotaur
 | d2 | Ancestry |
