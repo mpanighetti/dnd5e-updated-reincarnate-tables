@@ -2,7 +2,7 @@
 
 The **Reincarnation Options** table and all subsequent tables below can optionally replace the table found in the _Reincarnate_ spell's description. Additionally, the _Reincarnate_ spell can optionally target any dead creature or piece of one, instead of just Humanoids, as long as they are one of the species and ancestries listed in the tables below.
 
-### Reincarnation Options
+## Reincarnation Options
 | d56 | Species |
 |:---:|:-|
 | 1 | Aarakocra[^👹] |
@@ -475,11 +475,11 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
-[^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. In terms of species traits, a Gold Dwarf is equivalent to a Dwarf in _SRD 5.2_ or a Hill Dwarf in _SRD 5.1_, and a Shield Dwarf is equivalent to a Mountain Dwarf in the _Player's Handbook (2014)_.
+[^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Gold Dwarf is equivalent to a Dwarf in _SRD 5.2_ or a Hill Dwarf in _SRD 5.1_, and a Shield Dwarf is equivalent to a Mountain Dwarf in the _Player's Handbook (2014)_.
 [^🏹]: The elf has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Moon Elf and Sun Elf are equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
-[^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
-[^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
-[^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
-[^🌙]: The shifter was updated in _Mordenkainen's Monsters of the Multiverse to remove ancestry selection. The updated shifter is not equivalent to any single prior shifter option.
-[^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. In terms of species traits, an Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
-[^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
+[^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
+[^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
+[^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. A Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
+[^🌙]: The shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated shifter is not equivalent to any single prior shifter option.
+[^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
+[^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
