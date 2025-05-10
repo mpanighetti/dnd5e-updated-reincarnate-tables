@@ -2,76 +2,88 @@
 
 The **Reincarnation Options** table and all subsequent tables below can optionally replace the table found in the _Reincarnate_ spell's description. Additionally, the _Reincarnate_ spell can optionally target any dead creature or piece of one, instead of just Humanoids, as long as they are one of the species and ancestries listed in the tables below.
 
-### Reincarnation Options
-| d100 | Species |
+## Reincarnation Options
+| d56 | Species |
 |:---:|:-|
-| 1-2 | Aarakocra[^👹] |
-| 3-4 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
-| 5-6 | Autognome[^🛸] |
-| 7-8 | Centaur[^👹] |
-| 9-10 | Changeling[^👹] |
-| 11-12 | Dhampir[^🌫️] |
-| 13-14 | Dragonborn (roll on **[Draconic Ancestor](#draconic-ancestor)** table for ancestry) |
-| 15-16 | Dwarf (roll on **[Dwarves](#dwarves)** table for ancestry) |
-| 17-18 | Elf (roll on **[Elven Lineages](#elven-lineages)** table for ancestry) |
-| 19-20 | Fairy[^👹] |
-| 21-22 | Firbolg[^👹] |
-| 23-24 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 25-26 | Giff[^🛸] |
-| 27-28 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 29-30 | Gnome (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
-| 31-32 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for ancestry) |
-| 33-34 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 35-36 | Grung[^🐸] |
-| 37-38 | Hadozee[^🛸] |
-| 39-40 | Halfling (roll on **[Halflings](#halflings)** table for ancestry) |
-| 41-42 | Harengon[^👹] |
-| 43-44 | Hexblood[^🌫️] |
-| 45-46 | Human (roll on **[Humans](#humans)** table for ancestry) |
-| 47-48 | Kalashtar[^⚙️] |
-| 49-50 | Kender[^🫅] |
-| 51-52 | Kenku[^👹] |
-| 53-54 | Kobold[^👹] |
-| 55-56 | Leonin[^🏺] |
-| 57-58 | Lizardfolk[^👹] |
-| 59-60 | Locathah[^🐟] |
-| 61-62 | Loxodon[^🏙️] |
-| 63-64 | Minotaur[^👹] |
-| 65-66 | Orc (roll on **[Orcs](#orcs)** table for ancestry) |
-| 67-68 | Owlin[^🎓] |
-| 69-70 | Plasmoid[^🛸] |
-| 71-72 | Reborn[^🌫️] |
-| 73-74 | Satyr[^👹] |
-| 75-76 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 77-78 | Simic Hybrid[^🏙️] |
-| 79-80 | Tabaxi[^👹] |
-| 81-82 | Thri-kreen[^🛸] |
-| 83-84 | Tiefling (roll on **[Fiendish Legacies](#fiendish-legacies)**[^😈] table for ancestry) |
-| 85-86 | Tortle[^👹] |
-| 87-88 | Triton[^👹] |
-| 89-90 | Vedalken[^🏙️] |
-| 91-92 | Verdan[^💰] |
-| 93-94 | Warforged[^⚙️] |
-| 95-96 | Yuan-ti[^👹] |
-| 97-100| Re-roll on this table and take the new result. |
+| 1 | Aarakocra[^👹] |
+| 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
+| 3 | Aetherborn[^🕰️] |
+| 4 | Autognome[^🛸] |
+| 5 | Aven (roll on **[Aven](#aven)** table for ancestry) |
+| 6 | Centaur[^👹] |
+| 7 | Changeling[^👹] |
+| 8 | Dhampir[^🌫️] |
+| 9 | Dragonborn (roll on **[Draconic Ancestor](#draconic-ancestor)** table for ancestry) |
+| 10 | Dwarf (roll on **[Dwarves](#dwarves)** table for ancestry) |
+| 11 | Elf (roll on **[Elven Lineages](#elven-lineages)** table for ancestry) |
+| 12 | Fairy[^👹] |
+| 13 | Firbolg[^👹] |
+| 14 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 15 | Giff[^🛸] |
+| 16 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 17 | Gnome (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
+| 18 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for ancestry) |
+| 19 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 20 | Grung[^🐸] |
+| 21 | Hadozee[^🛸] |
+| 22 | Halfling (roll on **[Halflings](#halflings)** table for ancestry) |
+| 23 | Harengon[^👹] |
+| 24 | Hexblood[^🌫️] |
+| 25 | Human (roll on **[Humans](#humans)** table for ancestry) |
+| 26 | Kalashtar[^⚙️] |
+| 27 | Kender[^🫅] |
+| 28 | Kenku[^👹] |
+| 29 | Khenra[^☥] |
+| 30 | Kobold[^👹] |
+| 31 | Kor[^🌴] |
+| 32 | Leonin[^🏺] |
+| 33 | Lizardfolk[^👹] |
+| 34 | Locathah[^🐟] |
+| 35 | Loxodon[^🏙️] |
+| 36 | Merfolk (roll on **[Merfolk](#merfolk)** table for ancestry) |
+| 37 | Minotaur(roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 38 | Naga[^☥] |
+| 39 | Orc (roll on **[Orcs](#orcs)** table for ancestry) |
+| 40 | Owlin[^🎓] |
+| 41 | Plasmoid[^🛸] |
+| 42 | Reborn[^🌫️] |
+| 43 | Satyr[^👹] |
+| 44 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 45 | Simic Hybrid[^🏙️] |
+| 46 | Siren[^🦕] |
+| 47 | Tabaxi[^👹] |
+| 48 | Thri-kreen[^🛸] |
+| 49 | Tiefling (roll on **[Fiendish Legacies](#fiendish-legacies)**[^😈] table for ancestry) |
+| 50 | Tortle[^👹] |
+| 51 | Triton[^👹] |
+| 52 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 53 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 54 | Verdan[^💰] |
+| 55 | Warforged[^⚙️] |
+| 56 | Yuan-ti[^👹] |
 
 ### Aasimar
-| d4 | Ancestry |
-|:-:|:-|
-| 1 | Aasimar[^🔰2️⃣][^🪽] |
-| 1 | Fallen Aasimar[^👹] |
-| 2 | Protector Aasimar[^👹] |
-| 3 | Scourge Aasimar[^👹] |
-| 4 | Variant Aasimar[^🦹] |
-
-### Draconic Ancestor
 | d5 | Ancestry |
 |:-:|:-|
+| 1 | Aasimar[^🔰2️⃣][^🪽] |
+| 2 | Fallen Aasimar[^👹] |
+| 3 | Protector Aasimar[^👹] |
+| 4 | Scourge Aasimar[^👹] |
+| 5 | Variant Aasimar[^🦹] |
+
+### Aven
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Hawk-Headed Aven[^☥] |
+| 2 | Ibis-Headed Aven[^☥] |
+
+### Draconic Ancestor
+| d4 | Ancestry |
+|:-:|:-|
 | 1 | Chromatic Dragonborn (roll on **[Chromatic Dragonborn](#chromatic-dragonborn)** table for color) |
-| 2 | Draconblood Dragonborn[^⏳] |
+| 2 | Exandrian Dragonborn (roll on **[Exandrian Dragonborn](#exandrian-dragonborn)** table for variant) |
 | 3 | Gem Dragonborn (roll on **[Gem Dragonborn](#gem-dragonborn)** table for gemstone) |
 | 4 | Metallic Dragonborn (roll on **[Metallic Dragonborn](#metallic-dragonborn)** table for metal) |
-| 5 | Ravenite Dragonborn[^⏳] |
 
 #### Chromatic Dragonborn
 | d5 | Color |
@@ -81,6 +93,12 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 3 | Green[^📒2️⃣] |
 | 4 | Red[^📒2️⃣] |
 | 5 | White[^📒2️⃣] |
+
+#### Exandrian Dragonborn
+| d2 | Variant |
+|:-:|:-|
+| 1 | Draconblood Dragonborn[^⏳] |
+| 2 | Ravenite Dragonborn[^⏳] |
 
 #### Gem Dragonborn
 | d5 | Gemstone |
@@ -101,65 +119,128 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 5 | Silver[^📒2️⃣] |
 
 ### Dwarves
-| d4 | Ancestry |
+| d6 | Ancestry |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹] |
-| 3 | Mark of Warding Dwarf[^⚙️] |
-| 4 | Mountain Dwarf[^🔰1️⃣] |
+| 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
+| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
+| 5 | Kaladesh Dwarf[^🕰️] |
+| 6 | Mountain Dwarf[^🔰1️⃣] |
+
+#### Eberron Dwarf
+| d3 | Variant |
+|:-:|:-|
+| 1 | Dwarf[^📒2️⃣][^🪓] |
+| 2 | Mark of Warding Dwarf[^⚙️] |
+| 3 | Mountain Dwarf[^🔰1️⃣] |
+
+#### Forgotten Realms Dwarves
+| d3 | Variant |
+|:-:|:-|
+| 1 | Duergar[^👹] |
+| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
+| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elven Lineages
-| d10 | Ancestry |
+| d14 | Ancestry |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
 | 2 | Drow[^📒2️⃣] |
-| 3 | Eladrin[^👹] |
-| 4 | Half-Elf (roll on **[Half-Elves](#half-elves)** table for variant) |
-| 5 | High Elf (roll on **[High Elves](#high-elves)** table for variant) |
-| 6 | Mark of Shadow Elf[^⚙️] |
-| 7 | Pallid Elf[^⏳] |
-| 8 | Sea Elf[^👹] |
-| 9 | Shadar-kai[^👹] |
-| 10 | Wood Elf (roll on **[Wood Elves](#wood-elves)** table for variant) |
+| 3 | Eberron Elf (roll on **[Eberron Elves](#eberron-elves)** table for variant) |
+| 4 | Eladrin[^👹] |
+| 5 | Exandrian Elf (roll on **[Exandrian Elves](#exandrian-elves)** table for variant) |
+| 6 | Forgotten Realms Elf (roll on **[Forgotten Realms Elves](#forgotten-realms-elves)** table for variant) |
+| 7 | Half-Elf[^📒1️⃣] |
+| 8 | High Elf[^📒2️⃣] |
+| 9 | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
+| 10 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
+| 11 | Sea Elf[^👹] |
+| 12 | Shadar-kai[^👹] |
+| 13 | Wood Elf[^📒2️⃣] |
+| 14 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
-#### Half-Elves
+#### Eberron Elves
+| d11 | Variant |
+|:-:|:-|
+| 1 | Aereni High Elf[^🧭] |
+| 2 | Aereni Wood Elf[^🧭] |
+| 3 | Drow[^📒2️⃣] |
+| 4 | Half-Elf[^📒1️⃣] |
+| 5 | High Elf[^📒2️⃣] |
+| 6 | Mark of Detection Half-Elf[^⚙️] |
+| 7 | Mark of Shadow Elf[^⚙️] |
+| 8 | Mark of Storm Half-Elf[^⚙️] |
+| 9 | Valenar High Elf[^🧭] |
+| 10 | Valenar Wood Elf[^🧭] |
+| 11 | Wood Elf[^📒2️⃣] |
+
+#### Exandrian Elves
 | d6 | Variant |
 |:-:|:-|
-| 1 | Half-Elf[^📒1️⃣] |
-| 2 | Aquatic Half-Elf[^🗡️] |
-| 3 | Drow Half-Elf[^🗡️] |
-| 4 | High Half-Elf[^🗡️] |
-| 5 | Wood Half-Elf[^🗡️] |
-| 6 | Dragonmarked Half-Elf (roll on **[Dragonmarked Half-Elves](#dragonmarked-half-elves)** table for dragonmark) |
+| 1 | Drow[^📒2️⃣] |
+| 2 | Half-Elf[^📒1️⃣] |
+| 3 | High Elf[^📒2️⃣] |
+| 4 | Pallid Elf[^⏳] |
+| 5 | Sea Elf[^👹] |
+| 6 | Wood Elf[^📒2️⃣] |
 
-##### Dragonmarked Half-Elves
-| d2 | Dragonmark |
+#### Forgotten Realms Elves
+| d10 | Variant |
 |:-:|:-|
-| 1 | Mark of Detection Half-Elf[^⚙️] |
-| 2 | Mark of Storm Half-Elf[^⚙️] |
+| 1 | Aquatic Half-Elf[^🗡️] |
+| 2 | Drow[^📒2️⃣] |
+| 3 | Drow Half-Elf[^🗡️] |
+| 4 | Half-Elf[^📒1️⃣] |
+| 5 | Moon Elf[^📒2️⃣][^🏹] |
+| 6 | Moon Half-Elf[^🗡️] |
+| 7 | Sun Elf[^📒2️⃣][^🏹] |
+| 8 | Sun Half-Elf[^🗡️] |
+| 9 | Wood Elf[^📒2️⃣] |
+| 10 | Wood Half-Elf[^🗡️] |
 
-#### High Elves
+#### Kaladesh Elves
 | d3 | Variant |
-|:--:|:-|
-| 1 | High Elf[^📒2️⃣] |
-| 2 | Aereni High Elf[^🧭] |
-| 3 | Valenar High Elf[^🧭] |
+|:-:|:-|
+| 1 | Bishtahar Elf[^🕰️] |
+| 2 | Tirahar Elf[^🕰️] |
+| 3 | Vahadar Elf[^🕰️] |
 
-#### Wood Elves
+#### Ravnica Elves
+| d4 | Variant |
+|:-:|:-|
+| 1 | Drow[^📒2️⃣] |
+| 2 | Half-Elf[^📒1️⃣] |
+| 3 | High Elf[^📒2️⃣] |
+| 4 | Wood Elf[^📒2️⃣] |
+
+#### Zendikar Elves
 | d3 | Variant |
-|:--:|:-|
-| 1 | Wood Elf[^📒2️⃣] |
-| 2 | Aereni Wood Elf[^🧭] |
-| 3 | Valenar Wood Elf[^🧭] |
+|:-:|:-|
+| 1 | Joraga Nation Elf[^🌴][^🏹] |
+| 2 | Mul Daya Nation Elf[^🌴] |
+| 3 | Tajuru Nation Elf[^🌴] |
 
 ### Fiendish Legacies
-| d5 | Ancestry |
+| d4 | Ancestry |
 |:--:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
 | 2 | Chthonic Tiefling[^📒2️⃣] |
-| 3 | Feral Tiefling[^🗡️] |
+| 3 | Forgotten Realms Tiefling (roll on **[Forgotten Realms Tieflings](#forgotten-realms-tieflings)** table for variant) |
 | 4 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
-| 5 | Variant Tiefling[^🦹] |
+
+#### Forgotten Realms Tieflings
+| d2 | Variant |
+|:-:|:-|
+| 1 | Tiefling[^📒2️⃣] |
+| 2 | Feral Tiefling (roll on **[Feral Tieflings](#feral-tieflings)** table for variant) |
+
+##### Feral Tieflings
+| d3 | Variant |
+|:-:|:-|
+| 1 | Devil's Tongue Feral Tiefling[^🗡️] |
+| 2 | Hellfire Feral Tiefling[^🗡️] |
+| 3 | Winged Feral Tiefling[^🗡️] |
 
 #### Infernal Tieflings
 | d9 | Variant |
@@ -199,70 +280,167 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 | 2 | Githzerai[^👹] |
 
 ### Gnomish Lineages
-| d4 | Ancestry |
+| d5 | Ancestry |
+|:-:|:-|
+| 1 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
+| 2 | Exandrian or Forgotten Realms Gnome (roll on **[Exandrian or Forgotten Realms Gnomes](#exandrian-or-forgotten-realms-gnomes)** table for variant) |
+| 3 | Forest Gnome[^📒2️⃣] |
+| 4 | Rock Gnome[^📒2️⃣] |
+| 5 | Svirfneblin[^👹] |
+
+#### Eberron Gnome
+| d3 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Mark of Scribing Gnome[^⚙️] |
 | 3 | Rock Gnome[^📒2️⃣] |
-| 4 | Svirfneblin[^👹] |
+
+#### Exandrian or Forgotten Realms Gnomes
+| d3 | Variant |
+|:-:|:-|
+| 1 | Forest Gnome[^📒2️⃣] |
+| 2 | Rock Gnome[^📒2️⃣] |
+| 3 | Svirfneblin[^👹] |
 
 ### Goblinoids
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
-| 2 | Goblin[^👹] |
+| 2 | Goblin (roll on **[Goblins](#goblins)** table for variant) |
 | 3 | Hobgoblin[^👹] |
+
+#### Goblins
+| d3 | Variant |
+|:-:|:-|
+| 1 | Goblin[^👹] |
+| 2 | Ixalan Goblin[^🦕] |
+| 3 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
+
+##### Zendikar Goblins
+| d3 | Variant |
+|:-:|:-|
+| 1 | Grotag Tribe Goblin[^🌴] |
+| 2 | Lavastep Tribe Goblin[^🌴] |
+| 3 | Tuktuk Tribe Goblin[^🌴] |
 
 ### Halflings
 | d5 | Ancestry |
 |:-:|:-|
 | 1 | Halfling[^📒2️⃣][^🥑] |
-| 2 | Ghostwise Halfling[^⏳] |
-| 3 | Lotusden Halfling[^⏳] |
-| 4 | Stout Halfling[^🔰1️⃣] |
-| 5 | Dragonmarked Halfling (roll on **[Dragonmarked Halflings](#dragonmarked-halflings)** table for dragonmark) |
+| 2 | Eberron Halfling (roll on **[Eberron Halflings](#eberron-halflings)** table for dragonmark) |
+| 3 | Exandrian Halfling (roll on **[Exandrian Halflings](#exandrian-halflings)** table for variant) |
+| 4 | Forgotten Realms Halfling (roll on **[Forgotten Realms Halflings](#forgotten-realms-halflings)** for variant) |
+| 5 | Stout Halfling[^🔰1️⃣] |
 
-#### Dragonmarked Halflings
+#### Eberron Halflings
 | d2 | Dragonmark |
 |:-:|:-|
-| 1 | Mark of Healing Halfling[^⚙️] |
-| 2 | Mark of Hospitality Halfling[^⚙️] |
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 2 | Mark of Healing Halfling[^⚙️] |
+| 3 | Mark of Hospitality Halfling[^⚙️] |
+| 4 | Stout Halfling[^🔰1️⃣] |
+
+#### Exandrian Halflings
+| d3 | Variant |
+|:-:|:-|
+| 1 | Halfling[^📒2️⃣][^🥑] |
+| 2 | Lotusden Halfling[^⏳] |
+| 3 | Stout Halfling[^🔰1️⃣] |
+
+#### Forgotten Realms Halflings
+| d3 | Variant |
+|:-:|:-|
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 2 | Ghostwise Halfling[^🗡️] |
+| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
 ### Humans
-| d3 | Ancestry |
+| d5 | Ancestry |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
 | 2 | Human (_SRD 5.1_)[^📒1️⃣] |
-| 3 | Dragonmarked Human (roll on **[Dragonmarked Humans](#dragonmarked-humans)** table for dragonmark) |
+| 3 | Eberron Human (roll on **[Eberron Humans](#eberron-humans)** table for dragonmark) |
+| 4 | Innistrad Human (roll on **[Innistrad Provinces](#innistrad-provinces)** table for provincial origin) |
+| 5 | Keldon Human[^🛡️] |
 
-#### Dragonmarked Humans
-| d5 | Dragonmark |
+#### Eberron Humans
+| d7 | Dragonmark |
 |:-:|:-|
-| 1 | Mark of Finding Human[^⚙️] |
-| 2 | Mark of Handling Human[^⚙️] |
-| 3 | Mark of Making Human[^⚙️] |
-| 4 | Mark of Passage Human[^⚙️] |
-| 5 | Mark of Sentinel Human[^⚙️] |
+| 1 | Human[^📒2️⃣][^👤] |
+| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 3 | Mark of Finding Human[^⚙️] |
+| 4 | Mark of Handling Human[^⚙️] |
+| 5 | Mark of Making Human[^⚙️] |
+| 6 | Mark of Passage Human[^⚙️] |
+| 7 | Mark of Sentinel Human[^⚙️] |
+
+#### Innistrad Provinces
+| d4 | Provincial Origin |
+|:-:|:-|
+| 1 | Gavony Human[^🧛] |
+| 2 | Kessig Human[^🧛] |
+| 3 | Nephalia Human[^🧛] |
+| 4 | Stensia Human[^🧛] |
+
+### Merfolk
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Ixalan Merfolk (roll on **[Ixalan Merfolk](#ixalan-merfolk)** table for variant) |
+| 2 | Zendikar Merfolk (roll on **[Zendikar Merfolk](#zendikar-merfolk)** table for variant) |
+
+#### Ixalan Merfolk
+| d2 | Variant |
+|:-:|:-|
+| 1 | Green Merfolk[^🦕] |
+| 2 | Blue Merfolk[^🦕] |
+
+#### Zendikar Merfolk
+| d3 | Variant |
+|:-:|:-|
+| 1 | Cosi Creed Merfolk[^🌴] |
+| 2 | Emeria (Wind) Creed Merfolk[^🌴] |
+| 3 | Ula (Water) Creed Merfolk[^🌴] |
+
+### Minotaur
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Minotaur[^👹] |
+| 2 | Amonkhet Minotaur[^☥] |
 
 ### Orcs
-| d2 | Ancestry|
+| d3 | Ancestry |
 |:-:|:-|
-| 1 | Orc[^📒2️⃣] |
-| 2 | Half-Orc (roll on **[Half-Orcs](#half-orcs)** table for variant) |
+| 1 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
+| 2 | Orc[^📒2️⃣] |
+| 3 | Half-Orc[^📒1️⃣] |
 
-#### Half-Orcs
-| d2 | Variant |
+#### Eberron Orcs
+| d3 | Variant |
 |:-:|:-|
 | 1 | Half-Orc[^📒1️⃣] |
 | 2 | Mark of Finding Half-Orc[^⚙️] |
+| 3 | Orc[^📒2️⃣] |
 
 ### Shifters
-| d4 | Ancestry |
+| d5 | Ancestry |
 |:-:|:-|
-| 1 | Beasthide[^👹] |
-| 2 | Longtooth[^👹] |
-| 3 | Swiftstride[^👹] |
-| 4 | Wildhunt[^👹] |
+| 1 | Shifter[^👹][^🌙] |
+| 1 | Beasthide[^⚙️] |
+| 2 | Longtooth[^⚙️] |
+| 3 | Swiftstride[^⚙️] |
+| 4 | Wildhunt[^⚙️] |
+
+### Vampires
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Ixalan Vampire[^🦕] |
+| 2 | Zendikar Vampire[^🌴] |
+
+### Vedalken
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Kaladesh Vedalken[^🕰️] |
+| 2 | Ravnica Vedalken[^🏙️] |
 
 ---
 
@@ -281,6 +459,12 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^👺]: Source: _Mordenkainen's Tome of Foes_
 [^🏺]: Source: _Mythic Odysseys of Theros_
 [^🐸]: Source: _One Grung Above_
+[^☥]: Source: _Plane Shift: Amonkhet_
+[^🛡️]: Source: _Plane Shift: Dominaria_
+[^🧛]: Source: _Plane Shift: Innistrad_
+[^🦕]: Source: _Plane Shift: Ixalan_
+[^🕰️]: Source: _Plane Shift: Kaladesh_
+[^🌴]: Source: _Plane Shift: Zendikar_
 [^🔰1️⃣]: Source: _Player's Handbook (2014)_
 [^🔰2️⃣]: Source: _Player's Handbook (2024)_
 [^🛸]: Source: _Spelljammer: Adventures in Space_
@@ -291,9 +475,11 @@ The **Reincarnation Options** table and all subsequent tables below can optional
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
-[^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
-[^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. In terms of species traits, a Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
-[^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_.
-[^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. In terms of species traits, a Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
-[^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. In terms of species traits, an Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
-[^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. In terms of species traits, an Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
+[^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Gold Dwarf is equivalent to a Dwarf in _SRD 5.2_ or a Hill Dwarf in _SRD 5.1_, and a Shield Dwarf is equivalent to a Mountain Dwarf in the _Player's Handbook (2014)_.
+[^🏹]: The elf has several variants with setting-specific names but no significant mechanical differences from _SRD_ equivalents. A Moon Elf and Sun Elf are equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
+[^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Mordenkainen Presents: Monsters of the Multiverse_. The other ancestries are not equivalent to any prior goliath options.
+[^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
+[^👤]: The human was updated in _SRD 5.2_ to remove ancestry selection. A Human is equivalent to a Variant Human in the _Player's Handbook (2014)_.
+[^🌙]: The shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated shifter is not equivalent to any single prior shifter option.
+[^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
+[^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.

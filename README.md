@@ -30,13 +30,25 @@ _Dungeon Master's Guide (2014)_ © 2014 Wizards of the Coast LLC.
 
 _Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
+_Plane Shift: Innistrad_ © 2016 Wizards of the Coast LLC.
+
+_Plane Shift: Zendikar_ © 2016 Wizards of the Coast LLC.
+
 _One Grung Above_ © 2017 Wizards of the Coast LLC.
+
+_Plane Shift: Amonkhet_ © 2017 Wizards of the Coast LLC.
+
+_Plane Shift: Ixalan_ © 2017 Wizards of the Coast LLC.
+
+_Plane Shift: Kaladesh_ © 2017 Wizards of the Coast LLC.
 
 _Wayfinder's Guide to Eberron_ © 2017 Wizards of the Coast LLC.
 
 _Guildmasters' Guide to Ravnica_ © 2018 Wizards of the Coast LLC.
 
 _Mordenkainen's Tome of Foes_ © 2018 Wizards of the Coast LLC.
+
+_Plane Shift: Dominaria_ © 2018 Wizards of the Coast LLC.
 
 _Sword Coast Adventurer's Guide_ © 2018 Wizards of the Coast LLC.
 
