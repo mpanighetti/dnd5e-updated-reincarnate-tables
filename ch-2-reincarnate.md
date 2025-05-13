@@ -5,7 +5,7 @@ The **Reincarnation Options** table and all subsequent tables below replace the 
 Additionally, the _Reincarnate_ spell can now target any dead creature or piece of one, instead of just Humanoids, as long as its current creature type is represented by any species, ancestry, or variant listed in the tables below. For example, a dead creature with the Fey creature type can be targeted because there are Fey creatures on these tables (such as the fairy or satyr), but a creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
-| d56 | Species |
+| d55 | Species |
 |:---:|:-|
 | 1 | Aarakocra[^👹] |
 | 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
@@ -14,55 +14,54 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 5 | Aven (roll on **[Aven](#aven)** table for ancestry) |
 | 6 | Centaur[^👹] |
 | 7 | Changeling[^👹] |
-| 8 | Dhampir[^🌫️] |
-| 9 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
-| 10 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
-| 11 | Elf (roll on **[Elves](#elves)** table for setting) |
-| 12 | Fairy[^👹] |
-| 13 | Firbolg[^👹] |
-| 14 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 15 | Giff[^🛸] |
-| 16 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 17 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
-| 18 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
-| 19 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 20 | Grung[^🐸] |
-| 21 | Hadozee[^🛸] |
-| 22 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
-| 23 | Harengon[^👹] |
-| 24 | Hexblood[^🌫️] |
-| 25 | Human (roll on **[Humans](#humans)** table for setting) |
-| 26 | Kalashtar[^⚙️] |
-| 27 | Kender[^🫅] |
-| 28 | Kenku[^👹] |
-| 29 | Khenra[^☥] |
-| 30 | Kobold[^👹] |
-| 31 | Kor[^🌴] |
-| 32 | Leonin[^🏺] |
-| 33 | Lizardfolk[^👹] |
-| 34 | Locathah[^🐟] |
-| 35 | Loxodon[^🏙️] |
-| 36 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
-| 37 | Minotaur(roll on **[Minotaur](#minotaur)** table for ancestry) |
-| 38 | Naga[^☥] |
-| 39 | Orc (roll on **[Orcs](#orcs)** table for setting) |
-| 40 | Owlin[^🎓] |
-| 41 | Plasmoid[^🛸] |
-| 42 | Reborn[^🌫️] |
-| 43 | Satyr[^👹] |
-| 44 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 45 | Simic Hybrid[^🏙️] |
-| 46 | Siren[^🦕] |
-| 47 | Tabaxi[^👹] |
-| 48 | Thri-kreen[^🛸] |
-| 49 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
-| 50 | Tortle[^👹] |
-| 51 | Triton[^👹] |
-| 52 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 53 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 54 | Verdan[^💰] |
-| 55 | Warforged[^⚙️] |
-| 56 | Yuan-ti[^👹] |
+| 8 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
+| 9 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
+| 10 | Elf (roll on **[Elves](#elves)** table for setting) |
+| 11 | Fairy[^👹] |
+| 12 | Firbolg[^👹] |
+| 13 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 14 | Giff[^🛸] |
+| 15 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 16 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
+| 17 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
+| 18 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 19 | Grung[^🐸] |
+| 20 | Hadozee[^🛸] |
+| 21 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
+| 22 | Harengon[^👹] |
+| 23 | Hexblood[^🌫️] |
+| 24 | Human (roll on **[Humans](#humans)** table for setting) |
+| 25 | Kalashtar[^⚙️] |
+| 26 | Kender[^🫅] |
+| 27 | Kenku[^👹] |
+| 28 | Khenra[^☥] |
+| 29 | Kobold[^👹] |
+| 30 | Kor[^🌴] |
+| 31 | Leonin[^🏺] |
+| 32 | Lizardfolk[^👹] |
+| 33 | Locathah[^🐟] |
+| 34 | Loxodon[^🏙️] |
+| 35 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
+| 36 | Minotaur(roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 37 | Naga[^☥] |
+| 38 | Orc (roll on **[Orcs](#orcs)** table for setting) |
+| 39 | Owlin[^🎓] |
+| 40 | Plasmoid[^🛸] |
+| 41 | Reborn[^🌫️] |
+| 42 | Satyr[^👹] |
+| 43 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 44 | Simic Hybrid[^🏙️] |
+| 45 | Siren[^🦕] |
+| 46 | Tabaxi[^👹] |
+| 47 | Thri-kreen[^🛸] |
+| 48 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
+| 49 | Tortle[^👹] |
+| 50 | Triton[^👹] |
+| 51 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 52 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 53 | Verdan[^💰] |
+| 54 | Warforged[^⚙️] |
+| 55 | Yuan-ti[^👹] |
 
 ### Aasimar
 | d5 | Ancestry |
@@ -134,7 +133,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 4 | Kaladesh Dwarf[^🕰️] |
 
 #### Dwarves of the Multiverse
-| d3 | Ancestry |
+| d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹] |
@@ -483,10 +482,11 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 3 | Winged Feral Tiefling[^🗡️] |
 
 ### Vampires
-| d2 | Ancestry |
+| d3 | Ancestry |
 |:-:|:-|
-| 1 | Ixalan Vampire[^🦕] |
-| 2 | Zendikar Vampire[^🌴] |
+| 1 | Dhampir[^🌫️] |
+| 2 | Ixalan Vampire[^🦕] |
+| 3 | Zendikar Vampire[^🌴] |
 
 ### Vedalken
 | d2 | Ancestry |
