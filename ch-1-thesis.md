@@ -7,7 +7,17 @@
 
 ## Assumptions
 
+### Grouping and separating
+
 - **Related ancestries are grouped together under a common species for organizational purposes.** This does not align with the options presented in some book releases, where classically grouped ancestries are split out into discrete species options (e.g. eladrin, sea elves, and shadar-kai are all considered types of elves in _Mordenkainen's Tome of Foes_, but are separate species in _Mordenkainen Presents: Monsters of the Multiverse_), but this setup helps keep the top-level table under control, it acknowledges that these separate branches of people have a common ancestry with shared traits, and it prevents the odds from being stacked in the favor of more diverse species such as elves or dragonborn.
+- **Species and ancestries that have been revised over time are listed as single entries.** An example of this is the chromatic and metallic dragonborn ancestries; even though they have been printed with differing species names and traits over the years, they have the same color and metal options in _SRD 5.2_, _Fizban's Treasury of Dragons_, and _SRD 5.1_, and thus will be considered the same options for _Reincarnate_ to avoid adding more complexity than this document already manages. A single source will be listed for each entry (see **[Sourcing](#sourcing)**). When there is ambiguity over how a name correlates to previous options, a footnote will list the older names for reference.
+- **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the half-elf and half-orc species to be ancestries of elves and orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all 5e species and ancestries remain supported by the core game rules, even if in older superseded or legacy sources.
+- **Bugbears, goblins, and hobgoblins are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving them the shared "goblinoid" creature tag and the Fey Ancestry trait.
+- **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
+- **The dhampir is considered to be a vampire variant**, based on it fulfilling a similar archetypal fantasy role and narrative origin.
+
+### Sourcing
+
 - **If a species or ancestry is available in multiple books, one official source will be referenced in a footnote, prioritized by cost and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
 
   1. Free sources (e.g. _SRD_ over _Player's Handbook_)
@@ -16,11 +26,8 @@
 
   This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases. The Dungeon Master is the ultimate arbiter over which variant to use when multiples exist, but the general recommendation is to use whatever book the DM or a player already owns, so as to avoid buying new material just for silly table rolls.
 
-- **Species and ancestries that have been revised over time are listed as single entries.** An example of this is the chromatic and metallic dragonborn ancestries; even though they have been printed with differing species names and traits over the years, they have the same color and metal options in _SRD 5.2_, _Fizban's Treasury of Dragons_, and _SRD 5.1_, and thus will be considered the same options for _Reincarnate_ to avoid adding more complexity than this document already manages. A single source will be listed for each entry (see above). When there is ambiguity over how a name correlates to previous options, a footnote will list the older names for reference.
-- **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the half-elf and half-orc species to be ancestries of elves and orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all 5e species and ancestries remain supported by the core game rules, even if in older superseded or legacy sources.
-- **Bugbears, goblins, and hobgoblins are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving them the shared "goblinoid" creature tag and the Fey Ancestry trait.
-- **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
-- **The dhampir is considered to be a vampire variant**, based on it fulfilling a similar archetypal fantasy role and narrative origin.
+### Setting considerations
+
 - **Equal odds have been given to every setting with limited options for species variants versus multiverse options.** This avoids an uneven distribution of setting-to-multiverse odds when rolling on some species tables, while maintaining the equal odds across all species options in the main table.
 - **Species with limited options within a given setting roll first for setting, then for either multiverse variant or setting-specific variant.** When a species has limited variant options in one or more settings, a roll is first made to determine the setting, with a multiverse table including all options from the _SRD_ or _Player's Handbook_ plus options that do not imply or assume a setting, followed by a separate table per setting. Setting tables are limited to the variant options found in their respective settings. If the DM determines that only a setting's given options are available, roll on the setting-specific variant table. If a setting's options are identical to the multiverse options, or the DM wishes to not use setting-specific options, roll on the multiverse table.
 
