@@ -42,7 +42,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 33 | Locathah[^🐟] |
 | 34 | Loxodon[^🏙️] |
 | 35 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
-| 36 | Minotaur(roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 36 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
 | 37 | Naga[^☥] |
 | 38 | Orc (roll on **[Orcs](#orcs)** table for setting) |
 | 39 | Owlin[^🎓] |
