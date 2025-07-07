@@ -5,7 +5,7 @@ The **Reincarnation Options** table and all subsequent tables below replace the 
 Additionally, the _Reincarnate_ spell can now target any dead creature or piece of one, instead of just Humanoids, as long as its current creature type is represented by any species, ancestry, or variant listed in the tables below. For example, a dead creature with the Fey creature type can be targeted because there are Fey creatures on these tables (such as the fairy or satyr), but a creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
-| d55 | Species |
+| d54 | Species |
 |:---:|:-|
 | 1 | Aarakocra[^👹] |
 | 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
@@ -59,9 +59,8 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 50 | Triton[^👹] |
 | 51 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
 | 52 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 53 | Verdan[^💰] |
-| 54 | Warforged[^⚙️] |
-| 55 | Yuan-ti[^👹] |
+| 53 | Warforged[^⚙️] |
+| 54 | Yuan-ti[^👹] |
 
 ### Aasimar
 | d5 | Ancestry |
@@ -297,11 +296,12 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 3 | Rock Gnome[^📒2️⃣] |
 
 ### Goblinoids
-| d3 | Setting |
+| d4 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
-| 2 | Ixalan Goblin[^🦕] |
-| 3 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
+| 2 | Forgotten Realms Goblinoid (roll on **[Forgotten Realms Goblinoid](#forgotten-realms-goblinoid)** for variant) |
+| 3 | Ixalan Goblin[^🦕] |
+| 4 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
 #### Goblinoids of the Multiverse
 | d3 | Variant |
@@ -309,6 +309,14 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 1 | Bugbear[^👹] |
 | 2 | Goblin[^👹] |
 | 3 | Hobgoblin[^👹] |
+
+#### Forgotten Realms Goblinoids
+| d4 | Variant |
+|:-:|:-|
+| 1 | Bugbear[^👹] |
+| 2 | Goblin[^👹] |
+| 3 | Hobgoblin[^👹] |
+| 4 | Verdan[^💰] |
 
 #### Zendikar Goblins
 | d3 | Variant |

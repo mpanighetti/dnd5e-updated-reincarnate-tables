@@ -16,7 +16,7 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the half-elf and half-orc species to be ancestries of elves and orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all 5e species and ancestries remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**Bugbears, goblins, and hobgoblins are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving them the shared "goblinoid" creature tag and the Fey Ancestry trait.
+**Bugbears, goblins, hobgoblins, and verdan are grouped together as ancestries of the goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "goblinoid" creature tag and the Fey Ancestry trait.
 
 **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 
@@ -61,7 +61,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 **Option 1:** Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
 
-**Option 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 55 results, first roll for the tens position (as with option 1, use the next-highest value, which would be a d6 in this case), then for the ones position with a d10, rerolling an individual die if it creates an invalid result, such as a 56 or 60.
+**Option 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 54 results, first roll for the tens position (as with option 1, use the next-highest value, which would be a d6 in this case), then for the ones position with a d10, rerolling an individual die if it creates an invalid result, such as a 56 or 60.
 
 ---
 
