@@ -59,7 +59,9 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 ### How do I roll a d5, d11, or any of these other weird tables?
 
-Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
+**Option 1:** Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
+
+**Option 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 55 results, first roll for the tens position (as with option 1, use the next-highest value, which would be a d6 in this case), then for the ones position with a d10, rerolling for invalid results such as a 56 or 60.
 
 ---
 
