@@ -30,6 +30,8 @@ _Dungeon Master's Guide (2014)_ © 2014 Wizards of the Coast LLC.
 
 _Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
+_Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
+
 _Plane Shift: Innistrad_ © 2016 Wizards of the Coast LLC.
 
 _Plane Shift: Zendikar_ © 2016 Wizards of the Coast LLC.

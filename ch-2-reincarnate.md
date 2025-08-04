@@ -7,7 +7,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 ## Reincarnation Options
 | d54 | Species |
 |:---:|:-|
-| 1 | Aarakocra[^👹] |
+| 1 | Aarakocra[^🙈] |
 | 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
 | 3 | Aetherborn[^🕰️] |
 | 4 | Autognome[^🛸] |
@@ -246,10 +246,10 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 ### Genasi
 | d4 | Ancestry |
 |:--:|:-|
-| 1 | Air Genasi[^👹] |
-| 2 | Earth Genasi[^👹] |
-| 3 | Fire Genasi[^👹] |
-| 4 | Water Genasi[^👹] |
+| 1 | Air Genasi[^🙈] |
+| 2 | Earth Genasi[^🙈] |
+| 3 | Fire Genasi[^🙈] |
+| 4 | Water Genasi[^🙈] |
 
 ### Giant Ancestry
 | d6 | Ancestry |
@@ -268,19 +268,18 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Githzerai[^👹] |
 
 ### Gnomes
-| d4 | Setting |
+| d3 | Setting |
 |:-:|:-|
 | 1 | Gnome of the Multiverse (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
 | 2 | Dragonlance Gnome (roll on **[Dragonlance Gnomes](#dragonlance-gnomes)** table for variant) |
 | 3 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
-| 4 | Exandrian or Forgotten Realms Gnome (roll on **[Exandrian or Forgotten Realms Gnomes](#exandrian-or-forgotten-realms-gnomes)** table for variant) |
 
 #### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Forest Gnome[^📒2️⃣] |
-| 2 | Rock Gnome[^📒2️⃣] |
-| 3 | Svirfneblin[^👹] |
+| 1 | Deep Gnome[^👹] |
+| 2 | Forest Gnome[^📒2️⃣] |
+| 3 | Rock Gnome[^📒2️⃣] |
 
 #### Dragonlance Gnomes
 | d2 | Variant |
@@ -511,6 +510,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
 [^🦹]: Source: _Dungeon Master's Guide (2014)_
 [^⚙️]: Source: _Eberron: Rising from the Last War_
+[^🙈]: Source: _Elemental Evil Player's Companion_
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🐉]: Source: _Fizban's Treasury of Dragons_
 [^🏙️]: Source: _Guildmasters' Guide to Ravnica_
