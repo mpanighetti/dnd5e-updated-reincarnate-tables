@@ -258,7 +258,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Fire Giant Goliath[^📒2️⃣] |
 | 3 | Frost Giant Goliath[^📒2️⃣] |
 | 4 | Hill Giant Goliath[^📒2️⃣] |
-| 5 | Stone Giant Goliath[^📒2️⃣] |
+| 5 | Stone Giant Goliath[^📒2️⃣][^🧌] |
 | 6 | Storm Giant Goliath[^📒2️⃣] |
 
 ### Gith
@@ -534,14 +534,14 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
-[^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
-[^🏹]: The elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
-[^🍄]: The gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_, and a Svirfneblin is equivalent to a Deep Gnome in _Elemental Evil Player's Companion_.
-[^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in the _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior goliath options.
-[^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
-[^👤]: The human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in the _Player's Handbook (2014)_.
-[^🍖]: The orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc is equivalent to a Half-Orc.
-[^🌙]: The shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated shifter is not equivalent to any single prior shifter option.
-[^😈]: The tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
-[^👿]: These classifications of tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
+[^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not equivalent to any single prior Aasimar option.
+[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
+[^🏹]: The Elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
+[^🍄]: The Gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_.
+[^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior Goliath options.
+[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in _Player's Handbook (2014)_.
+[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in _Player's Handbook (2014)_.
+[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc is equivalent to a Half-Orc.
+[^🌙]: The Shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not equivalent to any single prior Shifter option.
+[^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
+[^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
