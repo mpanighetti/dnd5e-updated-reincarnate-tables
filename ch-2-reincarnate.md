@@ -277,7 +277,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 #### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Deep Gnome[^👹] |
+| 1 | Deep Gnome[^🙈🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
@@ -537,7 +537,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^🪽]: The aasimar was updated in the _Player's Handbook (2024)_ to remove ancestry selection. The updated aasimar is not equivalent to any single prior aasimar option.
 [^🪓]: The dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
 [^🏹]: The elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
-[^🍄]: The gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_.
+[^🍄]: The gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_, and a Svirfneblin is equivalent to a Deep Gnome in _Elemental Evil Player's Companion_.
 [^🧌]: The goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in the _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior goliath options.
 [^🥑]: The halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in the _Player's Handbook (2014)_.
 [^👤]: The human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in the _Player's Handbook (2014)_.

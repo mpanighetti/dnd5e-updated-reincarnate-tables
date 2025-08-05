@@ -24,11 +24,11 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 ### Sourcing
 
-**If a species or ancestry is available in multiple books, one official source will be referenced in a footnote, prioritized by cost and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
+**If a species or ancestry is available in multiple books, one official source will be referenced in a footnote, prioritized by cost, value, and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
 
-1. Free sources (e.g. _SRD_ over _Player's Handbook_)
-2. Sources containing the most species options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ over _Volo's Guide to Monsters_)
-3. The most modern sources (e.g. _SRD 5.2_ over _SRD 5.1_)
+1. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchase (e.g. _SRD_ over _Player's Handbook_).
+2. _**More Beats Less.**_ Sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ over _Volo's Guide to Monsters_).
+3. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded (e.g. _SRD 5.2_ over _SRD 5.1_).
 
 This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases. The Dungeon Master is the ultimate arbiter over which variant to use when multiples exist, but the general recommendation is to use whatever book the DM or a player already owns, so as to avoid buying new material just for silly table rolls.
 
