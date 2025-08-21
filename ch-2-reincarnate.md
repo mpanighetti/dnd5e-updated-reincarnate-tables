@@ -1,4 +1,4 @@
-# Chapter 2: [Reincarnate](https://github.com/mpanighetti/dnd5e-spells/blob/main/spell-options/reincarnate.md)
+# Chapter 2: Reincarnate
 
 The **Reincarnation Options** table and all subsequent tables below replace the table found in the _Reincarnate_ spell's description.
 
