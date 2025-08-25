@@ -277,7 +277,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 #### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Deep Gnome[^🙈🍄] |
+| 1 | Deep Gnome[^🙈][^🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
