@@ -1,8 +1,8 @@
 # Chapter 2: Reincarnate
 
-Replace the _Reincarnate_ spell's description with the following text:
+Replace the _Reincarnate_ spell's description with the following text and tables:
 
-You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d54 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below; for example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d54 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
 | d54 | Species |
