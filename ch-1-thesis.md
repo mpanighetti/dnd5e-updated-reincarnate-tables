@@ -16,11 +16,13 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the Half-Elf and Half-Orc species to be ancestries of Elves and Orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**Bugbears, Goblins, Hobgoblins, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
+**Boggarts, Bugbears, Goblins, Hobgoblins, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
 
 **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 
 **The Dhampir is considered to be a Vampire variant**, based on it fulfilling a similar archetypal fantasy role and narrative origin.
+
+**Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
 
 ### Sourcing
 
