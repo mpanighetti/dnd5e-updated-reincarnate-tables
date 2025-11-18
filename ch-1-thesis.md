@@ -16,7 +16,7 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the Half-Elf and Half-Orc species to be ancestries of Elves and Orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
+**The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of several variants having a Goblinoid creature tag and the Fey Ancestry trait.
 
 **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
@@ -65,7 +65,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 **Method 1:** Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
 
-**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 54 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10, rerolling an individual die if it creates an invalid result, such as a 56 or 00 (which would be 60).
+**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 57 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10, re-rolling an individual die if it creates an invalid result, such as a 58 or 00.
 
 ---
 
