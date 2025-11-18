@@ -124,20 +124,19 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 2 | Ravenite Dragonborn[^⏳] |
 
 ### Dwarves
-| d5 | Setting |
+| d4 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
 | 2 | Dragonlance Dwarf (roll on **[Dragonlance Dwarves](#dragonlance-dwarves)** table for variant) |
 | 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
-| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
-| 5 | Kaladesh Dwarf[^🕰️] |
+| 4 | Kaladesh Dwarf[^🕰️] |
 
 #### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹][^🪓] |
-| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
+| 2 | Duergar[^👹] |
+| 3 | Mountain Dwarf[^🔰1️⃣] |
 
 #### Dragonlance Dwarves
 | d2 | Variant |
@@ -151,13 +150,6 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣] |
-
-#### Forgotten Realms Dwarves
-| d3 | Variant |
-|:-:|:-|
-| 1 | Duergar[^👹][^🪓] |
-| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
-| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elves
 | d8 | Setting |
@@ -222,9 +214,9 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 2 | Drow[^📒2️⃣] |
 | 3 | Drow Half-Elf[^🗡️] |
 | 4 | Half-Elf[^📒1️⃣] |
-| 5 | Moon Elf[^📒2️⃣] |
+| 5 | Moon Elf[^🏹] |
 | 6 | Moon Half-Elf[^🗡️] |
-| 7 | Sun Elf[^📒2️⃣] |
+| 7 | Sun Elf[^🏹] |
 | 8 | Sun Half-Elf[^🗡️] |
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
@@ -364,9 +356,9 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 #### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 1 | Lightfoot Halfling[^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
-| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
+| 3 | Strongheart Halfling[^🥑] |
 
 ### Humans
 | d5 | Setting |
@@ -380,13 +372,13 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | d2 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (2014)[^📒1️⃣] |
+| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
 
 #### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (2014)[^📒1️⃣] |
+| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
 | 3 | Mark of Finding Human[^⚙️] |
 | 4 | Mark of Handling Human[^⚙️] |
 | 5 | Mark of Making Human[^⚙️] |
@@ -543,13 +535,13 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not equivalent to any single prior Aasimar option.
-[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Gold Dwarf in _Heroes of Faerûn_ is equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, a Shield Dwarf in _Heroes of Faerûn_ is equivalent to a Mountain Dwarf in _SRD 5.1_, and a Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
-[^🏹]: The Elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf in _Heroes of Faerûn_ is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf in _Plane Shift: Zendikar_ is equivalent to a Wood Elf in _SRD 5.2_.
-[^🍄]: The Gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome in _Dragonlance: Shadow of the Dragon Queen_ is equivalent to a Rock Gnome in _SRD 5.2_, and a Deep Gnome is equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
+[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
+[^🏹]: The Elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
+[^🍄]: The Gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior Goliath options.
-[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling in _Heroes of Faerûn_ is equivalent to a Stout Halfling in _Player's Handbook (2014)_.
-[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is equivalent to a Variant Human in _Player's Handbook (2014)_.
-[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc in _Plane Shift: Ixalan_ is equivalent to a Half-Orc.
+[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in _Player's Handbook (2014)_.
+[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in _Player's Handbook (2014)_.
+[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc is equivalent to a Half-Orc.
 [^🌙]: The Shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not equivalent to any single prior Shifter option.
 [^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
 [^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
