@@ -75,3 +75,5 @@ _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
 
 _Player's Handbook (2024)_ © 2024 Wizards of the Coast LLC.
+
+_Lorwyn: First Light_ © 2025 Wizards of the Coast LLC.
