@@ -223,9 +223,9 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 3 | Drow Half-Elf[^🗡️] |
 | 4 | Half-Elf[^📒1️⃣] |
 | 5 | Moon Elf[^📒2️⃣][^🏹] |
-| 6 | Moon Half-Elf[^🗡️][^🏹] |
+| 6 | Moon Half-Elf[^🗡️] |
 | 7 | Sun Elf[^📒2️⃣][^🏹] |
-| 8 | Sun Half-Elf[^🗡️][^🏹] |
+| 8 | Sun Half-Elf[^🗡️] |
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
 
@@ -544,7 +544,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
 [^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection. A Gold Dwarf in _Forgotten Realms: Heroes of Faerûn_ is mechanically equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, a Shield Dwarf in _Forgotten Realms: Heroes of Faerûn_ is mechanically equivalent to a Mountain Dwarf in _SRD 5.1_, and a Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is mechanically equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
-[^🏹]: A Moon Elf or Sun Elf in _Forgotten Realms: Heroes of Faerûn_ is mechanically equivalent to a High Elf in _SRD 5.2_, a Moon Half-Elf or Sun Half-Elf in _Sword Coast Adventurer's Guide_ is mechanically equivalent to a Half-Elf in _SRD 5.1_, and a Joraga Nation Elf in _Plane Shift: Zendikar_ is mechanically equivalent to a Wood Elf in _SRD 5.2_.
+[^🏹]: A Moon Elf or Sun Elf in _Forgotten Realms: Heroes of Faerûn_ is mechanically equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf in _Plane Shift: Zendikar_ is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🍄]: A Tinker Gnome in _Dragonlance: Shadow of the Dragon Queen_ is mechanically equivalent to a Rock Gnome in _SRD 5.2_, and a Deep Gnome is mechanically equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. A Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling in _Forgotten Realms: Heroes of Faerûn_ is mechanically equivalent to a Stout Halfling in _Player's Handbook (2014)_.
