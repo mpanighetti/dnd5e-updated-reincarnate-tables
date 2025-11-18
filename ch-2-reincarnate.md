@@ -1,8 +1,8 @@
 # Chapter 2: Reincarnate
 
-The **Reincarnation Options** table and all subsequent tables below replace the table found in the _Reincarnate_ spell's description.
+Replace the _Reincarnate_ spell's description with the following text and tables:
 
-Additionally, the _Reincarnate_ spell can now target any dead creature or piece of one, instead of just Humanoids, as long as its current creature type is represented by any species, ancestry, or variant listed in the tables below. For example, a dead creature with the Fey creature type can be targeted because there are Fey creatures on these tables (such as the fairy or satyr), but a creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d54 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
 | d54 | Species |
@@ -124,19 +124,20 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Ravenite Dragonborn[^⏳] |
 
 ### Dwarves
-| d4 | Setting |
+| d5 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
 | 2 | Dragonlance Dwarf (roll on **[Dragonlance Dwarves](#dragonlance-dwarves)** table for variant) |
 | 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
-| 4 | Kaladesh Dwarf[^🕰️] |
+| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
+| 5 | Kaladesh Dwarf[^🕰️] |
 
 #### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹] |
-| 3 | Mountain Dwarf[^🔰1️⃣] |
+| 2 | Duergar[^👹][^🪓] |
+| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
 #### Dragonlance Dwarves
 | d2 | Variant |
@@ -150,6 +151,13 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣] |
+
+#### Forgotten Realms Dwarves
+| d3 | Variant |
+|:-:|:-|
+| 1 | Duergar[^👹][^🪓] |
+| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
+| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elves
 | d8 | Setting |
@@ -356,9 +364,9 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 #### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^🥑] |
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
-| 3 | Strongheart Halfling[^🥑] |
+| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
 ### Humans
 | d5 | Setting |
@@ -372,13 +380,13 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | d2 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 2 | Human (2014)[^📒1️⃣] |
 
 #### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 2 | Human (2014)[^📒1️⃣] |
 | 3 | Mark of Finding Human[^⚙️] |
 | 4 | Mark of Handling Human[^⚙️] |
 | 5 | Mark of Making Human[^⚙️] |
