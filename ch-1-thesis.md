@@ -16,7 +16,7 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the Half-Elf and Half-Orc species to be ancestries of Elves and Orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**Boggarts, Bugbears, Goblins, Hobgoblins, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
+**The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
 
 **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
