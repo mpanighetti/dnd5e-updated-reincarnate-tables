@@ -5,62 +5,66 @@ The **Reincarnation Options** table and all subsequent tables below replace the 
 Additionally, the _Reincarnate_ spell can now target any dead creature or piece of one, instead of just Humanoids, as long as its current creature type is represented by any species, ancestry, or variant listed in the tables below. For example, a dead creature with the Fey creature type can be targeted because there are Fey creatures on these tables (such as the fairy or satyr), but a creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
-| d54 | Species |
+| d58 | Species |
 |:---:|:-|
 | 1 | Aarakocra[^🙈] |
 | 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
 | 3 | Aetherborn[^🕰️] |
 | 4 | Autognome[^🛸] |
 | 5 | Aven (roll on **[Aven](#aven)** table for ancestry) |
-| 6 | Centaur[^👹] |
-| 7 | Changeling[^👹] |
-| 8 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
-| 9 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
-| 10 | Elf (roll on **[Elves](#elves)** table for setting) |
-| 11 | Fairy[^👹] |
-| 12 | Firbolg[^👹] |
-| 13 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 14 | Giff[^🛸] |
-| 15 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 16 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
-| 17 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
-| 18 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 19 | Grung[^🐸] |
-| 20 | Hadozee[^🛸] |
-| 21 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
-| 22 | Harengon[^👹] |
-| 23 | Hexblood[^🌫️] |
-| 24 | Human (roll on **[Humans](#humans)** table for setting) |
-| 25 | Kalashtar[^⚙️] |
-| 26 | Kender[^🫅] |
-| 27 | Kenku[^👹] |
-| 28 | Khenra[^☥] |
-| 29 | Kobold[^👹] |
-| 30 | Kor[^🌴] |
-| 31 | Leonin[^🏺] |
-| 32 | Lizardfolk[^👹] |
-| 33 | Locathah[^🐟] |
-| 34 | Loxodon[^🏙️] |
-| 35 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
-| 36 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
-| 37 | Naga[^☥] |
-| 38 | Orc (roll on **[Orcs](#orcs)** table for setting) |
-| 39 | Owlin[^🎓] |
-| 40 | Plasmoid[^🛸] |
-| 41 | Reborn[^🌫️] |
-| 42 | Satyr[^👹] |
-| 43 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 44 | Simic Hybrid[^🏙️] |
-| 45 | Siren[^🦕] |
-| 46 | Tabaxi[^👹] |
-| 47 | Thri-kreen[^🛸] |
-| 48 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
-| 49 | Tortle[^👹] |
-| 50 | Triton[^👹] |
-| 51 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 52 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 53 | Warforged[^⚙️] |
-| 54 | Yuan-ti[^👹] |
+| 6 | Boggart (roll on **[Boggarts](#boggarts)** table for ancestry) |
+| 7 | Centaur[^👹] |
+| 8 | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
+| 9 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
+| 10 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
+| 11 | Elf (roll on **[Elves](#elves)** table for setting) |
+| 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
+| 13 | Firbolg[^👹] |
+| 14 | Flamekin[^🌄][^☄️] |
+| 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 16 | Giff[^🛸] |
+| 17 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 18 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
+| 19 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
+| 20 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 21 | Grung[^🐸] |
+| 22 | Hadozee[^🛸] |
+| 23 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
+| 24 | Harengon[^👹] |
+| 25 | Hexblood[^🌫️] |
+| 26 | Human (roll on **[Humans](#humans)** table for setting) |
+| 27 | Kalashtar[^⚙️] |
+| 28 | Kender[^🫅] |
+| 29 | Kenku[^👹] |
+| 30 | Khenra[^☥] |
+| 31 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
+| 32 | Kobold[^👹] |
+| 33 | Kor[^🌴] |
+| 34 | Leonin[^🏺] |
+| 35 | Lizardfolk[^👹] |
+| 36 | Locathah[^🐟] |
+| 37 | Loxodon[^🏙️] |
+| 38 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
+| 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 40 | Naga[^☥] |
+| 41 | Orc (roll on **[Orcs](#orcs)** table for setting) |
+| 42 | Owlin[^🎓] |
+| 43 | Plasmoid[^🛸] |
+| 44 | Rimekin[^🌄] |
+| 45 | Reborn[^🌫️] |
+| 46 | Satyr[^👹] |
+| 47 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 48 | Simic Hybrid[^🏙️] |
+| 49 | Siren[^🦕] |
+| 50 | Tabaxi[^👹] |
+| 51 | Thri-kreen[^🛸] |
+| 52 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
+| 53 | Tortle[^👹] |
+| 54 | Triton[^👹] |
+| 55 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 56 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 57 | Warforged[^⚙️] |
+| 58 | Yuan-ti[^👹] |
 
 ### Aasimar
 | d5 | Ancestry |
@@ -76,6 +80,18 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 |:-:|:-|
 | 1 | Hawk-Headed Aven[^☥] |
 | 2 | Ibis-Headed Aven[^☥] |
+
+### Boggarts
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Lorwyn Boggart[^🌄][^🐒] |
+| 2 | Shadowmoor Boggart[^🌄][^🐒] |
+
+### Changelings
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Changeling[^👹] |
+| 2 | Lorwyn Changeling[^🌄] |
 
 ### Dragonborn
 | d2 | Setting |
@@ -152,19 +168,20 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 3 | Mountain Dwarf[^🔰1️⃣] |
 
 ### Elves
-| d8 | Setting |
+| d9 | Setting |
 |:-:|:-|
-| 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for ancestry) |
+| 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
 | 2 | Dragonlance Elf (roll on **[Dragonlance Elves](#dragonlance-elves)** table for variant) |
 | 3 | Eberron Elf (roll on **[Eberron Elves](#eberron-elves)** table for variant) |
 | 4 | Exandrian Elf (roll on **[Exandrian Elves](#exandrian-elves)** table for variant) |
 | 5 | Forgotten Realms Elf (roll on **[Forgotten Realms Elves](#forgotten-realms-elves)** table for variant) |
 | 6 | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
-| 7 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
-| 8 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
+| 7 | Lorwyn-Shadowmoor Elf (roll on **[Lorwyn-Shadowmoor Elves](#lorwyn-shadowmoor-elves)** table for variant) |
+| 8 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
+| 9 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
 #### Elven Lineages
-| d8 | Ancestry |
+| d8 | Lineage |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
 | 2 | Drow[^📒2️⃣] |
@@ -228,6 +245,12 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Tirahar Elf[^🕰️] |
 | 3 | Vahadar Elf[^🕰️] |
 
+#### Lorwyn-Shadowmoor Elves
+| d2 | Lineage |
+|:-:|:-|
+| 1 | Lorwyn Elf[^🌄] |
+| 2 | Shadowmoor Elf[^🌄] |
+
 #### Ravnica Elves
 | d4 | Variant |
 |:-:|:-|
@@ -242,6 +265,18 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 1 | Joraga Nation Elf[^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
+
+### Fairies
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Fairy[^👹] |
+| 2 | Lorwyn-Shadowmoor Fairy (roll on **[Lorwyn-Shadowmoor Fairies](#lorwyn-shadowmoor-fairies)** for variant) |
+
+### Lorwyn-Shadowmoor Fairies
+| d2 | Variant |
+|:-:|:-|
+| 1 | Lorwyn Fairy[^🌄][^🧚] |
+| 2 | Shadowmoor Fairy[^🌄][^🧚] |
 
 ### Genasi
 | d4 | Ancestry |
@@ -298,7 +333,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | d4 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
-| 2 | Forgotten Realms Goblinoid (roll on **[Forgotten Realms Goblinoid](#forgotten-realms-goblinoid)** for variant) |
+| 2 | Forgotten Realms Goblinoid (roll on **[Forgotten Realms Goblinoid](#forgotten-realms-goblinoid)** table for variant) |
 | 3 | Ixalan Goblin[^🦕] |
 | 4 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
@@ -392,6 +427,12 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Kessig Human[^🧛] |
 | 3 | Nephalia Human[^🧛] |
 | 4 | Stensia Human[^🧛] |
+
+### Kithkin
+| d2 | Ancestry |
+|:-:|:-|
+| 1 | Lorwyn Kithkin[^🌄][^🥑] |
+| 2 | Shadowmoor Kithkin[^🌄][^🥑] |
 
 ### Merfolk
 | d2 | Setting |
@@ -515,6 +556,7 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^🐉]: Source: _Fizban's Treasury of Dragons_
 [^🏙️]: Source: _Guildmasters' Guide to Ravnica_
 [^🐟]: Source: _Locathah Rising_
+[^🌄]: Source: _Lorwyn: First Light_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
 [^👺]: Source: _Mordenkainen's Tome of Foes_
 [^🏺]: Source: _Mythic Odysseys of Theros_
@@ -537,9 +579,12 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not equivalent to any single prior Aasimar option.
 [^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
 [^🏹]: The Elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
+[^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
+[^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🍄]: The Gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_.
+[^🐒]: A Lorwyn Boggart and Shadowmoor Boggart in _Lorwyn: First Light_ are mechanically equivalent to a Goblin.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior Goliath options.
-[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Halfling is equivalent to a Lightfoot Halfling in _SRD 5.1_, and a Strongheart Halfling is equivalent to a Stout Halfling in _Player's Handbook (2014)_.
+[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. A Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin in _Lorwyn: First Light_, and a Strongheart Halfling is mechanically equivalent to a Stout Halfling in _Player's Handbook (2014)_, while a Shadowmoor Kithkin in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Halfling species option.
 [^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in _Player's Handbook (2014)_.
 [^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc is equivalent to a Half-Orc.
 [^🌙]: The Shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not equivalent to any single prior Shifter option.
