@@ -8,7 +8,7 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 ## Assumptions
 
-### Grouping and separating
+### Grouping
 
 **Related ancestries are grouped together under a common species for organizational purposes.** This does not align with the options presented in some book releases, where classically grouped ancestries are split out into discrete species options (e.g. Eladrin, Sea Elves, and Shadar-kai are all considered types of Elves in _Mordenkainen's Tome of Foes_, but are separate species in _Mordenkainen Presents: Monsters of the Multiverse_), but this setup helps keep the top-level table under control, it acknowledges that these separate branches of people have a common ancestry with shared traits, and it prevents the odds from being stacked in the favor of more diverse species such as Elves or Dragonborn.
 
@@ -18,9 +18,11 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **Boggarts, Bugbears, Goblins, Hobgoblins, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
 
-**The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
+**The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
-**The Dhampir is considered to be a Vampire variant**, based on it fulfilling a similar archetypal fantasy role and narrative origin.
+### Separating
+
+**The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 
 **Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
 
