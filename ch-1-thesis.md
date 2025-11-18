@@ -65,7 +65,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 **Method 1:** Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
 
-**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 57 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10, re-rolling an individual die if it creates an invalid result, such as a 58 or 00.
+**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 57 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10. Roll an individual die again if it creates an invalid total result, such as a 58 or 00.
 
 ---
 
