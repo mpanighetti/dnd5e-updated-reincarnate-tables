@@ -2,15 +2,9 @@
 
 ## Goals
 
-The _Reincarnate_ spell only provides options for dead Humanoids to be reincarnated into one of the 9 Humanoid species available to play in each _SRD_. Instead, **we need to replace the table built into the _Reincarnate_ spell to allow the equal possibility of targeting and reincarnating into every playable species, ancestry, and creature type throughout the multiverse officially released as character options for Dungeons & Dragons 5th Edition.**
+The _Reincarnate_ spell only provides options for dead Humanoids to be reincarnated as one of the 9 Humanoid species available to play in _SRD 5.2_. Instead, **we need to replace the table built into the _Reincarnate_ spell to allow the equal possibility of targeting and reincarnating into every playable species, ancestry, and creature type throughout the multiverse officially released as character options for Dungeons & Dragons 5th Edition.**
 
 Additionally, **Dungeon Masters should be empowered to apply custom weighting of results based on the species, ancestries, and creature types typically found in their given setting**, excluding some species or giving other species different odds. One example of a possible exception to equal distribution might be a world where intelligent constructs such as autognomes and warforged do not exist. The recommended solution for this situation is to re-roll if the random species does not exist in the DM's game world. They could also give other species the dice results of excluded species to increase their odds, making the table more closely resemble that of the _SRD 5.1_ version of the spell description. Though we still believe that equal odds and all options are preferable by default, DMs should always be the final decision-makers for their implementation of house rules.
-
-## How to use these tables
-
-1. When you cast _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
-2. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
-3. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
 
 ## Assumptions
 
@@ -46,6 +40,12 @@ This ensures that freely available resources are referenced whenever possible, a
 
 - **If a setting book mentions that all options from a specific resource for a given species are available, then the table for each species will include options across all versions of those resources when they differ over time.** This accounts for setting books that attempt to make default species options freely available while considering that these resources are updated over time. When the resource mentioned is a _Player's Handbook_, options from each _SRD_ will also be included.
 - **Dragonmarks are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options. Aberrant dragonmarks are not included on these tables, since this mark is provided as a feat rather than a species option. If you roll an unmarked Eberron species, an aberrant dragonmark is available to you at DM discretion.
+
+## How to use these tables
+
+1. When you cast _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
+2. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on the multiverse table for general options.
+3. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
 
 ## Accomplishments
 
