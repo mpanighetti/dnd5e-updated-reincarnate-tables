@@ -488,13 +488,12 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Orc[^📒2️⃣] |
 
 ### Shifters
-| d5 | Ancestry |
+| d4 | Ancestry |
 |:-:|:-|
-| 1 | Shifter[^👹][^🌙] |
-| 2 | Beasthide[^⚙️] |
-| 3 | Longtooth[^⚙️] |
-| 4 | Swiftstride[^⚙️] |
-| 5 | Wildhunt[^⚙️] |
+| 1 | Beasthide Shifter[^👹] |
+| 2 | Longtooth Shifter[^👹] |
+| 3 | Swiftstride Shifter[^👹] |
+| 4 | Wildhunt Shifter[^👹] |
 
 ### Tieflings
 | d2 | Setting |
@@ -595,6 +594,5 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 [^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
 [^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.
 [^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
-[^🌙]: The Shifter was updated in _Mordenkainen Presents: Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not mechanically equivalent to any single prior Shifter option.
 [^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. The Infernal Tiefling is mechanically equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not mechanically equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
 [^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. The Asmodeus Tiefling is mechanically equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not mechanically equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
