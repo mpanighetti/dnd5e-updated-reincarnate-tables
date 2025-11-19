@@ -39,7 +39,7 @@
 
 ---
 
-| ⬅️ Back to Reincarnation Options](ch-2-reincarnate.md) |
+| ⬅️ Back to [Reincarnation Options](ch-2-reincarnate.md) |
 |-:|
 
 ---
