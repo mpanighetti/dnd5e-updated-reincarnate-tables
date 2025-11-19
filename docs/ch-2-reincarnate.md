@@ -44,7 +44,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 23 | Halfling (roll on **[Halflings](halflings.md)** table for setting) |
 | 24 | Harengon[^👹] |
 | 25 | Hexblood[^🌫️] |
-| 26 | Human (roll on **[Humans](#humans)** table for setting) |
+| 26 | Human (roll on **[Humans](humans.md)** table for setting) |
 | 27 | Kalashtar[^⚙️] |
 | 28 | Kender[^🫅] |
 | 29 | Kenku[^👹] |
@@ -134,39 +134,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Githyanki[^👹] |
 | 2 | Githzerai[^👹] |
-
-#### Humans
-| d5 | Setting |
-|:-:|:-|
-| 1 | Human of the Multiverse (roll on **[Humans of the Multiverse](#humans-of-the-multiverse)** table for variant) |
-| 2 | Eberron Human (roll on **[Eberron Humans](#eberron-humans)** table for variant) |
-| 3 | Innistrad Human (roll on **[Innistrad Provinces](#innistrad-provinces)** table for provincial origin) |
-| 4 | Keldon Human[^🛡️] |
-
-##### Humans of the Multiverse
-| d2 | Variant |
-|:-:|:-|
-| 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (2014)[^📒1️⃣] |
-
-##### Eberron Humans
-| d7 | Variant |
-|:-:|:-|
-| 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (2014)[^📒1️⃣] |
-| 3 | Mark of Finding Human[^⚙️] |
-| 4 | Mark of Handling Human[^⚙️] |
-| 5 | Mark of Making Human[^⚙️] |
-| 6 | Mark of Passage Human[^⚙️] |
-| 7 | Mark of Sentinel Human[^⚙️] |
-
-##### Innistrad Provinces
-| d4 | Provincial Origin |
-|:-:|:-|
-| 1 | Gavony Human[^🧛] |
-| 2 | Kessig Human[^🧛] |
-| 3 | Nephalia Human[^🧛] |
-| 4 | Stensia Human[^🧛] |
 
 #### Kithkin
 | d2 | Ancestry |
@@ -300,8 +267,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🏺]: Source: _Mythic Odysseys of Theros_
 [^🐸]: Source: _One Grung Above_
 [^☥]: Source: _Plane Shift: Amonkhet_
-[^🛡️]: Source: _Plane Shift: Dominaria_
-[^🧛]: Source: _Plane Shift: Innistrad_
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^🕰️]: Source: _Plane Shift: Kaladesh_
 [^🌴]: Source: _Plane Shift: Zendikar_
@@ -317,7 +282,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halfling.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
-[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.
 [^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
 [^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. The Infernal Tiefling is mechanically equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not mechanically equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
 [^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. The Asmodeus Tiefling is mechanically equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not mechanically equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
