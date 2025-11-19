@@ -2,68 +2,81 @@
 
 Replace the _Reincarnate_ spell's description with the following text and tables:
 
-You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d57 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+## Reincarnate
+_Level 5 Necromancy (Druid)_
+
+**Casting Time:** 1 hour
+**Range:** Touch
+**Components:** V, S, M (rare oils with 1,000+ GP, which the spell consumes)
+**Duration:** Instantaneous
+
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d58 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
+
+The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+
+The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
 ## Reincarnation Options
-| d57 | Species |
+| d58 | Species |
 |:---:|:-|
-| 1 | Aarakocra[^🙈] |
-| 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
-| 3 | Aetherborn[^🕰️] |
-| 4 | Autognome[^🛸] |
-| 5 | Aven (roll on **[Aven](#aven)** table for ancestry) |
-| 6 | Centaur[^👹] |
-| 7 | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
-| 8 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
-| 9 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
-| 10 | Elf (roll on **[Elves](#elves)** table for setting) |
-| 11 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
-| 12 | Firbolg[^👹] |
-| 13 | Flamekin[^🌄][^☄️] |
-| 14 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 15 | Giff[^🛸] |
-| 16 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 17 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
-| 18 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
-| 19 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 20 | Grung[^🐸] |
-| 21 | Hadozee[^🛸] |
-| 22 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
-| 23 | Harengon[^👹] |
-| 24 | Hexblood[^🌫️] |
-| 25 | Human (roll on **[Humans](#humans)** table for setting) |
-| 26 | Kalashtar[^⚙️] |
-| 27 | Kender[^🫅] |
-| 28 | Kenku[^👹] |
-| 29 | Khenra[^☥] |
-| 30 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
-| 31 | Kobold[^👹] |
-| 32 | Kor[^🌴] |
-| 33 | Leonin[^🏺] |
-| 34 | Lizardfolk[^👹] |
-| 35 | Locathah[^🐟] |
-| 36 | Loxodon[^🏙️] |
-| 37 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
-| 38 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
-| 39 | Naga[^☥] |
-| 40 | Orc (roll on **[Orcs](#orcs)** table for setting) |
-| 41 | Owlin[^🎓] |
-| 42 | Plasmoid[^🛸] |
-| 43 | Rimekin[^🌄] |
-| 44 | Reborn[^🌫️] |
-| 45 | Satyr[^👹] |
-| 46 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 47 | Simic Hybrid[^🏙️] |
-| 48 | Siren[^🦕] |
-| 49 | Tabaxi[^👹] |
-| 50 | Thri-kreen[^🛸] |
-| 51 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
-| 52 | Tortle[^👹] |
-| 53 | Triton[^👹] |
-| 54 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 55 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 56 | Warforged[^⚙️] |
-| 57 | Yuan-ti[^👹] |
+| 1  | If the creature's species is not represented on this table, the body is the same species as it was when it died. If the creature's species is on this table, or if this table is being used to generate a new character's species, roll again. |
+| 2  | Aarakocra[^🙈] |
+| 3  | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
+| 4  | Aetherborn[^🕰️] |
+| 5  | Autognome[^🛸] |
+| 6  | Aven (roll on **[Aven](#aven)** table for ancestry) |
+| 7  | Centaur[^👹] |
+| 8  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
+| 9  | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
+| 10  | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
+| 11 | Elf (roll on **[Elves](#elves)** table for setting) |
+| 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
+| 13 | Firbolg[^👹] |
+| 14 | Flamekin[^🌄][^☄️] |
+| 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 16 | Giff[^🛸] |
+| 17 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 18 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
+| 19 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
+| 20 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 21 | Grung[^🐸] |
+| 22 | Hadozee[^🛸] |
+| 23 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
+| 24 | Harengon[^👹] |
+| 25 | Hexblood[^🌫️] |
+| 26 | Human (roll on **[Humans](#humans)** table for setting) |
+| 27 | Kalashtar[^⚙️] |
+| 28 | Kender[^🫅] |
+| 29 | Kenku[^👹] |
+| 30 | Khenra[^☥] |
+| 31 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
+| 32 | Kobold[^👹] |
+| 33 | Kor[^🌴] |
+| 34 | Leonin[^🏺] |
+| 35 | Lizardfolk[^👹] |
+| 36 | Locathah[^🐟] |
+| 37 | Loxodon[^🏙️] |
+| 38 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
+| 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 40 | Naga[^☥] |
+| 41 | Orc (roll on **[Orcs](#orcs)** table for setting) |
+| 42 | Owlin[^🎓] |
+| 43 | Plasmoid[^🛸] |
+| 44 | Rimekin[^🌄] |
+| 45 | Reborn[^🌫️] |
+| 46 | Satyr[^👹] |
+| 47 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 48 | Simic Hybrid[^🏙️] |
+| 49 | Siren[^🦕] |
+| 50 | Tabaxi[^👹] |
+| 51 | Thri-kreen[^🛸] |
+| 52 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
+| 53 | Tortle[^👹] |
+| 54 | Triton[^👹] |
+| 55 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 56 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 57 | Warforged[^⚙️] |
+| 58 | Yuan-ti[^👹] |
 
 ### Aasimar
 | d5 | Ancestry |
@@ -551,8 +564,10 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 
 ---
 
-| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) |
-|:-|
+| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | [Rules Definitions](rules-definitions.md) ➡️ |
+|:-|-:|
+
+---
 
 [^💰]: Source: _Acquisitions Incorporated_
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
@@ -584,12 +599,12 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
+[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
 [^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection. The Gold Dwarf and Shield Dwarf of the Forgotten Realms are mechanically equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, and the Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is mechanically equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
 [^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🍄]: The Tinker Gnome of Dragonlance is mechanically equivalent to a Rock Gnome in _SRD 5.2_, and the Deep Gnome is mechanically equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
-[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
 [^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.

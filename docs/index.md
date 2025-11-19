@@ -13,3 +13,10 @@ _Reincarnate_. We love it! It's a perfect spell, best way to bring back allies f
 ### [Credits](credits.md)
 
 ### [Licensing](licensing.md)
+
+---
+
+| [Chapter 1: Thesis](ch-1-thesis.md) ➡️ |
+|-:|
+
+---

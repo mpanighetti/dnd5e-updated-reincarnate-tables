@@ -70,5 +70,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 ---
 
-| [Chapter 2: Reincarnate](ch-2-reincarnate.md) ➡️ |
-|-:|
+| ⬅️ [Index](index.md) | [Chapter 2: Reincarnate](ch-2-reincarnate.md) ➡️ |
+|:-|-:|
+
+---
