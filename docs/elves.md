@@ -28,9 +28,9 @@
 #### Dragonlance Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | High Elf[^📒2️⃣][^🏹] |
+| 1 | High Elf[^📒2️⃣] [^🏹] |
 | 2 | Sea Elf[^👹] |
-| 3 | Wood Elf[^📒2️⃣][^🏹] |
+| 3 | Wood Elf[^📒2️⃣] [^🏹] |
 
 #### Eberron Elves
 | d11 | Variant |
@@ -64,9 +64,9 @@
 | 2 | Drow[^📒2️⃣] |
 | 3 | Drow Half-Elf[^🗡️] |
 | 4 | Half-Elf[^📒1️⃣] |
-| 5 | Moon Elf[^📒2️⃣][^🏹] |
+| 5 | Moon Elf[^📒2️⃣] [^🏹] |
 | 6 | Moon Half-Elf[^🗡️] |
-| 7 | Sun Elf[^📒2️⃣][^🏹] |
+| 7 | Sun Elf[^📒2️⃣] [^🏹] |
 | 8 | Sun Half-Elf[^🗡️] |
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |

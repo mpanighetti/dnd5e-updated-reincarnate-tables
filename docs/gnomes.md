@@ -10,7 +10,7 @@
 #### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Deep Gnome[^🙈][^🍄] |
+| 1 | Deep Gnome[^🙈] [^🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
@@ -18,7 +18,7 @@
 | d2 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
-| 2 | Tinker Gnome[^🫅][^🍄] |
+| 2 | Tinker Gnome[^🫅] [^🍄] |
 
 #### Eberron Gnome
 | d3 | Variant |
