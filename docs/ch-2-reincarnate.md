@@ -30,7 +30,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 9  | Dragonborn (roll on **[Dragonborn](dragonborn.md)** table for setting) |
 | 10 | Dwarf (roll on **[Dwarves](dwarves.md)** table for setting) |
 | 11 | Elf (roll on **[Elves](elves.md)** table for setting) |
-| 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
+| 12 | Fairy (roll on **[Fairies](fairies.md)** table for ancestry) |
 | 13 | Firbolg[^👹] |
 | 14 | Flamekin[^🌄][^☄️] |
 | 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
@@ -98,18 +98,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Changeling[^👹] |
 | 2 | Lorwyn Changeling[^🌄] |
-
-#### Fairies
-| d2 | Ancestry |
-|:-:|:-|
-| 1 | Fairy[^👹] |
-| 2 | Lorwyn-Shadowmoor Fairy (roll on **[Lorwyn-Shadowmoor Fairies](#lorwyn-shadowmoor-fairies)** for variant) |
-
-##### Lorwyn-Shadowmoor Fairies
-| d2 | Variant |
-|:-:|:-|
-| 1 | Lorwyn Fairy[^🌄][^🧚] |
-| 2 | Shadowmoor Fairy[^🌄][^🧚] |
 
 #### Genasi
 | d4 | Ancestry |
@@ -278,7 +266,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
-[^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halfling.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
