@@ -41,7 +41,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 20 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
 | 21 | Grung[^🐸] |
 | 22 | Hadozee[^🛸] |
-| 23 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
+| 23 | Halfling (roll on **[Halflings](halflings.md)** table for setting) |
 | 24 | Harengon[^👹] |
 | 25 | Hexblood[^🌫️] |
 | 26 | Human (roll on **[Humans](#humans)** table for setting) |
@@ -134,42 +134,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Githyanki[^👹] |
 | 2 | Githzerai[^👹] |
-
-#### Halflings
-| d4 | Setting |
-|:-:|:-|
-| 1 | Halfling of the Multiverse (roll on **[Halflings of the Multiverse](#halflings-of-the-multiverse)** table for variant) |
-| 2 | Eberron Halfling (roll on **[Eberron Halflings](#eberron-halflings)** table for variant) |
-| 3 | Exandrian Halfling (roll on **[Exandrian Halflings](#exandrian-halflings)** table for variant) |
-| 4 | Forgotten Realms Halfling (roll on **[Forgotten Realms Halflings](#forgotten-realms-halflings)** for variant) |
-
-##### Halflings of the Multiverse
-| d2 | Variant |
-|:-:|:-|
-| 1 | Halfling[^📒2️⃣][^🥑] |
-| 2 | Stout Halfling[^🔰1️⃣] |
-
-##### Eberron Halflings
-| d4 | Variant |
-|:-:|:-|
-| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
-| 2 | Mark of Healing Halfling[^⚙️] |
-| 3 | Mark of Hospitality Halfling[^⚙️] |
-| 4 | Stout Halfling[^🔰1️⃣] |
-
-##### Exandrian Halflings
-| d3 | Variant |
-|:-:|:-|
-| 1 | Halfling[^📒2️⃣][^🥑] |
-| 2 | Lotusden Halfling[^⏳] |
-| 3 | Stout Halfling[^🔰1️⃣] |
-
-##### Forgotten Realms Halflings
-| d3 | Variant |
-|:-:|:-|
-| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
-| 2 | Ghostwise Halfling[^🗡️] |
-| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
 #### Humans
 | d5 | Setting |
@@ -328,7 +292,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🦹]: Source: _Dungeon Master's Guide (2014)_
 [^⚙️]: Source: _Eberron: Rising from the Last War_
 [^🙈]: Source: _Elemental Evil Player's Companion_
-[^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🏙️]: Source: _Guildmasters' Guide to Ravnica_
 [^🐟]: Source: _Locathah Rising_
 [^🌄]: Source: _Lorwyn: First Light_
@@ -342,7 +305,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^🕰️]: Source: _Plane Shift: Kaladesh_
 [^🌴]: Source: _Plane Shift: Zendikar_
-[^🔰1️⃣]: Source: _Player's Handbook (2014)_
 [^🔰2️⃣]: Source: _Player's Handbook (2024)_
 [^🛸]: Source: _Spelljammer: Adventures in Space_
 [^🎓]: Source: _Strixhaven: Curriculum of Chaos_
@@ -354,7 +316,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
-[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
+[^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halfling.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
 [^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.
 [^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
 [^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. The Infernal Tiefling is mechanically equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not mechanically equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
