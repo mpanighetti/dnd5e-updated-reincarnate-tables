@@ -29,7 +29,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 8  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
 | 9  | Dragonborn (roll on **[Dragonborn](dragonborn.md)** table for setting) |
 | 10 | Dwarf (roll on **[Dwarves](dwarves.md)** table for setting) |
-| 11 | Elf (roll on **[Elves](#elves)** table for setting) |
+| 11 | Elf (roll on **[Elves](elves.md)** table for setting) |
 | 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
 | 13 | Firbolg[^👹] |
 | 14 | Flamekin[^🌄][^☄️] |
@@ -98,105 +98,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Changeling[^👹] |
 | 2 | Lorwyn Changeling[^🌄] |
-
-#### Elves
-| d9 | Setting |
-|:-:|:-|
-| 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
-| 2 | Dragonlance Elf (roll on **[Dragonlance Elves](#dragonlance-elves)** table for variant) |
-| 3 | Eberron Elf (roll on **[Eberron Elves](#eberron-elves)** table for variant) |
-| 4 | Exandrian Elf (roll on **[Exandrian Elves](#exandrian-elves)** table for variant) |
-| 5 | Forgotten Realms Elf (roll on **[Forgotten Realms Elves](#forgotten-realms-elves)** table for variant) |
-| 6 | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
-| 7 | Lorwyn-Shadowmoor Elf (roll on **[Lorwyn-Shadowmoor Elves](#lorwyn-shadowmoor-elves)** table for variant) |
-| 8 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
-| 9 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
-
-##### Elven Lineages
-| d8 | Lineage |
-|:-:|:-|
-| 1 | Astral Elf[^🛸] |
-| 2 | Drow[^📒2️⃣] |
-| 3 | Eladrin[^👹] |
-| 4 | Half-Elf[^📒1️⃣] |
-| 5 | High Elf[^📒2️⃣] |
-| 6 | Sea Elf[^👹] |
-| 7 | Shadar-kai[^👹] |
-| 8 | Wood Elf[^📒2️⃣] |
-
-##### Dragonlance Elves
-| d3 | Variant |
-|:-:|:-|
-| 1 | High Elf[^🏹] |
-| 2 | Sea Elf[^👹] |
-| 3 | Wood Elf[^🏹] |
-
-##### Eberron Elves
-| d11 | Variant |
-|:-:|:-|
-| 1 | Aereni High Elf[^🧭] |
-| 2 | Aereni Wood Elf[^🧭] |
-| 3 | Drow[^📒2️⃣] |
-| 4 | Half-Elf[^📒1️⃣] |
-| 5 | High Elf[^📒2️⃣] |
-| 6 | Mark of Detection Half-Elf[^⚙️] |
-| 7 | Mark of Shadow Elf[^⚙️] |
-| 8 | Mark of Storm Half-Elf[^⚙️] |
-| 9 | Valenar High Elf[^🧭] |
-| 10 | Valenar Wood Elf[^🧭] |
-| 11 | Wood Elf[^📒2️⃣] |
-
-##### Exandrian Elves
-| d6 | Variant |
-|:-:|:-|
-| 1 | Drow[^📒2️⃣] |
-| 2 | Half-Elf[^📒1️⃣] |
-| 3 | High Elf[^📒2️⃣] |
-| 4 | Pallid Elf[^⏳] |
-| 5 | Sea Elf[^👹] |
-| 6 | Wood Elf[^📒2️⃣] |
-
-##### Forgotten Realms Elves
-| d10 | Variant |
-|:-:|:-|
-| 1 | Aquatic Half-Elf[^🗡️] |
-| 2 | Drow[^📒2️⃣] |
-| 3 | Drow Half-Elf[^🗡️] |
-| 4 | Half-Elf[^📒1️⃣] |
-| 5 | Moon Elf[^📒2️⃣][^🏹] |
-| 6 | Moon Half-Elf[^🗡️] |
-| 7 | Sun Elf[^📒2️⃣][^🏹] |
-| 8 | Sun Half-Elf[^🗡️] |
-| 9 | Wood Elf[^📒2️⃣] |
-| 10 | Wood Half-Elf[^🗡️] |
-
-##### Kaladesh Elves
-| d3 | Variant |
-|:-:|:-|
-| 1 | Bishtahar Elf[^🕰️] |
-| 2 | Tirahar Elf[^🕰️] |
-| 3 | Vahadar Elf[^🕰️] |
-
-##### Lorwyn-Shadowmoor Elves
-| d2 | Lineage |
-|:-:|:-|
-| 1 | Lorwyn Elf[^🌄] |
-| 2 | Shadowmoor Elf[^🌄] |
-
-##### Ravnica Elves
-| d4 | Variant |
-|:-:|:-|
-| 1 | Drow[^📒2️⃣] |
-| 2 | Half-Elf[^📒1️⃣] |
-| 3 | High Elf[^📒2️⃣] |
-| 4 | Wood Elf[^📒2️⃣] |
-
-##### Zendikar Elves
-| d3 | Variant |
-|:-:|:-|
-| 1 | Joraga Nation Elf[^🏹] |
-| 2 | Mul Daya Nation Elf[^🌴] |
-| 3 | Tajuru Nation Elf[^🌴] |
 
 #### Fairies
 | d2 | Ancestry |
@@ -514,10 +415,8 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^📒1️⃣]: Source: _SRD 5.1_
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
-[^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
 [^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🍄]: The Tinker Gnome of Dragonlance is mechanically equivalent to a Rock Gnome in _SRD 5.2_, and the Deep Gnome is mechanically equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
