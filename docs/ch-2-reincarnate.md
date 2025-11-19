@@ -28,7 +28,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 7  | Centaur[^👹] |
 | 8  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
 | 9  | Dragonborn (roll on **[Dragonborn](dragonborn.md)** table for setting) |
-| 10 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
+| 10 | Dwarf (roll on **[Dwarves](dwarves.md)** table for setting) |
 | 11 | Elf (roll on **[Elves](#elves)** table for setting) |
 | 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
 | 13 | Firbolg[^👹] |
@@ -98,42 +98,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Changeling[^👹] |
 | 2 | Lorwyn Changeling[^🌄] |
-
-#### Dwarves
-| d5 | Setting |
-|:-:|:-|
-| 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
-| 2 | Dragonlance Dwarf (roll on **[Dragonlance Dwarves](#dragonlance-dwarves)** table for variant) |
-| 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
-| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
-| 5 | Kaladesh Dwarf[^🕰️] |
-
-##### Dwarves of the Multiverse
-| d3 | Variant |
-|:-:|:-|
-| 1 | Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹][^🪓] |
-| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
-
-##### Dragonlance Dwarves
-| d2 | Variant |
-|:-:|:-|
-| 1 | Hill Dwarf[^🪓] |
-| 2 | Mountain Dwarf[^🔰1️⃣] |
-
-##### Eberron Dwarves
-| d3 | Variant |
-|:-:|:-|
-| 1 | Hill Dwarf[^🪓] |
-| 2 | Mark of Warding Dwarf[^⚙️] |
-| 3 | Mountain Dwarf[^🔰1️⃣] |
-
-##### Forgotten Realms Dwarves
-| d3 | Variant |
-|:-:|:-|
-| 1 | Duergar[^👹][^🪓] |
-| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
-| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 #### Elves
 | d9 | Setting |
@@ -553,7 +517,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
 [^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
-[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection. The Gold Dwarf and Shield Dwarf of the Forgotten Realms are mechanically equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, and the Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is mechanically equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
 [^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
