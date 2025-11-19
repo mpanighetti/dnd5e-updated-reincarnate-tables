@@ -56,7 +56,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 35 | Lizardfolk[^👹] |
 | 36 | Locathah[^🐟] |
 | 37 | Loxodon[^🏙️] |
-| 38 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
+| 38 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
 | 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
 | 40 | Naga[^☥] |
 | 41 | Orc (roll on **[Orcs](#orcs)** table for setting) |
@@ -128,25 +128,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Lorwyn Kithkin[^🌄][^🥑] |
 | 2 | Shadowmoor Kithkin[^🌄][^🥑] |
-
-#### Merfolk
-| d2 | Setting |
-|:-:|:-|
-| 1 | Ixalan Merfolk (roll on **[Ixalan Merfolk](#ixalan-merfolk)** table for variant) |
-| 2 | Zendikar Merfolk (roll on **[Zendikar Merfolk](#zendikar-merfolk)** table for variant) |
-
-##### Ixalan Merfolk
-| d2 | Variant |
-|:-:|:-|
-| 1 | Green Merfolk[^🦕] |
-| 2 | Blue Merfolk[^🦕] |
-
-##### Zendikar Merfolk
-| d3 | Variant |
-|:-:|:-|
-| 1 | Cosi Creed Merfolk[^🌴] |
-| 2 | Emeria (Wind) Creed Merfolk[^🌴] |
-| 3 | Ula (Water) Creed Merfolk[^🌴] |
 
 #### Minotaur
 | d2 | Ancestry |
