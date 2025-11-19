@@ -10,7 +10,7 @@ _Level 5 Necromancy (Druid)_
 **Components:** V, S, M (rare oils with 1,000+ GP, which the spell consumes)\
 **Duration:** Instantaneous
 
-You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d58 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll on the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
 
 The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
@@ -186,4 +186,4 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
-[^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halfling.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
+[^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halflings.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
