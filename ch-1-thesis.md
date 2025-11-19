@@ -8,9 +8,10 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 ## How to use these tables
 
-1. When you cast _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
-2. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
-3. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
+1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
+2. After casting _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
+3. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
+4. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
 
 ## Assumptions
 
