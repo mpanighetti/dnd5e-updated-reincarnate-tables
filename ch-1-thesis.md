@@ -8,13 +8,14 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 ## How to use these tables
 
-1. When you cast _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
-2. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
-3. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
+1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
+2. After casting _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
+3. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
+4. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
 
 ## Assumptions
 
-### Grouping and separating
+### Grouping
 
 **Related ancestries are grouped together under a common species for organizational purposes.** This does not align with the options presented in some book releases, where classically grouped ancestries are split out into discrete species options (e.g. Eladrin, Sea Elves, and Shadar-kai are all considered types of Elves in _Mordenkainen's Tome of Foes_, but are separate species in _Mordenkainen Presents: Monsters of the Multiverse_), but this setup helps keep the top-level table under control, it acknowledges that these separate branches of people have a common ancestry with shared traits, and it prevents the odds from being stacked in the favor of more diverse species such as Elves or Dragonborn.
 
@@ -22,11 +23,15 @@ Additionally, **Dungeon Masters should be empowered to apply custom weighting of
 
 **New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the Half-Elf and Half-Orc species to be ancestries of Elves and Orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**Bugbears, Goblins, Hobgoblins, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of recent game updates giving many of them the shared "Goblinoid" creature tag and the Fey Ancestry trait.
+**The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of several variants having a Goblinoid creature tag and the Fey Ancestry trait.
+
+**The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
+
+### Separating
 
 **The lineages from _Van Richten's Guide to Ravenloft_ are not considered to be ancestries of a common species.** While they have shared mechanics for character creation or conversion, they have no actual shared origin in lore and thus are treated as separate species.
 
-**The Dhampir is considered to be a Vampire variant**, based on it fulfilling a similar archetypal fantasy role and narrative origin.
+**Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
 
 ### Sourcing
 
@@ -61,7 +66,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 **Method 1:** Select the die with the next-highest value, and re-roll for any results not on the table. For example, a d6 can be rolled for a d5 table, with a 6 requiring a re-roll.
 
-**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 54 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10, rerolling an individual die if it creates an invalid result, such as a 56 or 00 (which would be 60).
+**Method 2:** As with rolling percentile dice, roll for each digit. For example, if the **Reincarnation Options** table has 57 results, first roll for the tens position (in this example, the tens position has six options, so roll a d6 and consider a 6 to be a 0), then for the ones position with a d10. Roll an individual die again if it creates an invalid total result, such as a 58 or 00.
 
 ---
 
