@@ -1,26 +1,26 @@
 # Gnomes
 
-#### Gnomes
+### Gnomes
 | d3 | Setting |
 |:-:|:-|
 | 1 | Gnome of the Multiverse (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
 | 2 | Dragonlance Gnome (roll on **[Dragonlance Gnomes](#dragonlance-gnomes)** table for variant) |
 | 3 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
 
-##### Gnomish Lineages
+#### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Deep Gnome[^🙈][^🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
-##### Dragonlance Gnomes
+#### Dragonlance Gnomes
 | d2 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Tinker Gnome[^🫅][^🍄] |
 
-##### Eberron Gnome
+#### Eberron Gnome
 | d3 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |

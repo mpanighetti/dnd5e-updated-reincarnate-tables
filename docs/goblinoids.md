@@ -1,6 +1,6 @@
 # Goblinoids
 
-#### Goblinoids
+### Goblinoids
 | d5 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
@@ -9,20 +9,20 @@
 | 4 | Ixalan Goblin[^🦕] |
 | 5 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
-##### Goblinoids of the Multiverse
+#### Goblinoids of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
 | 2 | Goblin[^👹] |
 | 3 | Hobgoblin[^👹] |
 
-##### Boggarts
+#### Boggarts
 | d2 | Variant |
 |:-:|:-|
 | 1 | Lorwyn Boggart[^🌄][^🐒] |
 | 2 | Shadowmoor Boggart[^🌄][^🐒] |
 
-##### Forgotten Realms Goblinoids
+#### Forgotten Realms Goblinoids
 | d4 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
@@ -30,7 +30,7 @@
 | 3 | Hobgoblin[^👹] |
 | 4 | Verdan[^💰] |
 
-##### Zendikar Goblins
+#### Zendikar Goblins
 | d3 | Variant |
 |:-:|:-|
 | 1 | Grotag Tribe Goblin[^🌴] |
