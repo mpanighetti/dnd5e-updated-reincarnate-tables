@@ -59,7 +59,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 38 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
 | 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
 | 40 | Naga[^☥] |
-| 41 | Orc (roll on **[Orcs](#orcs)** table for setting) |
+| 41 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
 | 42 | Owlin[^🎓] |
 | 43 | Plasmoid[^🛸] |
 | 44 | Rimekin[^🌄] |
@@ -134,26 +134,6 @@ The reincarnated creature makes any choices that a species' description offers, 
 |:-:|:-|
 | 1 | Minotaur[^👹] |
 | 2 | Amonkhet Minotaur[^☥] |
-
-#### Orcs
-| d2 | Setting |
-|:-:|:-|
-| 1 | Orc of the Multiverse (roll on **[Orcs of the Multiverse](#orcs-of-the-multiverse)** table for variant) |
-| 2 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
-| 3 | Ixalan Orc[^🍖] |
-
-##### Orcs of the Multiverse
-| d2 | Variant |
-|:-:|:-|
-| 1 | Orc[^📒2️⃣] |
-| 2 | Half-Orc[^📒1️⃣] |
-
-##### Eberron Orcs
-| d3 | Variant |
-|:-:|:-|
-| 1 | Half-Orc[^📒1️⃣] |
-| 2 | Mark of Finding Half-Orc[^⚙️] |
-| 3 | Orc[^📒2️⃣] |
 
 #### Shifters
 | d4 | Ancestry |
@@ -250,6 +230,5 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halfling.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
-[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
 [^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. The Infernal Tiefling is mechanically equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not mechanically equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
 [^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. The Asmodeus Tiefling is mechanically equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not mechanically equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
