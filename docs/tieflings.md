@@ -27,19 +27,28 @@
 | 9 | Zariel Tiefling[^👺] |
 
 #### Forgotten Realms Tieflings
-| d4 | Variant |
+| d5 | Variant |
 |:-:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
 | 2 | Chthonic Tiefling[^📒2️⃣] |
-| 3 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
-| 4 | Feral Tiefling (roll on **[Feral Tieflings](#feral-tieflings)** table for variant) |
+| 3 | Feral Tiefling (roll on **[Feral Tieflings](#feral-tieflings)** table for variant) |
+| 4 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
+| 5 | Variant Tiefling (roll on **[Variant Tieflings](#variant-tieflings)** table for variant) |
 
 ##### Feral Tieflings
+| d4 | Variant |
+|:-:|:-|
+| 1 | Feral Tiefling[^🗡️] |
+| 2 | Variant Feral Tiefling (Devil's Tongue)[^🗡️] |
+| 3 | Variant Feral Tiefling (Hellfire)[^🗡️] |
+| 4 | Variant Feral Tiefling (Winged)[^🗡️] |
+
+##### Variant Tieflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Devil's Tongue Feral Tiefling[^🗡️] |
-| 2 | Hellfire Feral Tiefling[^🗡️] |
-| 3 | Winged Feral Tiefling[^🗡️] |
+| 1 | Variant Tiefling (Devil's Tongue)[^🗡️] |
+| 2 | Variant Tiefling (Hellfire)[^🗡️] |
+| 3 | Variant Tiefling (Winged)[^🗡️] |
 
 ---
 
