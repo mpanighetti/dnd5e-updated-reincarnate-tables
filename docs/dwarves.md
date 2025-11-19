@@ -1,6 +1,6 @@
 # Dwarves
 
-#### Dwarves
+### Dwarves
 | d5 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
@@ -9,27 +9,27 @@
 | 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
 | 5 | Kaladesh Dwarf[^🕰️] |
 
-##### Dwarves of the Multiverse
+#### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹][^🪓] |
 | 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
-##### Dragonlance Dwarves
+#### Dragonlance Dwarves
 | d2 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mountain Dwarf[^🔰1️⃣] |
 
-##### Eberron Dwarves
+#### Eberron Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^📒2️⃣][^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
-##### Forgotten Realms Dwarves
+#### Forgotten Realms Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Duergar[^👹][^🪓] |
