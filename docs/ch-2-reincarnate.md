@@ -16,7 +16,7 @@ The dead creature or piece of one can be any creature type represented by a spec
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-## Reincarnation Options
+### Reincarnation Options
 | d58 | Species |
 |:---:|:-|
 | 1  | If the creature's species is not represented on this table, the body is the same species as it was when it died. If the creature's species is on this table, or if this table is being used to generate a new character's species, roll again. |
@@ -78,7 +78,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 57 | Warforged[^⚙️] |
 | 58 | Yuan-ti[^👹] |
 
-### Aasimar
+#### Aasimar
 | d5 | Ancestry |
 |:-:|:-|
 | 1 | Aasimar[^🔰2️⃣][^🪽] |
@@ -93,26 +93,26 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 1 | Hawk-Headed Aven[^☥] |
 | 2 | Ibis-Headed Aven[^☥] |
 
-### Changelings
+#### Changelings
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Changeling[^👹] |
 | 2 | Lorwyn Changeling[^🌄] |
 
-### Dragonborn
+#### Dragonborn
 | d2 | Setting |
 |:-:|:-|
 | 1 | Dragonborn of the Multiverse (roll on **[Draconic Ancestor](#draconic-ancestor)** table for ancestry) |
 | 2 | Exandrian Dragonborn (roll on **[Exandrian Dragonborn](#exandrian-dragonborn)** table for variant) |
 
-#### Draconic Ancestor
+##### Draconic Ancestor
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Chromatic Dragonborn (roll on **[Chromatic Dragonborn](#chromatic-dragonborn)** table for color) |
 | 2 | Gem Dragonborn (roll on **[Gem Dragonborn](#gem-dragonborn)** table for gemstone) |
 | 3 | Metallic Dragonborn (roll on **[Metallic Dragonborn](#metallic-dragonborn)** table for metal) |
 
-##### Chromatic Dragonborn
+###### Chromatic Dragonborn
 | d5 | Color |
 |:-:|:-|
 | 1 | Black[^📒2️⃣] |
@@ -121,7 +121,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Red[^📒2️⃣] |
 | 5 | White[^📒2️⃣] |
 
-##### Gem Dragonborn
+###### Gem Dragonborn
 | d5 | Gemstone |
 |:-:|:-|
 | 1 | Amethyst[^🐉] |
@@ -130,7 +130,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Sapphire[^🐉] |
 | 5 | Topaz[^🐉] |
 
-##### Metallic Dragonborn
+###### Metallic Dragonborn
 | d5 | Metal |
 |:-:|:-|
 | 1 | Brass[^📒2️⃣] |
@@ -139,13 +139,13 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Gold[^📒2️⃣] |
 | 5 | Silver[^📒2️⃣] |
 
-#### Exandrian Dragonborn
+##### Exandrian Dragonborn
 | d2 | Variant |
 |:-:|:-|
 | 1 | Draconblood Dragonborn[^⏳] |
 | 2 | Ravenite Dragonborn[^⏳] |
 
-### Dwarves
+#### Dwarves
 | d5 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
@@ -154,34 +154,34 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
 | 5 | Kaladesh Dwarf[^🕰️] |
 
-#### Dwarves of the Multiverse
+##### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹][^🪓] |
 | 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
-#### Dragonlance Dwarves
+##### Dragonlance Dwarves
 | d2 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mountain Dwarf[^🔰1️⃣] |
 
-#### Eberron Dwarves
+##### Eberron Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣] |
 
-#### Forgotten Realms Dwarves
+##### Forgotten Realms Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Duergar[^👹][^🪓] |
 | 2 | Gold Dwarf[^📒2️⃣][^🪓] |
 | 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
-### Elves
+#### Elves
 | d9 | Setting |
 |:-:|:-|
 | 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
@@ -194,7 +194,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 8 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
 | 9 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
-#### Elven Lineages
+##### Elven Lineages
 | d8 | Lineage |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
@@ -206,14 +206,14 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 7 | Shadar-kai[^👹] |
 | 8 | Wood Elf[^📒2️⃣] |
 
-#### Dragonlance Elves
+##### Dragonlance Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | High Elf[^🏹] |
 | 2 | Sea Elf[^👹] |
 | 3 | Wood Elf[^🏹] |
 
-#### Eberron Elves
+##### Eberron Elves
 | d11 | Variant |
 |:-:|:-|
 | 1 | Aereni High Elf[^🧭] |
@@ -228,7 +228,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 10 | Valenar Wood Elf[^🧭] |
 | 11 | Wood Elf[^📒2️⃣] |
 
-#### Exandrian Elves
+##### Exandrian Elves
 | d6 | Variant |
 |:-:|:-|
 | 1 | Drow[^📒2️⃣] |
@@ -238,7 +238,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 5 | Sea Elf[^👹] |
 | 6 | Wood Elf[^📒2️⃣] |
 
-#### Forgotten Realms Elves
+##### Forgotten Realms Elves
 | d10 | Variant |
 |:-:|:-|
 | 1 | Aquatic Half-Elf[^🗡️] |
@@ -252,20 +252,20 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
 
-#### Kaladesh Elves
+##### Kaladesh Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Bishtahar Elf[^🕰️] |
 | 2 | Tirahar Elf[^🕰️] |
 | 3 | Vahadar Elf[^🕰️] |
 
-#### Lorwyn-Shadowmoor Elves
+##### Lorwyn-Shadowmoor Elves
 | d2 | Lineage |
 |:-:|:-|
 | 1 | Lorwyn Elf[^🌄] |
 | 2 | Shadowmoor Elf[^🌄] |
 
-#### Ravnica Elves
+##### Ravnica Elves
 | d4 | Variant |
 |:-:|:-|
 | 1 | Drow[^📒2️⃣] |
@@ -273,26 +273,26 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | High Elf[^📒2️⃣] |
 | 4 | Wood Elf[^📒2️⃣] |
 
-#### Zendikar Elves
+##### Zendikar Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Joraga Nation Elf[^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
 
-### Fairies
+#### Fairies
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Fairy[^👹] |
 | 2 | Lorwyn-Shadowmoor Fairy (roll on **[Lorwyn-Shadowmoor Fairies](#lorwyn-shadowmoor-fairies)** for variant) |
 
-### Lorwyn-Shadowmoor Fairies
+##### Lorwyn-Shadowmoor Fairies
 | d2 | Variant |
 |:-:|:-|
 | 1 | Lorwyn Fairy[^🌄][^🧚] |
 | 2 | Shadowmoor Fairy[^🌄][^🧚] |
 
-### Genasi
+#### Genasi
 | d4 | Ancestry |
 |:--:|:-|
 | 1 | Air Genasi[^🙈] |
@@ -300,7 +300,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Fire Genasi[^🙈] |
 | 4 | Water Genasi[^🙈] |
 
-### Giant Ancestry
+#### Giant Ancestry
 | d6 | Ancestry |
 |:--:|:-|
 | 1 | Cloud Giant Goliath[^📒2️⃣] |
@@ -310,40 +310,40 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 5 | Stone Giant Goliath[^📒2️⃣][^🧌] |
 | 6 | Storm Giant Goliath[^📒2️⃣] |
 
-### Gith
+#### Gith
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Githyanki[^👹] |
 | 2 | Githzerai[^👹] |
 
-### Gnomes
+#### Gnomes
 | d3 | Setting |
 |:-:|:-|
 | 1 | Gnome of the Multiverse (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
 | 2 | Dragonlance Gnome (roll on **[Dragonlance Gnomes](#dragonlance-gnomes)** table for variant) |
 | 3 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
 
-#### Gnomish Lineages
+##### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Deep Gnome[^🙈][^🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
-#### Dragonlance Gnomes
+##### Dragonlance Gnomes
 | d2 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Tinker Gnome[^🍄] |
 
-#### Eberron Gnome
+##### Eberron Gnome
 | d3 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Mark of Scribing Gnome[^⚙️] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
-### Goblinoids
+#### Goblinoids
 | d5 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
@@ -352,20 +352,20 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Ixalan Goblin[^🦕] |
 | 5 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
-#### Goblinoids of the Multiverse
+##### Goblinoids of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
 | 2 | Goblin[^👹] |
 | 3 | Hobgoblin[^👹] |
 
-#### Boggarts
+##### Boggarts
 | d2 | Variant |
 |:-:|:-|
 | 1 | Lorwyn Boggart[^🌄][^🐒] |
 | 2 | Shadowmoor Boggart[^🌄][^🐒] |
 
-#### Forgotten Realms Goblinoids
+##### Forgotten Realms Goblinoids
 | d4 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
@@ -373,14 +373,14 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Hobgoblin[^👹] |
 | 4 | Verdan[^💰] |
 
-#### Zendikar Goblins
+##### Zendikar Goblins
 | d3 | Variant |
 |:-:|:-|
 | 1 | Grotag Tribe Goblin[^🌴] |
 | 2 | Lavastep Tribe Goblin[^🌴] |
 | 3 | Tuktuk Tribe Goblin[^🌴] |
 
-### Halflings
+#### Halflings
 | d4 | Setting |
 |:-:|:-|
 | 1 | Halfling of the Multiverse (roll on **[Halflings of the Multiverse](#halflings-of-the-multiverse)** table for variant) |
@@ -388,13 +388,13 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Exandrian Halfling (roll on **[Exandrian Halflings](#exandrian-halflings)** table for variant) |
 | 4 | Forgotten Realms Halfling (roll on **[Forgotten Realms Halflings](#forgotten-realms-halflings)** for variant) |
 
-#### Halflings of the Multiverse
+##### Halflings of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Halfling[^📒2️⃣][^🥑] |
 | 2 | Stout Halfling[^🔰1️⃣] |
 
-#### Eberron Halflings
+##### Eberron Halflings
 | d4 | Variant |
 |:-:|:-|
 | 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
@@ -402,21 +402,21 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Mark of Hospitality Halfling[^⚙️] |
 | 4 | Stout Halfling[^🔰1️⃣] |
 
-#### Exandrian Halflings
+##### Exandrian Halflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Halfling[^📒2️⃣][^🥑] |
 | 2 | Lotusden Halfling[^⏳] |
 | 3 | Stout Halfling[^🔰1️⃣] |
 
-#### Forgotten Realms Halflings
+##### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
 | 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
-### Humans
+#### Humans
 | d5 | Setting |
 |:-:|:-|
 | 1 | Human of the Multiverse (roll on **[Humans of the Multiverse](#humans-of-the-multiverse)** table for variant) |
@@ -424,13 +424,13 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Innistrad Human (roll on **[Innistrad Provinces](#innistrad-provinces)** table for provincial origin) |
 | 4 | Keldon Human[^🛡️] |
 
-#### Humans of the Multiverse
+##### Humans of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
 | 2 | Human (2014)[^📒1️⃣] |
 
-#### Eberron Humans
+##### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
@@ -441,7 +441,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 6 | Mark of Passage Human[^⚙️] |
 | 7 | Mark of Sentinel Human[^⚙️] |
 
-#### Innistrad Provinces
+##### Innistrad Provinces
 | d4 | Provincial Origin |
 |:-:|:-|
 | 1 | Gavony Human[^🧛] |
@@ -449,58 +449,58 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Nephalia Human[^🧛] |
 | 4 | Stensia Human[^🧛] |
 
-### Kithkin
+#### Kithkin
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Lorwyn Kithkin[^🌄][^🥑] |
 | 2 | Shadowmoor Kithkin[^🌄][^🥑] |
 
-### Merfolk
+#### Merfolk
 | d2 | Setting |
 |:-:|:-|
 | 1 | Ixalan Merfolk (roll on **[Ixalan Merfolk](#ixalan-merfolk)** table for variant) |
 | 2 | Zendikar Merfolk (roll on **[Zendikar Merfolk](#zendikar-merfolk)** table for variant) |
 
-#### Ixalan Merfolk
+##### Ixalan Merfolk
 | d2 | Variant |
 |:-:|:-|
 | 1 | Green Merfolk[^🦕] |
 | 2 | Blue Merfolk[^🦕] |
 
-#### Zendikar Merfolk
+##### Zendikar Merfolk
 | d3 | Variant |
 |:-:|:-|
 | 1 | Cosi Creed Merfolk[^🌴] |
 | 2 | Emeria (Wind) Creed Merfolk[^🌴] |
 | 3 | Ula (Water) Creed Merfolk[^🌴] |
 
-### Minotaur
+#### Minotaur
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Minotaur[^👹] |
 | 2 | Amonkhet Minotaur[^☥] |
 
-### Orcs
+#### Orcs
 | d2 | Setting |
 |:-:|:-|
 | 1 | Orc of the Multiverse (roll on **[Orcs of the Multiverse](#orcs-of-the-multiverse)** table for variant) |
 | 2 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
 | 3 | Ixalan Orc[^🍖] |
 
-#### Orcs of the Multiverse
+##### Orcs of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Orc[^📒2️⃣] |
 | 2 | Half-Orc[^📒1️⃣] |
 
-#### Eberron Orcs
+##### Eberron Orcs
 | d3 | Variant |
 |:-:|:-|
 | 1 | Half-Orc[^📒1️⃣] |
 | 2 | Mark of Finding Half-Orc[^⚙️] |
 | 3 | Orc[^📒2️⃣] |
 
-### Shifters
+#### Shifters
 | d4 | Ancestry |
 |:-:|:-|
 | 1 | Beasthide Shifter[^👹] |
@@ -508,20 +508,20 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Swiftstride Shifter[^👹] |
 | 4 | Wildhunt Shifter[^👹] |
 
-### Tieflings
+#### Tieflings
 | d2 | Setting |
 |:--:|:-|
 | 1 | Tiefling of the Multiverse (roll on **[Fiendish Legacies](#fiendish-legacies)**[^😈] table for ancestry) |
 | 2 | Forgotten Realms Tiefling (roll on **[Forgotten Realms Tieflings](#forgotten-realms-tieflings)** table for variant) |
 
-#### Fiendish Legacies
+##### Fiendish Legacies
 | d3 | Ancestry |
 |:--:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
 | 2 | Chthonic Tiefling[^📒2️⃣] |
 | 3 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
 
-##### Infernal Tieflings
+###### Infernal Tieflings
 | d9 | Variant |
 |:--:|:-|
 | 1 | Asmodeus Tiefling[^😈] |
@@ -534,7 +534,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 8 | Mephistopheles Tiefling[^👺] |
 | 9 | Zariel Tiefling[^👺] |
 
-#### Forgotten Realms Tieflings
+##### Forgotten Realms Tieflings
 | d4 | Variant |
 |:-:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
@@ -542,21 +542,21 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 3 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
 | 4 | Feral Tiefling (roll on **[Feral Tieflings](#feral-tieflings)** table for variant) |
 
-##### Feral Tieflings
+###### Feral Tieflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Devil's Tongue Feral Tiefling[^🗡️] |
 | 2 | Hellfire Feral Tiefling[^🗡️] |
 | 3 | Winged Feral Tiefling[^🗡️] |
 
-### Vampires
+#### Vampires
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Dhampir[^🌫️] |
 | 2 | Ixalan Vampire[^🦕] |
 | 3 | Zendikar Vampire[^🌴] |
 
-### Vedalken
+#### Vedalken
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Kaladesh Vedalken[^🕰️] |
