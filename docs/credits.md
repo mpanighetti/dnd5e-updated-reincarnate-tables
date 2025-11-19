@@ -63,3 +63,10 @@ _Player's Handbook (2024)_ © 2024 Wizards of the Coast LLC.
 _Forgotten Realms: Heroes of Faerûn_ © 2025 Wizards of the Coast LLC.
 
 _Lorwyn: First Light_ © 2025 Wizards of the Coast LLC.
+
+---
+
+| ⬅️ [Rules Definitions](rules-definitions.md) | [Licensing](licensing.md) ➡️ |
+|:-|-:|
+
+---

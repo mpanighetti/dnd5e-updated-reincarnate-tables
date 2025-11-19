@@ -2,70 +2,83 @@
 
 Replace the _Reincarnate_ spell's description with the following text and tables:
 
-You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d57 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+## Reincarnate
+_Level 5 Necromancy (Druid)_
 
-## Reincarnation Options
-| d57 | Species |
+**Casting Time:** 1 hour\
+**Range:** Touch\
+**Components:** V, S, M (rare oils with 1,000+ GP, which the spell consumes)\
+**Duration:** Instantaneous
+
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d58 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
+
+The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+
+The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
+
+### Reincarnation Options
+| d58 | Species |
 |:---:|:-|
-| 1 | Aarakocra[^🙈] |
-| 2 | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
-| 3 | Aetherborn[^🕰️] |
-| 4 | Autognome[^🛸] |
-| 5 | Aven (roll on **[Aven](#aven)** table for ancestry) |
-| 6 | Centaur[^👹] |
-| 7 | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
-| 8 | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
-| 9 | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
-| 10 | Elf (roll on **[Elves](#elves)** table for setting) |
-| 11 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
-| 12 | Firbolg[^👹] |
-| 13 | Flamekin[^🌄][^☄️] |
-| 14 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 15 | Giff[^🛸] |
-| 16 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 17 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
-| 18 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
-| 19 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 20 | Grung[^🐸] |
-| 21 | Hadozee[^🛸] |
-| 22 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
-| 23 | Harengon[^👹] |
-| 24 | Hexblood[^🌫️] |
-| 25 | Human (roll on **[Humans](#humans)** table for setting) |
-| 26 | Kalashtar[^⚙️] |
-| 27 | Kender[^🫅] |
-| 28 | Kenku[^👹] |
-| 29 | Khenra[^☥] |
-| 30 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
-| 31 | Kobold[^👹] |
-| 32 | Kor[^🌴] |
-| 33 | Leonin[^🏺] |
-| 34 | Lizardfolk[^👹] |
-| 35 | Locathah[^🐟] |
-| 36 | Loxodon[^🏙️] |
-| 37 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
-| 38 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
-| 39 | Naga[^☥] |
-| 40 | Orc (roll on **[Orcs](#orcs)** table for setting) |
-| 41 | Owlin[^🎓] |
-| 42 | Plasmoid[^🛸] |
-| 43 | Rimekin[^🌄] |
-| 44 | Reborn[^🌫️] |
-| 45 | Satyr[^👹] |
-| 46 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 47 | Simic Hybrid[^🏙️] |
-| 48 | Siren[^🦕] |
-| 49 | Tabaxi[^👹] |
-| 50 | Thri-kreen[^🛸] |
-| 51 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
-| 52 | Tortle[^👹] |
-| 53 | Triton[^👹] |
-| 54 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 55 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 56 | Warforged[^⚙️] |
-| 57 | Yuan-ti[^👹] |
+| 1  | If the creature's species is not represented on this table, the body is the same species as it was when it died. If the creature's species is on this table, or if this table is being used to generate a new character's species, roll again. |
+| 2  | Aarakocra[^🙈] |
+| 3  | Aasimar (roll on **[Aasimar](#aasimar)** table for ancestry) |
+| 4  | Aetherborn[^🕰️] |
+| 5  | Autognome[^🛸] |
+| 6  | Aven (roll on **[Aven](#aven)** table for ancestry) |
+| 7  | Centaur[^👹] |
+| 8  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
+| 9  | Dragonborn (roll on **[Dragonborn](#dragonborn)** table for setting) |
+| 10  | Dwarf (roll on **[Dwarves](#dwarves)** table for setting) |
+| 11 | Elf (roll on **[Elves](#elves)** table for setting) |
+| 12 | Fairy (roll on **[Fairies](#fairies)** table for ancestry) |
+| 13 | Firbolg[^👹] |
+| 14 | Flamekin[^🌄][^☄️] |
+| 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 16 | Giff[^🛸] |
+| 17 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 18 | Gnome (roll on **[Gnomes](#gnomes)** table for setting) |
+| 19 | Goblinoid (roll on **[Goblinoids](#goblinoids)** table for setting) |
+| 20 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 21 | Grung[^🐸] |
+| 22 | Hadozee[^🛸] |
+| 23 | Halfling (roll on **[Halflings](#halflings)** table for setting) |
+| 24 | Harengon[^👹] |
+| 25 | Hexblood[^🌫️] |
+| 26 | Human (roll on **[Humans](#humans)** table for setting) |
+| 27 | Kalashtar[^⚙️] |
+| 28 | Kender[^🫅] |
+| 29 | Kenku[^👹] |
+| 30 | Khenra[^☥] |
+| 31 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
+| 32 | Kobold[^👹] |
+| 33 | Kor[^🌴] |
+| 34 | Leonin[^🏺] |
+| 35 | Lizardfolk[^👹] |
+| 36 | Locathah[^🐟] |
+| 37 | Loxodon[^🏙️] |
+| 38 | Merfolk (roll on **[Merfolk](#merfolk)** table for setting) |
+| 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 40 | Naga[^☥] |
+| 41 | Orc (roll on **[Orcs](#orcs)** table for setting) |
+| 42 | Owlin[^🎓] |
+| 43 | Plasmoid[^🛸] |
+| 44 | Rimekin[^🌄] |
+| 45 | Reborn[^🌫️] |
+| 46 | Satyr[^👹] |
+| 47 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 48 | Simic Hybrid[^🏙️] |
+| 49 | Siren[^🦕] |
+| 50 | Tabaxi[^👹] |
+| 51 | Thri-kreen[^🛸] |
+| 52 | Tiefling (roll on **[Tieflings](#tieflings)** table for setting) |
+| 53 | Tortle[^👹] |
+| 54 | Triton[^👹] |
+| 55 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 56 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 57 | Warforged[^⚙️] |
+| 58 | Yuan-ti[^👹] |
 
-### Aasimar
+#### Aasimar
 | d5 | Ancestry |
 |:-:|:-|
 | 1 | Aasimar[^🔰2️⃣][^🪽] |
@@ -80,26 +93,26 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 1 | Hawk-Headed Aven[^☥] |
 | 2 | Ibis-Headed Aven[^☥] |
 
-### Changelings
+#### Changelings
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Changeling[^👹] |
 | 2 | Lorwyn Changeling[^🌄] |
 
-### Dragonborn
+#### Dragonborn
 | d2 | Setting |
 |:-:|:-|
 | 1 | Dragonborn of the Multiverse (roll on **[Draconic Ancestor](#draconic-ancestor)** table for ancestry) |
 | 2 | Exandrian Dragonborn (roll on **[Exandrian Dragonborn](#exandrian-dragonborn)** table for variant) |
 
-#### Draconic Ancestor
+##### Draconic Ancestor
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Chromatic Dragonborn (roll on **[Chromatic Dragonborn](#chromatic-dragonborn)** table for color) |
 | 2 | Gem Dragonborn (roll on **[Gem Dragonborn](#gem-dragonborn)** table for gemstone) |
 | 3 | Metallic Dragonborn (roll on **[Metallic Dragonborn](#metallic-dragonborn)** table for metal) |
 
-##### Chromatic Dragonborn
+###### Chromatic Dragonborn
 | d5 | Color |
 |:-:|:-|
 | 1 | Black[^📒2️⃣] |
@@ -108,7 +121,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 4 | Red[^📒2️⃣] |
 | 5 | White[^📒2️⃣] |
 
-##### Gem Dragonborn
+###### Gem Dragonborn
 | d5 | Gemstone |
 |:-:|:-|
 | 1 | Amethyst[^🐉] |
@@ -117,7 +130,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 4 | Sapphire[^🐉] |
 | 5 | Topaz[^🐉] |
 
-##### Metallic Dragonborn
+###### Metallic Dragonborn
 | d5 | Metal |
 |:-:|:-|
 | 1 | Brass[^📒2️⃣] |
@@ -126,13 +139,13 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 4 | Gold[^📒2️⃣] |
 | 5 | Silver[^📒2️⃣] |
 
-#### Exandrian Dragonborn
+##### Exandrian Dragonborn
 | d2 | Variant |
 |:-:|:-|
 | 1 | Draconblood Dragonborn[^⏳] |
 | 2 | Ravenite Dragonborn[^⏳] |
 
-### Dwarves
+#### Dwarves
 | d5 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
@@ -141,34 +154,34 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
 | 5 | Kaladesh Dwarf[^🕰️] |
 
-#### Dwarves of the Multiverse
+##### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
 | 2 | Duergar[^👹][^🪓] |
 | 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
-#### Dragonlance Dwarves
+##### Dragonlance Dwarves
 | d2 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mountain Dwarf[^🔰1️⃣] |
 
-#### Eberron Dwarves
+##### Eberron Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣] |
 
-#### Forgotten Realms Dwarves
+##### Forgotten Realms Dwarves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Duergar[^👹][^🪓] |
 | 2 | Gold Dwarf[^📒2️⃣][^🪓] |
 | 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
-### Elves
+#### Elves
 | d9 | Setting |
 |:-:|:-|
 | 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
@@ -181,7 +194,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 8 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
 | 9 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
-#### Elven Lineages
+##### Elven Lineages
 | d8 | Lineage |
 |:-:|:-|
 | 1 | Astral Elf[^🛸] |
@@ -193,14 +206,14 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 7 | Shadar-kai[^👹] |
 | 8 | Wood Elf[^📒2️⃣] |
 
-#### Dragonlance Elves
+##### Dragonlance Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | High Elf[^🏹] |
 | 2 | Sea Elf[^👹] |
 | 3 | Wood Elf[^🏹] |
 
-#### Eberron Elves
+##### Eberron Elves
 | d11 | Variant |
 |:-:|:-|
 | 1 | Aereni High Elf[^🧭] |
@@ -215,7 +228,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 10 | Valenar Wood Elf[^🧭] |
 | 11 | Wood Elf[^📒2️⃣] |
 
-#### Exandrian Elves
+##### Exandrian Elves
 | d6 | Variant |
 |:-:|:-|
 | 1 | Drow[^📒2️⃣] |
@@ -225,7 +238,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 5 | Sea Elf[^👹] |
 | 6 | Wood Elf[^📒2️⃣] |
 
-#### Forgotten Realms Elves
+##### Forgotten Realms Elves
 | d10 | Variant |
 |:-:|:-|
 | 1 | Aquatic Half-Elf[^🗡️] |
@@ -239,20 +252,20 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
 
-#### Kaladesh Elves
+##### Kaladesh Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Bishtahar Elf[^🕰️] |
 | 2 | Tirahar Elf[^🕰️] |
 | 3 | Vahadar Elf[^🕰️] |
 
-#### Lorwyn-Shadowmoor Elves
+##### Lorwyn-Shadowmoor Elves
 | d2 | Lineage |
 |:-:|:-|
 | 1 | Lorwyn Elf[^🌄] |
 | 2 | Shadowmoor Elf[^🌄] |
 
-#### Ravnica Elves
+##### Ravnica Elves
 | d4 | Variant |
 |:-:|:-|
 | 1 | Drow[^📒2️⃣] |
@@ -260,26 +273,26 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | High Elf[^📒2️⃣] |
 | 4 | Wood Elf[^📒2️⃣] |
 
-#### Zendikar Elves
+##### Zendikar Elves
 | d3 | Variant |
 |:-:|:-|
 | 1 | Joraga Nation Elf[^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
 
-### Fairies
+#### Fairies
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Fairy[^👹] |
 | 2 | Lorwyn-Shadowmoor Fairy (roll on **[Lorwyn-Shadowmoor Fairies](#lorwyn-shadowmoor-fairies)** for variant) |
 
-### Lorwyn-Shadowmoor Fairies
+##### Lorwyn-Shadowmoor Fairies
 | d2 | Variant |
 |:-:|:-|
 | 1 | Lorwyn Fairy[^🌄][^🧚] |
 | 2 | Shadowmoor Fairy[^🌄][^🧚] |
 
-### Genasi
+#### Genasi
 | d4 | Ancestry |
 |:--:|:-|
 | 1 | Air Genasi[^🙈] |
@@ -287,7 +300,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Fire Genasi[^🙈] |
 | 4 | Water Genasi[^🙈] |
 
-### Giant Ancestry
+#### Giant Ancestry
 | d6 | Ancestry |
 |:--:|:-|
 | 1 | Cloud Giant Goliath[^📒2️⃣] |
@@ -297,40 +310,40 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 5 | Stone Giant Goliath[^📒2️⃣][^🧌] |
 | 6 | Storm Giant Goliath[^📒2️⃣] |
 
-### Gith
+#### Gith
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Githyanki[^👹] |
 | 2 | Githzerai[^👹] |
 
-### Gnomes
+#### Gnomes
 | d3 | Setting |
 |:-:|:-|
 | 1 | Gnome of the Multiverse (roll on **[Gnomish Lineages](#gnomish-lineages)** table for ancestry) |
 | 2 | Dragonlance Gnome (roll on **[Dragonlance Gnomes](#dragonlance-gnomes)** table for variant) |
 | 3 | Eberron Gnome (roll on **[Eberron Gnomes](#eberron-gnomes)** table for variant) |
 
-#### Gnomish Lineages
+##### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Deep Gnome[^🙈][^🍄] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
-#### Dragonlance Gnomes
+##### Dragonlance Gnomes
 | d2 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Tinker Gnome[^🍄] |
 
-#### Eberron Gnome
+##### Eberron Gnome
 | d3 | Variant |
 |:-:|:-|
 | 1 | Forest Gnome[^📒2️⃣] |
 | 2 | Mark of Scribing Gnome[^⚙️] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
-### Goblinoids
+#### Goblinoids
 | d5 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
@@ -339,20 +352,20 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 4 | Ixalan Goblin[^🦕] |
 | 5 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
-#### Goblinoids of the Multiverse
+##### Goblinoids of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
 | 2 | Goblin[^👹] |
 | 3 | Hobgoblin[^👹] |
 
-#### Boggarts
+##### Boggarts
 | d2 | Variant |
 |:-:|:-|
 | 1 | Lorwyn Boggart[^🌄][^🐒] |
 | 2 | Shadowmoor Boggart[^🌄][^🐒] |
 
-#### Forgotten Realms Goblinoids
+##### Forgotten Realms Goblinoids
 | d4 | Variant |
 |:-:|:-|
 | 1 | Bugbear[^👹] |
@@ -360,14 +373,14 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Hobgoblin[^👹] |
 | 4 | Verdan[^💰] |
 
-#### Zendikar Goblins
+##### Zendikar Goblins
 | d3 | Variant |
 |:-:|:-|
 | 1 | Grotag Tribe Goblin[^🌴] |
 | 2 | Lavastep Tribe Goblin[^🌴] |
 | 3 | Tuktuk Tribe Goblin[^🌴] |
 
-### Halflings
+#### Halflings
 | d4 | Setting |
 |:-:|:-|
 | 1 | Halfling of the Multiverse (roll on **[Halflings of the Multiverse](#halflings-of-the-multiverse)** table for variant) |
@@ -375,13 +388,13 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Exandrian Halfling (roll on **[Exandrian Halflings](#exandrian-halflings)** table for variant) |
 | 4 | Forgotten Realms Halfling (roll on **[Forgotten Realms Halflings](#forgotten-realms-halflings)** for variant) |
 
-#### Halflings of the Multiverse
+##### Halflings of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Halfling[^📒2️⃣][^🥑] |
 | 2 | Stout Halfling[^🔰1️⃣] |
 
-#### Eberron Halflings
+##### Eberron Halflings
 | d4 | Variant |
 |:-:|:-|
 | 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
@@ -389,21 +402,21 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Mark of Hospitality Halfling[^⚙️] |
 | 4 | Stout Halfling[^🔰1️⃣] |
 
-#### Exandrian Halflings
+##### Exandrian Halflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Halfling[^📒2️⃣][^🥑] |
 | 2 | Lotusden Halfling[^⏳] |
 | 3 | Stout Halfling[^🔰1️⃣] |
 
-#### Forgotten Realms Halflings
+##### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
 | 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
-### Humans
+#### Humans
 | d5 | Setting |
 |:-:|:-|
 | 1 | Human of the Multiverse (roll on **[Humans of the Multiverse](#humans-of-the-multiverse)** table for variant) |
@@ -411,13 +424,13 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Innistrad Human (roll on **[Innistrad Provinces](#innistrad-provinces)** table for provincial origin) |
 | 4 | Keldon Human[^🛡️] |
 
-#### Humans of the Multiverse
+##### Humans of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
 | 2 | Human (2014)[^📒1️⃣] |
 
-#### Eberron Humans
+##### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
@@ -428,7 +441,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 6 | Mark of Passage Human[^⚙️] |
 | 7 | Mark of Sentinel Human[^⚙️] |
 
-#### Innistrad Provinces
+##### Innistrad Provinces
 | d4 | Provincial Origin |
 |:-:|:-|
 | 1 | Gavony Human[^🧛] |
@@ -436,58 +449,58 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Nephalia Human[^🧛] |
 | 4 | Stensia Human[^🧛] |
 
-### Kithkin
+#### Kithkin
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Lorwyn Kithkin[^🌄][^🥑] |
 | 2 | Shadowmoor Kithkin[^🌄][^🥑] |
 
-### Merfolk
+#### Merfolk
 | d2 | Setting |
 |:-:|:-|
 | 1 | Ixalan Merfolk (roll on **[Ixalan Merfolk](#ixalan-merfolk)** table for variant) |
 | 2 | Zendikar Merfolk (roll on **[Zendikar Merfolk](#zendikar-merfolk)** table for variant) |
 
-#### Ixalan Merfolk
+##### Ixalan Merfolk
 | d2 | Variant |
 |:-:|:-|
 | 1 | Green Merfolk[^🦕] |
 | 2 | Blue Merfolk[^🦕] |
 
-#### Zendikar Merfolk
+##### Zendikar Merfolk
 | d3 | Variant |
 |:-:|:-|
 | 1 | Cosi Creed Merfolk[^🌴] |
 | 2 | Emeria (Wind) Creed Merfolk[^🌴] |
 | 3 | Ula (Water) Creed Merfolk[^🌴] |
 
-### Minotaur
+#### Minotaur
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Minotaur[^👹] |
 | 2 | Amonkhet Minotaur[^☥] |
 
-### Orcs
+#### Orcs
 | d2 | Setting |
 |:-:|:-|
 | 1 | Orc of the Multiverse (roll on **[Orcs of the Multiverse](#orcs-of-the-multiverse)** table for variant) |
 | 2 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
 | 3 | Ixalan Orc[^🍖] |
 
-#### Orcs of the Multiverse
+##### Orcs of the Multiverse
 | d2 | Variant |
 |:-:|:-|
 | 1 | Orc[^📒2️⃣] |
 | 2 | Half-Orc[^📒1️⃣] |
 
-#### Eberron Orcs
+##### Eberron Orcs
 | d3 | Variant |
 |:-:|:-|
 | 1 | Half-Orc[^📒1️⃣] |
 | 2 | Mark of Finding Half-Orc[^⚙️] |
 | 3 | Orc[^📒2️⃣] |
 
-### Shifters
+#### Shifters
 | d4 | Ancestry |
 |:-:|:-|
 | 1 | Beasthide Shifter[^👹] |
@@ -495,20 +508,20 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Swiftstride Shifter[^👹] |
 | 4 | Wildhunt Shifter[^👹] |
 
-### Tieflings
+#### Tieflings
 | d2 | Setting |
 |:--:|:-|
 | 1 | Tiefling of the Multiverse (roll on **[Fiendish Legacies](#fiendish-legacies)**[^😈] table for ancestry) |
 | 2 | Forgotten Realms Tiefling (roll on **[Forgotten Realms Tieflings](#forgotten-realms-tieflings)** table for variant) |
 
-#### Fiendish Legacies
+##### Fiendish Legacies
 | d3 | Ancestry |
 |:--:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
 | 2 | Chthonic Tiefling[^📒2️⃣] |
 | 3 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
 
-##### Infernal Tieflings
+###### Infernal Tieflings
 | d9 | Variant |
 |:--:|:-|
 | 1 | Asmodeus Tiefling[^😈] |
@@ -521,7 +534,7 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 8 | Mephistopheles Tiefling[^👺] |
 | 9 | Zariel Tiefling[^👺] |
 
-#### Forgotten Realms Tieflings
+##### Forgotten Realms Tieflings
 | d4 | Variant |
 |:-:|:-|
 | 1 | Abyssal Tiefling[^📒2️⃣] |
@@ -529,21 +542,21 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 | 3 | Infernal Tiefling (roll on **[Infernal Tieflings](#infernal-tieflings)**[^👿] table for variant) |
 | 4 | Feral Tiefling (roll on **[Feral Tieflings](#feral-tieflings)** table for variant) |
 
-##### Feral Tieflings
+###### Feral Tieflings
 | d3 | Variant |
 |:-:|:-|
 | 1 | Devil's Tongue Feral Tiefling[^🗡️] |
 | 2 | Hellfire Feral Tiefling[^🗡️] |
 | 3 | Winged Feral Tiefling[^🗡️] |
 
-### Vampires
+#### Vampires
 | d3 | Ancestry |
 |:-:|:-|
 | 1 | Dhampir[^🌫️] |
 | 2 | Ixalan Vampire[^🦕] |
 | 3 | Zendikar Vampire[^🌴] |
 
-### Vedalken
+#### Vedalken
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Kaladesh Vedalken[^🕰️] |
@@ -551,8 +564,10 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 
 ---
 
-| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) |
-|:-|
+| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | [Rules Definitions](rules-definitions.md) ➡️ |
+|:-|-:|
+
+---
 
 [^💰]: Source: _Acquisitions Incorporated_
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
@@ -584,12 +599,12 @@ You touch a dead creature or a piece of one. If the creature has been dead no lo
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
+[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
 [^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection. The Gold Dwarf and Shield Dwarf of the Forgotten Realms are mechanically equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, and the Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is mechanically equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
 [^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
 [^🍄]: The Tinker Gnome of Dragonlance is mechanically equivalent to a Rock Gnome in _SRD 5.2_, and the Deep Gnome is mechanically equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
-[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
 [^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.
