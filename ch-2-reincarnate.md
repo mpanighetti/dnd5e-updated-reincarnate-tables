@@ -1,8 +1,8 @@
 # Chapter 2: Reincarnate
 
-The **Reincarnation Options** table and all subsequent tables below replace the table found in the _Reincarnate_ spell's description.
+Replace the _Reincarnate_ spell's description with the following text and tables:
 
-Additionally, the _Reincarnate_ spell can now target any dead creature or piece of one, instead of just Humanoids, as long as its current creature type is represented by any species, ancestry, or variant listed in the tables below. For example, a dead creature with the Fey creature type can be targeted because there are Fey creatures on these tables (such as the fairy or satyr), but a creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d54 and consult the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species. The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 ## Reincarnation Options
 | d57 | Species |
@@ -133,19 +133,20 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Ravenite Dragonborn[^⏳] |
 
 ### Dwarves
-| d4 | Setting |
+| d5 | Setting |
 |:-:|:-|
 | 1 | Dwarf of the Multiverse (roll on **[Dwarves of the Multiverse](#dwarves-of-the-multiverse)** table for variant) |
 | 2 | Dragonlance Dwarf (roll on **[Dragonlance Dwarves](#dragonlance-dwarves)** table for variant) |
 | 3 | Eberron Dwarf (roll on **[Eberron Dwarves](#eberron-dwarves)** for variant) |
-| 4 | Kaladesh Dwarf[^🕰️] |
+| 4 | Forgotten Realms Dwarf (roll on **[Forgotten Realms Dwarves](#forgotten-realms-dwarves)** for variant) |
+| 5 | Kaladesh Dwarf[^🕰️] |
 
 #### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
 | 1 | Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹] |
-| 3 | Mountain Dwarf[^🔰1️⃣] |
+| 2 | Duergar[^👹][^🪓] |
+| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
 
 #### Dragonlance Dwarves
 | d2 | Variant |
@@ -159,6 +160,13 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 1 | Hill Dwarf[^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
 | 3 | Mountain Dwarf[^🔰1️⃣] |
+
+#### Forgotten Realms Dwarves
+| d3 | Variant |
+|:-:|:-|
+| 1 | Duergar[^👹][^🪓] |
+| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
+| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
 
 ### Elves
 | d9 | Setting |
@@ -224,9 +232,9 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | 2 | Drow[^📒2️⃣] |
 | 3 | Drow Half-Elf[^🗡️] |
 | 4 | Half-Elf[^📒1️⃣] |
-| 5 | Moon Elf[^🏹] |
+| 5 | Moon Elf[^📒2️⃣][^🏹] |
 | 6 | Moon Half-Elf[^🗡️] |
-| 7 | Sun Elf[^🏹] |
+| 7 | Sun Elf[^📒2️⃣][^🏹] |
 | 8 | Sun Half-Elf[^🗡️] |
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
@@ -391,9 +399,9 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 #### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^🥑] |
+| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
-| 3 | Strongheart Halfling[^🥑] |
+| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
 
 ### Humans
 | d5 | Setting |
@@ -407,13 +415,13 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 | d2 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 2 | Human (2014)[^📒1️⃣] |
 
 #### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
 | 1 | Human[^📒2️⃣][^👤] |
-| 2 | Human (_SRD 5.1_)[^📒1️⃣] |
+| 2 | Human (2014)[^📒1️⃣] |
 | 3 | Mark of Finding Human[^⚙️] |
 | 4 | Mark of Handling Human[^⚙️] |
 | 5 | Mark of Making Human[^⚙️] |
@@ -576,17 +584,17 @@ Additionally, the _Reincarnate_ spell can now target any dead creature or piece 
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not equivalent to any single prior Aasimar option.
-[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection, and has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Dwarf is equivalent to a Hill Dwarf in _SRD 5.1_.
-[^🏹]: The Elf has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Moon Elf or Sun Elf is equivalent to a High Elf in _SRD 5.2_, and a Joraga Nation Elf is equivalent to a Wood Elf in _SRD 5.2_.
+[^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
+[^🪓]: The Dwarf was updated in _SRD 5.2_ to remove ancestry selection. The Gold Dwarf and Shield Dwarf of the Forgotten Realms are mechanically equivalent to a Dwarf in _SRD 5.2_ and a Hill Dwarf in _SRD 5.1_, and the Duergar in _Mordenkainen Presents: Monsters of the Multiverse_ is mechanically equivalent to a Gray Dwarf in _Sword Coast Adventurer's Guide_.
+[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
 [^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
 [^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
-[^🍄]: The Gnome has variants with setting-specific names but no significant mechanical differences from multiverse equivalents. A Tinker Gnome is equivalent to a Rock Gnome in _SRD 5.2_.
+[^🍄]: The Tinker Gnome of Dragonlance is mechanically equivalent to a Rock Gnome in _SRD 5.2_, and the Deep Gnome is mechanically equivalent to a Svirfneblin in _Elemental Evil Player's Companion_.
 [^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
-[^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. A Stone Giant Goliath is equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not equivalent to any prior Goliath options.
-[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. A Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin in _Lorwyn: First Light_, and a Strongheart Halfling is mechanically equivalent to a Stout Halfling in _Player's Handbook (2014)_, while a Shadowmoor Kithkin in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Halfling species option.
-[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_. It is equivalent to a Variant Human in _Player's Handbook (2014)_.
-[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. An Ixalan Orc is equivalent to a Half-Orc.
-[^🌙]: The Shifter was updated in _Mordenkainen's Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not equivalent to any single prior Shifter option.
-[^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. An Infernal Tiefling is equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
-[^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. An Asmodeus Tiefling is equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
+[^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
+[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
+[^👤]: The Human was updated in _SRD 5.2_ to remove variant selection and replaced the Human option from _SRD 5.1_, which this document labels as "Human (2014)" to distinguish the option. It is mechanically equivalent to a Variant Human in _Player's Handbook (2014)_.
+[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
+[^🌙]: The Shifter was updated in _Mordenkainen Presents: Monsters of the Multiverse_ to remove ancestry selection. The updated Shifter is not mechanically equivalent to any single prior Shifter option.
+[^😈]: The Tiefling was updated in _SRD 5.2_ to provide a Fiendish Legacies option. The Infernal Tiefling is mechanically equivalent to a Tiefling in _SRD 5.1_ or an Asmodeus Tiefling in _Mordenkainen's Tome of Foes_. The other ancestries are not mechanically equivalent to any prior Tiefling options, but the Abyssal Tiefling shares some spells with the Baalzebul Tiefling in _Mordenkainen's Tome of Foes_ (see the **[Infernal Tieflings](#infernal-tieflings)**[^👿] table).
+[^👿]: These classifications of Tiefling variants were added in _Mordenkainen's Tome of Foes_ to describe Tieflings with special links to one of the Lords of the Nine Hells, and they have thus been grouped together as variant Infernal Tieflings. The Asmodeus Tiefling is mechanically equivalent to an Infernal Tiefling in _SRD 5.2_. The other ancestries are not mechanically equivalent to any other Tiefling options, but the Baalzebul Tiefling shares some spells with the Abyssal Tiefling in _SRD 5.2_.
