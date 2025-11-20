@@ -9,8 +9,8 @@
 #### Lorwyn-Shadowmoor Fairies
 | d2 | Variant |
 |:-:|:-|
-| 1 | Lorwyn Fairy[^🌄][^🧚] |
-| 2 | Shadowmoor Fairy[^🌄][^🧚] |
+| 1 | Lorwyn Fairy[^🌄] [^🧚] |
+| 2 | Shadowmoor Fairy[^🌄] [^🧚] |
 
 ---
 

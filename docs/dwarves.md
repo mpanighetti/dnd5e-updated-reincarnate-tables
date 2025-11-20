@@ -12,9 +12,9 @@
 #### Dwarves of the Multiverse
 | d3 | Variant |
 |:-:|:-|
-| 1 | Dwarf[^📒2️⃣][^🪓] |
-| 2 | Duergar[^👹][^🪓] |
-| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
+| 1 | Dwarf[^📒2️⃣] [^🪓] |
+| 2 | Duergar[^👹] [^🪓] |
+| 3 | Mountain Dwarf[^🔰1️⃣] [^🪓] |
 
 #### Dragonlance Dwarves
 | d2 | Variant |
@@ -25,16 +25,16 @@
 #### Eberron Dwarves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Hill Dwarf[^📒2️⃣][^🪓] |
+| 1 | Hill Dwarf[^📒2️⃣] [^🪓] |
 | 2 | Mark of Warding Dwarf[^⚙️] |
-| 3 | Mountain Dwarf[^🔰1️⃣][^🪓] |
+| 3 | Mountain Dwarf[^🔰1️⃣] [^🪓] |
 
 #### Forgotten Realms Dwarves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Duergar[^👹][^🪓] |
-| 2 | Gold Dwarf[^📒2️⃣][^🪓] |
-| 3 | Shield Dwarf[^🔰1️⃣][^🪓] |
+| 1 | Duergar[^👹] [^🪓] |
+| 2 | Gold Dwarf[^📒2️⃣] [^🪓] |
+| 3 | Shield Dwarf[^🔰1️⃣] [^🪓] |
 
 ---
 

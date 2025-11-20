@@ -16,7 +16,7 @@
 ##### Infernal Tieflings
 | d9 | Variant |
 |:--:|:-|
-| 1 | Asmodeus Tiefling[^📒2️⃣][^😈] |
+| 1 | Asmodeus Tiefling[^📒2️⃣] [^😈] |
 | 2 | Baalzebul Tiefling[^👺] |
 | 3 | Dispater Tiefling[^👺] |
 | 4 | Fierna Tiefling[^👺] |

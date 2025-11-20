@@ -32,7 +32,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 11 | Elf (roll on **[Elves](elves.md)** table for setting) |
 | 12 | Fairy (roll on **[Fairies](fairies.md)** table for ancestry) |
 | 13 | Firbolg[^👹] |
-| 14 | Flamekin[^🌄][^☄️] |
+| 14 | Flamekin[^🌄] [^☄️] |
 | 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
 | 16 | Giff[^🛸] |
 | 17 | Gith (roll on **[Gith](#gith)** table for ancestry) |
@@ -81,7 +81,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 #### Aasimar
 | d5 | Ancestry |
 |:-:|:-|
-| 1 | Aasimar[^🔰2️⃣][^🪽] |
+| 1 | Aasimar[^🔰2️⃣] [^🪽] |
 | 2 | Fallen Aasimar[^👹] |
 | 3 | Protector Aasimar[^👹] |
 | 4 | Scourge Aasimar[^👹] |
@@ -114,7 +114,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 2 | Fire Giant Goliath[^📒2️⃣] |
 | 3 | Frost Giant Goliath[^📒2️⃣] |
 | 4 | Hill Giant Goliath[^📒2️⃣] |
-| 5 | Stone Giant Goliath[^📒2️⃣][^🧌] |
+| 5 | Stone Giant Goliath[^📒2️⃣] [^🧌] |
 | 6 | Storm Giant Goliath[^📒2️⃣] |
 
 #### Gith
@@ -126,8 +126,8 @@ The reincarnated creature makes any choices that a species' description offers, 
 #### Kithkin
 | d2 | Ancestry |
 |:-:|:-|
-| 1 | Lorwyn Kithkin[^🌄][^🥑] |
-| 2 | Shadowmoor Kithkin[^🌄][^🥑] |
+| 1 | Lorwyn Kithkin[^🌄] [^🥑] |
+| 2 | Shadowmoor Kithkin[^🌄] [^🥑] |
 
 #### Minotaur
 | d2 | Ancestry |

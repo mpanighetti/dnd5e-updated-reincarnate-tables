@@ -11,13 +11,13 @@
 #### Humans of the Multiverse
 | d2 | Variant |
 |:-:|:-|
-| 1 | Human[^📒2️⃣][^👤] |
+| 1 | Human[^📒2️⃣] [^👤] |
 | 2 | Human (2014)[^📒1️⃣] |
 
 #### Eberron Humans
 | d7 | Variant |
 |:-:|:-|
-| 1 | Human[^📒2️⃣][^👤] |
+| 1 | Human[^📒2️⃣] [^👤] |
 | 2 | Human (2014)[^📒1️⃣] |
 | 3 | Mark of Finding Human[^⚙️] |
 | 4 | Mark of Handling Human[^⚙️] |
