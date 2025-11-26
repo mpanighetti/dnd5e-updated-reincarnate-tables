@@ -11,30 +11,30 @@
 #### Halflings of the Multiverse
 | d2 | Variant |
 |:-:|:-|
-| 1 | Halfling[^📒2️⃣][^🥑] |
+| 1 | Halfling[^📒2️⃣] [^🥑] |
 | 2 | Stout Halfling[^🔰1️⃣] |
 
 #### Eberron Halflings
 | d4 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 1 | Lightfoot Halfling[^📒2️⃣] [^🥑] |
 | 2 | Mark of Healing Halfling[^⚙️] |
 | 3 | Mark of Hospitality Halfling[^⚙️] |
-| 4 | Stout Halfling[^🔰1️⃣][^🥑] |
+| 4 | Stout Halfling[^🔰1️⃣] [^🥑] |
 
 #### Exandrian Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Halfling[^📒2️⃣][^🥑] |
+| 1 | Halfling[^📒2️⃣] [^🥑] |
 | 2 | Lotusden Halfling[^⏳] |
 | 3 | Stout Halfling[^🔰1️⃣] |
 
 #### Forgotten Realms Halflings
 | d3 | Variant |
 |:-:|:-|
-| 1 | Lightfoot Halfling[^📒2️⃣][^🥑] |
+| 1 | Lightfoot Halfling[^📒2️⃣] [^🥑] |
 | 2 | Ghostwise Halfling[^🗡️] |
-| 3 | Strongheart Halfling[^🔰1️⃣][^🥑] |
+| 3 | Strongheart Halfling[^🔰1️⃣] [^🥑] |
 
 ---
 
