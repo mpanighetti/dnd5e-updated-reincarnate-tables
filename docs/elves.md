@@ -33,16 +33,19 @@
 | 3 | Wood Elf[^📒2️⃣] [^🏹] |
 
 #### Eberron Elves
-| d8 | Variant |
+| d11 | Variant |
 |:-:|:-|
 | 1 | Aereni High Elf[^🧭] |
 | 2 | Aereni Wood Elf[^🧭] |
 | 3 | Drow[^📒2️⃣] |
 | 4 | High Elf[^📒2️⃣] |
-| 5 | Khoravar[^⚙️] |
-| 6 | Valenar High Elf[^🧭] |
-| 7 | Valenar Wood Elf[^🧭] |
-| 8 | Wood Elf[^📒2️⃣] |
+| 5 | Khoravar[^📒1️⃣] [^🏹] |
+| 6 | Mark of Detection Half-Elf[^⚙️] |
+| 7 | Mark of Shadow Elf[^⚙️] |
+| 8 | Mark of Storm Half-Elf[^⚙️] |
+| 9 | Valenar High Elf[^🧭] |
+| 10 | Valenar Wood Elf[^🧭] |
+| 11 | Wood Elf[^📒2️⃣] |
 
 #### Exandrian Elves
 | d6 | Variant |
@@ -92,7 +95,7 @@
 #### Zendikar Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Joraga Nation Elf[^🏹] |
+| 1 | Joraga Nation Elf[^📒2️⃣] [^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
 
@@ -103,7 +106,7 @@
 
 ---
 
-[^⚙️]: Source: _Eberron: Forge of the Artificer_
+[^⚙️]: Source: _Eberron: Rising from the Last War_
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🌄]: Source: _Lorwyn: First Light_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
@@ -114,4 +117,4 @@
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_.
+[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_, and the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_.
