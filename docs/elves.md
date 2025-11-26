@@ -33,19 +33,16 @@
 | 3 | Wood Elf[^📒2️⃣] [^🏹] |
 
 #### Eberron Elves
-| d11 | Variant |
+| d8 | Variant |
 |:-:|:-|
 | 1 | Aereni High Elf[^🧭] |
 | 2 | Aereni Wood Elf[^🧭] |
 | 3 | Drow[^📒2️⃣] |
-| 4 | Half-Elf[^📒1️⃣] |
-| 5 | High Elf[^📒2️⃣] |
-| 6 | Mark of Detection Half-Elf[^⚙️] |
-| 7 | Mark of Shadow Elf[^⚙️] |
-| 8 | Mark of Storm Half-Elf[^⚙️] |
-| 9 | Valenar High Elf[^🧭] |
-| 10 | Valenar Wood Elf[^🧭] |
-| 11 | Wood Elf[^📒2️⃣] |
+| 4 | High Elf[^📒2️⃣] |
+| 5 | Khoravar[^⚙️] |
+| 6 | Valenar High Elf[^🧭] |
+| 7 | Valenar Wood Elf[^🧭] |
+| 8 | Wood Elf[^📒2️⃣] |
 
 #### Exandrian Elves
 | d6 | Variant |
@@ -106,7 +103,7 @@
 
 ---
 
-[^⚙️]: Source: _Eberron: Rising from the Last War_
+[^⚙️]: Source: _Eberron: Forge of the Artificer_
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🌄]: Source: _Lorwyn: First Light_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
