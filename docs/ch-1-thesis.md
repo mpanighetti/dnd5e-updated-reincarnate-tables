@@ -55,7 +55,13 @@ This ensures that freely available resources are referenced whenever possible, a
 
 **The Khoravar replaces the unmarked Half-Elf on the Eberron Elves table.** This reflects "Khoravar" being a synonymous term for "Half-Elf".
 
-**Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options. Aberrant dragonmarks are not included on these tables, since this mark is provided as a feat rather than a species option. If you roll an unmarked Eberron species, an aberrant dragonmark is available to you at GM discretion.
+**Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options.
+
+**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_.
+
+#### Exandria
+
+**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift.
 
 ## Accomplishments
 
