@@ -57,11 +57,11 @@ This ensures that freely available resources are referenced whenever possible, a
 
 **Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options.
 
-**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_.
+**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, we recommend ignoring dragonmarked species variant rolls and keeping any dragonmark your character had before being reincarnated by this spell.
 
 #### Exandria
 
-**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift.
+**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Whether you keep this gift or any others when being reincarnated by this spell is at GM discretion.
 
 ## Accomplishments
 
