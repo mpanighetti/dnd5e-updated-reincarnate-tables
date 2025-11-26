@@ -165,7 +165,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
 [^🦹]: Source: _Dungeon Master's Guide (2014)_
-[^⚙️]: Source: _Eberron: Rising from the Last War_
+[^⚙️]: Source: _Eberron: Forge of the Artificer_
 [^🙈]: Source: _Elemental Evil Player's Companion_
 [^🏙️]: Source: _Guildmasters' Guide to Ravnica_
 [^🐟]: Source: _Locathah Rising_
