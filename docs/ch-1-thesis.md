@@ -57,17 +57,17 @@ This ensures that freely available resources are referenced whenever possible, a
 
 **Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options.
 
-**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, we recommend ignoring dragonmarked species variant rolls and keeping any dragonmark your character had before being reincarnated by this spell.
+**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, your GM might opt to ignore dragonmarked species variant rolls and have a creature reincarnated by this spell keep any dragonmark-related feats alongside its other feats.
 
 #### Exandria
 
-**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Whether you keep this gift or any others when being reincarnated by this spell is at GM discretion.
+**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Supernatural gifts would not normally be impacted by being reincarnated by this spell, unless they were stated to last until the creature's death.
 
 ## Accomplishments
 
 As of _SRD 5.2_, the _Reincarnate_ spell table no longer has weighted odds favoring some species over others, allowing for this spell to truly shine as properly weird-and-wild-nature-magic-y and not assume a given distribution as being typical to every world in the multiverse. We celebrate this change and take full credit for it, assuming this to be a direct response to this project and thesis.
 
-## Frequently asked questions
+## Questions and answers
 
 ### Who even uses this terrible spell?
 
