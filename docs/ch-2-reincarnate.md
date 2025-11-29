@@ -87,7 +87,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Scourge Aasimar[^👹] |
 | 5 | Variant Aasimar[^🦹] |
 
-### Aven
+#### Aven
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Hawk-Headed Aven[^☥] |
