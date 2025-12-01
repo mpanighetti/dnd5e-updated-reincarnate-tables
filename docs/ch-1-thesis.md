@@ -39,7 +39,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 1. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchased (e.g. _SRD_ Human over _Player's Handbook_, _Elemental Evil Player's Companion_ Genasi over _Mordenkainen Presents: Monsters of the Multiverse_).
 2. _**More Beats Fewer.**_ Single sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ Aasimar over _Volo's Guide to Monsters_).
-3. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Mordenkainen Presents: Monsters of the Multiverse_ Satyr over _Mythic Odysseys of Theros_).
+3. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Eberron: Forge of the Artificer_ Kalashtar over _Eberron: Rising from the Last War_).
 
 This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases. The Game Master is the ultimate arbiter over which variant to use when multiples exist, but the general recommendation is to use whatever book the GM or a player already owns, so as to avoid buying new material just for silly table rolls.
 
