@@ -39,7 +39,7 @@
 | 2 | Aereni Wood Elf[^🧭] |
 | 3 | Drow[^📒2️⃣] |
 | 4 | High Elf[^📒2️⃣] |
-| 5 | Khoravar[^🛠️] [^🏹] |
+| 5 | Khoravar[^📒1️⃣] [^🏹] |
 | 6 | Mark of Detection Half-Elf[^⚙️] |
 | 7 | Mark of Shadow Elf[^⚙️] |
 | 8 | Mark of Storm Half-Elf[^⚙️] |
@@ -106,7 +106,6 @@
 
 ---
 
-[^🛠️]: Source: _Eberron: Forge of the Artificer_
 [^⚙️]: Source: _Eberron: Rising from the Last War_
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🌄]: Source: _Lorwyn: First Light_
