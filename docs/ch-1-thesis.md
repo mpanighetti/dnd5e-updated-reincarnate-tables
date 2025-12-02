@@ -56,11 +56,11 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options.
 
-**Dragonmarks acquired from feats are not included on these tables**, since this table only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, your GM might opt to ignore dragonmarked species variant rolls and have a creature reincarnated by this spell keep any dragonmark-related feats alongside its other feats.
+**Dragonmarks acquired from feats are not included on these tables**, since this project only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, your GM might opt to ignore dragonmarked species variant rolls and have a creature reincarnated by this spell keep any dragonmark-related feats alongside its other feats.
 
 #### Exandria
 
-**The Hollow One is not included on these tables**, since this table only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Supernatural gifts would not normally be impacted by being reincarnated by this spell, unless they were stated to last until the creature's death.
+**The Hollow One is not included on these tables**, since this project only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Supernatural gifts would not normally be impacted by being reincarnated by this spell, unless they were stated to last until the creature's death.
 
 ## Accomplishments
 
