@@ -10,8 +10,8 @@
 #### Orcs of the Multiverse
 | d2 | Variant |
 |:-:|:-|
-| 1 | Orc[^📒2️⃣] [^🍖] |
-| 2 | Half-Orc[^📒1️⃣] [^🍖] |
+| 1 | Half-Orc[^📒1️⃣] [^🍖] |
+| 2 | Orc[^📒2️⃣] [^🍖] |
 
 #### Eberron Orcs
 | d3 | Variant |
@@ -31,4 +31,4 @@
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^📒1️⃣]: Source: _SRD 5.1_
 [^📒2️⃣]: Source: _SRD 5.2_
-[^🍖]: The Orc replaced the Half-Orc option from _SRD 5.1_. The Ixalan Orc is mechanically equivalent to a Half-Orc.
+[^🍖]: The Ixalan Orc is mechanically equivalent to a Half-Orc in _SRD 5.1_.
