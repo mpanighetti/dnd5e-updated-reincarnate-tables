@@ -49,4 +49,4 @@
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^🌴]: Source: _Plane Shift: Zendikar_
-[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin.
+[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin in _Mordenkainen Presents: Monsters of the Multiverse_.
