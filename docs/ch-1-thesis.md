@@ -37,11 +37,10 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **If a species is available in multiple books, one official source will be referenced in a footnote, prioritized by cost and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
 
-1. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchased (e.g. _SRD_ Human over _Player's Handbook_, _Elemental Evil Player's Companion_ Genasi over _Mordenkainen Presents: Monsters of the Multiverse_).
-2. _**More Beats Fewer.**_ Single sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ Aasimar over _Volo's Guide to Monsters_).
-3. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Eberron: Forge of the Artificer_ Kalashtar over _Eberron: Rising from the Last War_).
-
-This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases. The Game Master is the ultimate arbiter over which variant to use when multiples exist, but the general recommendation is to use whatever book the GM or a player already owns, so as to avoid buying new material just for silly table rolls.
+1. _**Owned Beats Unowned.**_ A book on your shelf should always be preferred over one in your shopping cart. This priority cannot be quantified on this table since we don't have access to your purchase history, but the Game Master is the ultimate arbiter over which variant to use when multiples exist, and our general recommendation is to use whatever the GM or a player already owns, so as to avoid seeking out new material just for silly table rolls.
+2. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchased (e.g. _SRD_ Human over _Player's Handbook_, _Elemental Evil Player's Companion_ Genasi over _Mordenkainen Presents: Monsters of the Multiverse_). This builds on **Owned Beats Unowned**, since these sources cost nothing to add to your personal library. Some of these resources have been discontinued and are no longer available for download from their source sites, but the Internet Archive is a veritable Trove of such treasures.
+3. _**More Beats Fewer.**_ Single sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ Aasimar over _Volo's Guide to Monsters_).
+4. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded by newer releases with updated rules (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Eberron: Forge of the Artificer_ Kalashtar over _Eberron: Rising from the Last War_).
 
 ### Setting considerations
 
