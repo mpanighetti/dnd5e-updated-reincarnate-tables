@@ -48,4 +48,4 @@
 [^🔰1️⃣]: Source: _Player's Handbook (2014)_
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
-[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Halfling is mechanically equivalent to a Lightfoot Halfling in _SRD 5.1_ and a Lorwyn Kithkin, a Strongheart Halfling of the Forgotten Realms can be represented either with a Halfling in _SRD 5.2_ or a Stout Halfling in _Player's Handbook (2014)_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
+[^🥑]: The Halfling was updated in _SRD 5.2_ to remove ancestry selection. The Lightfoot Halfling is mechanically equivalent to a Halfling in _SRD 5.2_, and a Strongheart Halfling of the Forgotten Realms can be represented either with this Halfling or a Stout Halfling in _Player's Handbook (2014)_.

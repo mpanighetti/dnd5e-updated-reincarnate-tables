@@ -21,4 +21,4 @@
 
 [^🌄]: Source: _Lorwyn: First Light_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
-[^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.
+[^🧚]: A Lorwyn Fairy in _Lorwyn: First Light_ is mechanically equivalent to a Fairy in _Mordenkainen Presents: Monsters of the Multiverse_, while a Shadowmoor Fairy in _Lorwyn: First Light_ only adds Darkvision (120 feet) to the Fairy species option.

@@ -12,7 +12,7 @@ _Level 5 Necromancy (Druid)_
 
 You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll on the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
 
-The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Aberration**, **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
@@ -45,7 +45,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 24 | Harengon[^👹] |
 | 25 | Hexblood[^🌫️] |
 | 26 | Human (roll on **[Humans](humans.md)** table for setting) |
-| 27 | Kalashtar[^⚙️] |
+| 27 | Kalashtar[^⚒️] |
 | 28 | Kender[^🫅] |
 | 29 | Kenku[^👹] |
 | 30 | Khenra[^☥] |
@@ -75,7 +75,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 54 | Triton[^👹] |
 | 55 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
 | 56 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 57 | Warforged[^⚙️] |
+| 57 | Warforged[^⚒️] |
 | 58 | Yuan-ti[^👹] |
 
 #### Aasimar
@@ -87,7 +87,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4 | Scourge Aasimar[^👹] |
 | 5 | Variant Aasimar[^🦹] |
 
-### Aven
+#### Aven
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Hawk-Headed Aven[^☥] |
@@ -165,7 +165,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 [^🫅]: Source: _Dragonlance: Shadow of the Dragon Queen_
 [^🦹]: Source: _Dungeon Master's Guide (2014)_
-[^⚙️]: Source: _Eberron: Rising from the Last War_
+[^⚒️]: Source: _Eberron: Forge of the Artificer_
 [^🙈]: Source: _Elemental Evil Player's Companion_
 [^🏙️]: Source: _Guildmasters' Guide to Ravnica_
 [^🐟]: Source: _Locathah Rising_

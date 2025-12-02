@@ -8,7 +8,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 ## How to use these tables
 
-1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
+1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Aberration**, **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
 2. After casting _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
 3. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
 4. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
@@ -21,7 +21,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **Species and ancestries that have been revised over time are listed as single entries.** An example of this is the chromatic and metallic Dragonborn ancestries; even though they have been printed with differing species names and traits over the years, they have the same color and metal options in _SRD 5.2_, _Fizban's Treasury of Dragons_, and _SRD 5.1_, and thus will be considered the same options for _Reincarnate_ to avoid adding more complexity than this document already manages. A single source will be listed for each entry (see **[Sourcing](#sourcing)**). When there is ambiguity over how a name correlates to previous options, a footnote will list the older names for reference.
 
-**New associations have been established for legacy species based on mixed parentage.** Specifically, this document considers the Half-Elf and Half-Orc species to be ancestries of Elves and Orcs respectively. These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
+**The Half-Elf is grouped as an ancestry of the Elf species, and the Half-Orc is grouped as an ancestry of the Orc species.** These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
 **The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of several variants having a Goblinoid creature tag and the Fey Ancestry trait.
 
@@ -37,11 +37,10 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **If a species is available in multiple books, one official source will be referenced in a footnote, prioritized by cost and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
 
-1. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchased (e.g. _SRD_ Human over _Player's Handbook_, _Elemental Evil Player's Companion_ Genasi over _Mordenkainen Presents: Monsters of the Multiverse_).
-2. _**More Beats Fewer.**_ Single sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ Aasimar over _Volo's Guide to Monsters_).
-3. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Mordenkainen Presents: Monsters of the Multiverse_ Satyr over _Mythic Odysseys of Theros_).
-
-This ensures that freely available resources are referenced whenever possible, and when free options are not available, books with the most options are preferred, so as to reduce unnecessary purchases. The Game Master is the ultimate arbiter over which variant to use when multiples exist, but the general recommendation is to use whatever book the GM or a player already owns, so as to avoid buying new material just for silly table rolls.
+1. _**Owned Beats Unowned.**_ A book on your shelf should always be preferred over one in your shopping cart. This priority cannot be quantified on this table since we don't have access to your purchase history, but the Game Master is the ultimate arbiter over which variant to use when multiples exist, and our general recommendation is to use whatever the GM or a player already owns, so as to avoid seeking out new material just for silly table rolls.
+2. _**Free Beats Paid.**_ Free sources are preferred over materials that must be purchased (e.g. _SRD_ Human over _Player's Handbook_, _Elemental Evil Player's Companion_ Genasi over _Mordenkainen Presents: Monsters of the Multiverse_). This builds on **Owned Beats Unowned**, since these sources cost nothing to add to your personal library. Some of these resources have been discontinued and are no longer available for download from their source sites, but the Internet Archive is a veritable Trove of such treasures.
+3. _**More Beats Fewer.**_ Single sources containing the most species options are preferred over books with fewer options (e.g. _Mordenkainen Presents: Monsters of the Multiverse_ Aasimar over _Volo's Guide to Monsters_).
+4. _**New Beats Old.**_ The most modern sources are preferred over older similar materials that have been superseded by newer releases with updated rules (e.g. _SRD 5.2_ Tiefling over _SRD 5.1_, _Eberron: Forge of the Artificer_ Kalashtar over _Eberron: Rising from the Last War_).
 
 ### Setting considerations
 
@@ -49,14 +48,25 @@ This ensures that freely available resources are referenced whenever possible, a
 
 **Species with limited options within a given setting roll first for setting, then for either multiverse variant or setting-specific variant.** When a species has limited variant options in one or more settings, a roll is first made to determine the setting, with a multiverse table including all options from _SRD_ or _Player's Handbook_ plus options that do not imply or assume a setting, followed by a separate table per setting. Setting tables are limited to the variant options found in their respective settings. If the GM determines that only a setting's given options are available, roll on the setting-specific variant table. If a setting's options are identical to the multiverse options, or the GM wishes to not use setting-specific options, roll on the multiverse table.
 
-- **If a setting book mentions that all options from a specific resource for a given species are available, then the table for each species will include options across all versions of those resources when they differ over time.** This accounts for setting books that attempt to make default species options freely available while considering that these resources are updated over time. When the resource mentioned is a _Player's Handbook_, options from each _SRD_ will also be included.
-- **Dragonmarks are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options. Aberrant dragonmarks are not included on these tables, since this mark is provided as a feat rather than a species option. If you roll an unmarked Eberron species, an aberrant dragonmark is available to you at GM discretion.
+**If a setting book mentions that all options from a specific resource for a given species are available, then the table for each species will include options across all versions of those resources when they differ over time.** This accounts for setting books that attempt to make default species options freely available while considering that these resources are updated over time. When the resource mentioned is a _Player's Handbook_, options from each _SRD_ will also be included.
+
+#### Eberron
+
+**The Khoravar replaces the unmarked Half-Elf on the Eberron Elves table.** This reflects "Khoravar" being a synonymous term for "Half-Elf".
+
+**Dragonmarked species variants are included on the Eberron setting table for a given species alongside unmarked variants.** Since not all the people of Eberron have dragonmarks, when a dragonmark option is present for a given species, it is listed alongside unmarked species variants when they are also available as player options.
+
+**Dragonmarks acquired from feats are not included on these tables**, since this project only focuses on species options. This includes Aberrant Dragonmark and all the Dragonmark Feats in _Eberron: Forge of the Artificer_. If your table is using the updated rules on dragonmarks in an Eberron setting, your GM might opt to ignore dragonmarked species variant rolls and have a creature reincarnated by this spell keep any dragonmark-related feats alongside its other feats.
+
+#### Exandria
+
+**The Hollow One is not included on these tables**, since this project only focuses on species options, and Hollow One is presented as a supernatural gift that can be obtained by any species. Supernatural gifts would not normally be impacted by being reincarnated by this spell, unless they were stated to last until the creature's death.
 
 ## Accomplishments
 
 As of _SRD 5.2_, the _Reincarnate_ spell table no longer has weighted odds favoring some species over others, allowing for this spell to truly shine as properly weird-and-wild-nature-magic-y and not assume a given distribution as being typical to every world in the multiverse. We celebrate this change and take full credit for it, assuming this to be a direct response to this project and thesis.
 
-## Frequently asked questions
+## Questions and answers
 
 ### Who even uses this terrible spell?
 
