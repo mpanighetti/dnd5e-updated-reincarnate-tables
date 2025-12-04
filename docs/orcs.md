@@ -5,20 +5,20 @@
 |:-:|:-|
 | 1 | Orc of the Multiverse (roll on **[Orcs of the Multiverse](#orcs-of-the-multiverse)** table for variant) |
 | 2 | Eberron Orc (roll on **[Eberron Orcs](#eberron-orcs)** table for variant) |
-| 3 | Ixalan Orc[^🦕] [^🍖] |
+| 3 | Ixalan Orc[^📒1️⃣] [^🍖] |
 
 #### Orcs of the Multiverse
 | d2 | Variant |
 |:-:|:-|
-| 1 | Half-Orc[^📒1️⃣] [^🍖] |
-| 2 | Orc[^📒2️⃣] [^🍖] |
+| 1 | Half-Orc[^📒1️⃣] |
+| 2 | Orc[^📒2️⃣] |
 
 #### Eberron Orcs
 | d3 | Variant |
 |:-:|:-|
-| 1 | Half-Orc[^📒1️⃣] [^🍖] |
+| 1 | Half-Orc[^📒1️⃣] |
 | 2 | Mark of Finding Half-Orc[^⚙️] |
-| 3 | Orc[^📒2️⃣] [^🍖] |
+| 3 | Orc[^📒2️⃣] |
 
 ---
 
