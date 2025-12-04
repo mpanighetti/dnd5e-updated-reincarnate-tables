@@ -187,4 +187,4 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🎭]: The Lorwyn Changeling is mechanically equivalent to a Changeling in _Mordenkainen Presents: Monsters of the Multiverse_.
 [^☄️]: The Flamekin is mechanically equivalent to a Fire Genasi in _Elemental Evil Player's Companion_.
 [^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in previous releases, but the other ancestries are not mechanically equivalent to any prior Goliath options.
-[^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halflings.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
+[^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halflings.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species.
