@@ -19,7 +19,7 @@
 #### Dragonlance Dwarves
 | d2 | Variant |
 |:-:|:-|
-| 1 | Hill Dwarf[^🪓] |
+| 1 | Hill Dwarf[^📒2️⃣] [^🪓] |
 | 2 | Mountain Dwarf[^🔰1️⃣] |
 
 #### Eberron Dwarves
