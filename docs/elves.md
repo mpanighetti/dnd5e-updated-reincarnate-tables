@@ -74,9 +74,9 @@
 #### Kaladesh Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Bishtahar Elf[^🕰️] |
-| 2 | Tirahar Elf[^🕰️] |
-| 3 | Vahadar Elf[^🕰️] |
+| 1 | Bishtahar Elf[^📒2️⃣] [^🏹] |
+| 2 | Tirahar Elf[^📒2️⃣] [^🏹] |
+| 3 | Vahadar Elf[^📒2️⃣] [^🏹] |
 
 #### Lorwyn-Shadowmoor Elves
 | d2 | Lineage |
@@ -95,7 +95,7 @@
 #### Zendikar Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Joraga Nation Elf[^📒2️⃣] [^🏹] |
+| 1 | Joraga Nation Elf[^🌴] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
 
@@ -110,11 +110,10 @@
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🌄]: Source: _Lorwyn: First Light_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
-[^🕰️]: Source: _Plane Shift: Kaladesh_
 [^🌴]: Source: _Plane Shift: Zendikar_
 [^🛸]: Source: _Spelljammer: Adventures in Space_
 [^📒1️⃣]: Source: _SRD 5.1_
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms are mechanically equivalent to a High Elf in _SRD 5.2_, the Joraga Nation Elf of Zendikar is mechanically equivalent to a Wood Elf in _SRD 5.2_, and the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_.
+[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, and the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_.
