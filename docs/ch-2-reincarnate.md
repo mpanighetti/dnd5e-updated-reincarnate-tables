@@ -32,7 +32,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 11 | Elf (roll on **[Elves](elves.md)** table for setting) |
 | 12 | Fairy (roll on **[Fairies](fairies.md)** table for ancestry) |
 | 13 | Firbolg[^👹] |
-| 14 | Flamekin[^🌄] [^☄️] |
+| 14 | Flamekin[^🙈] [^☄️] |
 | 15 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
 | 16 | Giff[^🛸] |
 | 17 | Gith (roll on **[Gith](#gith)** table for ancestry) |
@@ -97,7 +97,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | d2 | Ancestry |
 |:-:|:-|
 | 1 | Changeling[^👹] |
-| 2 | Lorwyn Changeling[^🌄] |
+| 2 | Lorwyn Changeling[^👹] [^🎭] |
 
 #### Genasi
 | d4 | Ancestry |
@@ -126,8 +126,8 @@ The reincarnated creature makes any choices that a species' description offers, 
 #### Kithkin
 | d2 | Ancestry |
 |:-:|:-|
-| 1 | Lorwyn Kithkin[^🌄] [^🥑] |
-| 2 | Shadowmoor Kithkin[^🌄] [^🥑] |
+| 1 | Lorwyn Kithkin[^📒2️⃣] [^🥑] |
+| 2 | Shadowmoor Kithkin[^📒2️⃣] [^🥑] |
 
 #### Minotaur
 | d2 | Ancestry |
@@ -183,7 +183,8 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^📒1️⃣]: Source: _SRD 5.1_
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🌫️]: Source: _Van Richten's Guide to Ravenloft_
-[^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The updated Aasimar is not mechanically equivalent to any single prior Aasimar option.
-[^☄️]: A Flamekin in _Lorwyn: First Light_ is mechanically equivalent to a Fire Genasi.
-[^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in _Elemental Evil Player's Companion_. The other ancestries are not mechanically equivalent to any prior Goliath options.
+[^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The Aasimar is not mechanically equivalent to any single prior Aasimar option.
+[^🎭]: The Lorwyn Changeling is mechanically equivalent to a Changeling in _Mordenkainen Presents: Monsters of the Multiverse_.
+[^☄️]: The Flamekin is mechanically equivalent to a Fire Genasi in _Elemental Evil Player's Companion_.
+[^🧌]: The Goliath was updated in _SRD 5.2_ to provide a Giant Ancestry option. The Stone Giant Goliath is mechanically equivalent to a Goliath in previous releases, but the other ancestries are not mechanically equivalent to any prior Goliath options.
 [^🥑]: The Lorwyn Kithkin is mechanically equivalent to a [Halfling](halflings.md) in _SRD 5.2_, and a Shadowmoor Kithkin only adds Darkvision (120 feet) to the Halfling species option.
