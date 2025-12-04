@@ -116,4 +116,4 @@
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_, and the Joraga Nation Elf or Zendikar only removes the Trance trait from the Wood Elf lineage.
+[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_, and the Joraga Nation Elf of Zendikar only removes the Trance trait from the Wood Elf lineage.
