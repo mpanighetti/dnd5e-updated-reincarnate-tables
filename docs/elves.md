@@ -95,7 +95,7 @@
 #### Zendikar Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | Joraga Nation Elf[^🌴] |
+| 1 | Joraga Nation Elf[^📒2️⃣] [^🏹] |
 | 2 | Mul Daya Nation Elf[^🌴] |
 | 3 | Tajuru Nation Elf[^🌴] |
 
@@ -116,4 +116,4 @@
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, and the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_.
+[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_, and the Joraga Nation Elf only removes the Trance trait from the Wood Elf lineage.
