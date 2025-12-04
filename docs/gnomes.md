@@ -10,7 +10,7 @@
 #### Gnomish Lineages
 | d3 | Ancestry |
 |:-:|:-|
-| 1 | Deep Gnome[^🙈] [^🍄‍🟫] |
+| 1 | Deep Gnome[^🙈] [^🌑] |
 | 2 | Forest Gnome[^📒2️⃣] |
 | 3 | Rock Gnome[^📒2️⃣] |
 
@@ -39,4 +39,4 @@
 [^🙈]: Source: _Elemental Evil Player's Companion_
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🍄]: The Tinker Gnome of Dragonlance is mechanically equivalent to a Rock Gnome in _SRD 5.2_.
-[^🍄‍🟫]: The Deep Gnome is interchangeably known as a Svirfneblin.
+[^🌑]: The Deep Gnome is interchangeably known as a Svirfneblin.
