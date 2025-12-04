@@ -19,8 +19,8 @@
 #### Boggarts
 | d2 | Variant |
 |:-:|:-|
-| 1 | Lorwyn Boggart[^🌄] [^🐒] |
-| 2 | Shadowmoor Boggart[^🌄] [^🐒] |
+| 1 | Lorwyn Boggart[^👹] [^🐒] |
+| 2 | Shadowmoor Boggart[^👹] [^🐒] |
 
 #### Forgotten Realms Goblinoids
 | d4 | Variant |
