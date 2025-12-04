@@ -28,9 +28,9 @@
 #### Dragonlance Elves
 | d3 | Variant |
 |:-:|:-|
-| 1 | High Elf[^📒2️⃣] [^🏹] |
+| 1 | High Elf[^📒2️⃣] |
 | 2 | Sea Elf[^👹] |
-| 3 | Wood Elf[^📒2️⃣] [^🏹] |
+| 3 | Wood Elf[^📒2️⃣] |
 
 #### Eberron Elves
 | d11 | Variant |
@@ -39,7 +39,7 @@
 | 2 | Aereni Wood Elf[^🧭] |
 | 3 | Drow[^📒2️⃣] |
 | 4 | High Elf[^📒2️⃣] |
-| 5 | Khoravar[^📒1️⃣] [^🏹] |
+| 5 | Khoravar[^📒1️⃣] [^☯️] |
 | 6 | Mark of Detection Half-Elf[^⚙️] |
 | 7 | Mark of Shadow Elf[^⚙️] |
 | 8 | Mark of Storm Half-Elf[^⚙️] |
@@ -64,9 +64,9 @@
 | 2 | Drow[^📒2️⃣] |
 | 3 | Drow Half-Elf[^🗡️] |
 | 4 | Half-Elf[^📒1️⃣] |
-| 5 | Moon Elf[^📒2️⃣] [^🏹] |
+| 5 | Moon Elf[^📒2️⃣] [^🧝] |
 | 6 | Moon Half-Elf[^🗡️] |
-| 7 | Sun Elf[^📒2️⃣] [^🏹] |
+| 7 | Sun Elf[^📒2️⃣] [^🧝] |
 | 8 | Sun Half-Elf[^🗡️] |
 | 9 | Wood Elf[^📒2️⃣] |
 | 10 | Wood Half-Elf[^🗡️] |
@@ -76,7 +76,7 @@
 |:-:|:-|
 | 1 | Bishtahar Elf[^📒2️⃣] [^🏹] |
 | 2 | Tirahar Elf[^📒2️⃣] [^🏹] |
-| 3 | Vahadar Elf[^📒2️⃣] [^🏹] |
+| 3 | Vahadar Elf[^📒2️⃣] [^🧝] |
 
 #### Lorwyn-Shadowmoor Elves
 | d2 | Lineage |
@@ -116,4 +116,6 @@
 [^📒2️⃣]: Source: _SRD 5.2_
 [^🗡️]: Source: _Sword Coast Adventurer's Guide_
 [^🧭]: Source: _Wayfinder's Guide to Eberron_
-[^🏹]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_, the Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, the Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_, and the Joraga Nation Elf of Zendikar only removes the Trance trait from the Wood Elf lineage.
+[^🧝]: The Moon Elf and Sun Elf of the Forgotten Realms and the Vahadar Elf of Kaladesh are mechanically equivalent to a High Elf in _SRD 5.2_.
+[^🏹]: The Bishtahar and Tirahar Elf of Kaladesh are mechanically equivalent to a Wood Elf in _SRD 5.2_, and the Joraga Nation Elf of Zendikar only removes the Trance trait from the Wood Elf lineage.
+[^☯️]: The Khoravar of Eberron is mechanically equivalent to a Half-Elf in _SRD 5.1_.
